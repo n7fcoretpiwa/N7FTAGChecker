@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>N7F Tag Checker</title>
     <style>
         :root {
@@ -23,20 +23,19 @@
             background-color: var(--dark-bg);
             color: var(--light-text);
             background-image: 
-                linear-gradient(rgba(10, 25, 47, 0.9), rgba(10, 25, 47, 0.9)), 
-                url('file:///C:/Users/DELL/Downloads/N7F%20IMAGE.jpg');
+                linear-gradient(rgba(10, 25, 47, 0.9), rgba(10, 25, 47, 0.9)),
+                url('assets/N7F-IMAGE.jpg');
             background-size: cover;
             background-attachment: fixed;
+            background-position: center;
         }
 
         .container {
-            /* background-color: rgba(10, 25, 47, 0.8); */
             padding: 2rem;
-            /* border-radius: 4px;
-            border: 1px solid var(--secondary-color);
-            box-shadow: 0 0 15px rgba(58, 124, 165, 0.3); */
             max-width: 600px;
             margin: 50px auto;
+            position: relative;
+            z-index: 1;
         }
 
         h1 {
@@ -55,6 +54,47 @@
             height: 3px;
             background: var(--secondary-color);
             margin: 10px auto;
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .logo-text {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: var(--secondary-color);
+            letter-spacing: 3px;
+            text-shadow: 0 0 10px rgba(58, 124, 165, 0.5);
+        }
+
+        .logo-subtext {
+            font-size: 0.8rem;
+            color: var(--neutral-color);
+            letter-spacing: 1px;
+        }
+
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin: 1rem 0;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 2px;
+            border: 1px solid var(--secondary-color);
         }
 
         .input-container {
@@ -101,97 +141,43 @@
 
         .results {
             margin-top: 1rem;
-            /* min-height: 100px;
-            border: 1px dashed var(--secondary-color); */
             padding: 1rem;
-            border-radius: 4px;
         }
 
         .tag-status {
-            /* display: inline-block; */
+            display: inline-block;
+            width: 100%;
             padding: 0.5rem 1rem;
-            margin: 0.25rem;
+            margin: 0.25rem 0;
             border-radius: 4px;
             font-weight: bold;
             font-family: 'Courier New', monospace;
             text-transform: uppercase;
-            /* letter-spacing: 1px;
-            border: 1px solid transparent; */
         }
 
-        .enemy {
-            /* background-color: rgba(217, 58, 58, 0.2); */
-            color: #ff6b6b;
-            border-color: var(--alert-color);
-        }
-
-        .neutral {
-            /* background-color: rgba(96, 125, 139, 0.2); */
-            color: #b0bec5;
-            border-color: var(--neutral-color);
-        }
-
-        .ally {
-            /* background-color: rgba(61, 153, 112, 0.2); */
-            color: #81c784;
-            border-color: var(--success-color);
-        }
+        .enemy     { color: #ff6b6b; }
+        .neutral   { color: #b0bec5; }
+        .ally,
+        .allied    { color: #81c784; }
+        .ceasefire  { color: #ffa726; text-shadow: 0 0 5px rgba(255, 167, 38, 0.4); }
 
         .instructions {
             margin-top: 2rem;
             padding: 1rem;
-            /* background-color: rgba(10, 25, 47, 0.5); */
             border: 1px solid var(--secondary-color);
             border-radius: 4px;
-            /* color: #b0bec5; */
-        }
-
-        .legend {
-            display: flex;
-            justify-content: center;
-            gap: 1.5rem;
-            margin: 1rem 0;
-        }
-
-        .legend-item {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        .legend-color {
-            width: 20px;
-            height: 20px;
-            border-radius: 2px;
-            border: 1px solid var(--secondary-color);
-        }
-
-        .logo {
-            text-align: center;
-            margin-bottom: 1rem;
-        }
-
-        .logo-text {
-            font-size: 1.8rem;
-            font-weight: bold;
-            color: var(--secondary-color);
-            letter-spacing: 3px;
-            text-shadow: 0 0 10px rgba(58, 124, 165, 0.5);
-        }
-
-        .logo-subtext {
-            font-size: 0.8rem;
-            color: var(--neutral-color);
-            letter-spacing: 1px;
+            font-size: 0.95rem;
         }
 
         @media (max-width: 600px) {
             .input-container {
                 flex-direction: column;
             }
-            
             button {
                 width: 100%;
+            }
+            .legend {
+                justify-content: start;
             }
         }
     </style>
@@ -202,117 +188,122 @@
             <div class="logo-text">N7F</div>
             <div class="logo-subtext">N7F CORE TP IWA</div>
         </div>
-        
+
         <h1>N7F Tag Checker</h1>
-        
+
         <div class="legend">
             <div class="legend-item">
-                <div class="legend-color" style="background-color: rgba(217, 58, 58, 0.2); border-color: var(--alert-color);"></div>
+                <div class="legend-color" style="background-color: rgba(217, 58, 58, 0.2);"></div>
                 <span>Enemy</span>
             </div>
             <div class="legend-item">
-                <div class="legend-color" style="background-color: rgba(96, 125, 139, 0.2); border-color: var(--neutral-color);"></div>
+                <div class="legend-color" style="background-color: rgba(96, 125, 139, 0.2);"></div>
                 <span>Neutral</span>
             </div>
             <div class="legend-item">
-                <div class="legend-color" style="background-color: rgba(61, 153, 112, 0.2); border-color: var(--success-color);"></div>
+                <div class="legend-color" style="background-color: rgba(61, 153, 112, 0.2);"></div>
                 <span>Allied</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: rgba(255, 167, 38, 0.2);"></div>
+                <span>Ceasefire</span>
             </div>
         </div>
 
         <div class="input-container">
-            <input type="text" id="tagInput" placeholder="Enter Tag " aria-label="Tag input">
+            <input type="text" id="tagInput" placeholder="Enter Tag" aria-label="Tag input" />
             <button onclick="checkTags()">Search</button>
         </div>
 
-         <div id="results" class="results"></div> 
+        <div id="results" class="results"></div>
 
         <div class="instructions">
             <h3>OPERATIONS MANUAL:</h3>
             <p>Input identifier strings to assess threat level classification:</p>
             <ul>
                 <li><strong>Enemy</strong> - Free to hit</li>
-                <li><strong>Neutral</strong> - Not listed Free to hit</li>
+                <li><strong>Neutral</strong> - Not listed, treat with caution</li>
                 <li><strong>Allied</strong> - Verified Alliance TAG</li>
+                <li><strong>Ceasefire</strong> - Truce active, do not engage</li>
             </ul>
-            <!-- <p style="text-align: right; margin-top: 1rem; font-size: 0.8rem; color: var(--neutral-color);">N7F-ICS v1.0.4</p> -->
         </div>
     </div>
 
     <script>
-        // N7F Intelligence Database
-        const n7fDatabase = {
-            // Hostile signatures
-            'vandal': 'enemy',
-            'spammer': 'enemy',
-            'hacker': 'enemy',
-            'troll': 'enemy',
-            'abuser': 'enemy',
-            'phisher': 'enemy',
-            'scammer': 'enemy',
-            
-            // Allied signatures
-            'moderator': 'allied',
-            'helper': 'ally',
-            'contributor': 'ally',
-            'donor': 'ally',
-            'developer': 'ally',
-            'analyst': 'ally',
-            'operator': 'ally'
-        };
+        let n7fDatabase = {};
+
+        async function loadDatabase() {
+            try {
+                const [enemy, allied, neutral, ceasefire] = await Promise.all([
+                    fetch('./data/enemy.json').then(r => r.json()),
+                    fetch('./data/allied.json').then(r => r.json()),
+                    fetch('./data/neutral.json').then(r => r.json()).catch(() => ({})),
+                    fetch('./data/ceasefire.json').then(r => r.json()).catch(() => ({}))
+                ]);
+
+                n7fDatabase = {
+                    ...enemy,
+                    ...allied,
+                    ...neutral,
+                    ...ceasefire
+                };
+
+                console.log("✅ N7F Database loaded", n7fDatabase);
+            } catch (error) {
+                console.error("❌ Failed to load database:", error);
+                const results = document.getElementById('results');
+                results.innerHTML = `
+                    <p style="color: var(--alert-color); font-weight: bold;">
+                        FATAL: Tag database failed to load.<br>
+                        Check data files and network.
+                    </p>
+                `;
+            }
+        }
 
         function checkTags() {
             const input = document.getElementById('tagInput').value.trim();
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
-            
+
             if (!input) {
                 resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INPUT REQUIRED</p>';
                 return;
             }
 
-            const tags = input.split(',').map(tag => tag.trim()).filter(tag => tag);
-            
+            const tags = input.split(',')
+                             .map(tag => tag.trim())
+                             .filter(tag => tag);
+
             if (tags.length === 0) {
                 resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INVALID INPUT FORMAT</p>';
                 return;
             }
 
             const fragment = document.createDocumentFragment();
-            
+
             tags.forEach(tag => {
                 const status = n7fDatabase[tag.toLowerCase()] || 'neutral';
-                const statusSpan = document.createElement('span');
-                statusSpan.className = `tag-status ${status}`;
-                statusSpan.textContent = tag;
-                
-                // Add status text for screen readers
-                const statusText = document.createElement('span');
-                statusText.className = 'sr-only';
-                statusText.textContent = ` (${status})`;
-                statusSpan.appendChild(statusText);
-                
-                fragment.appendChild(statusSpan);
+                const span = document.createElement('span');
+                span.className = `tag-status ${status}`;
+                span.textContent = tag;
+                fragment.appendChild(span);
                 fragment.appendChild(document.createElement('br'));
             });
 
             resultsDiv.appendChild(fragment);
             resultsDiv.scrollIntoView({ behavior: 'smooth' });
-
-            // Focus back on input for next check
             document.getElementById('tagInput').focus();
         }
 
-        // Allow scanning by pressing Enter key
-        document.getElementById('tagInput').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                checkTags();
-            }
+        document.getElementById('tagInput').addEventListener('keypress', e => {
+            if (e.key === 'Enter') checkTags();
         });
 
-        // Initial focus on input
-        document.getElementById('tagInput').focus();
+        window.addEventListener('DOMContentLoaded', () => {
+            loadDatabase();
+            document.getElementById('tagInput').focus();
+        });
     </script>
 </body>
 </html>
-

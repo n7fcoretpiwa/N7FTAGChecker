@@ -1,29 +1,11 @@
 {
-  "name": "DSY",
-  "description": "Redirects WarCommander.js",
-  "version": "1.0",
-  "manifest_version": 3,
-  "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
-  },
-  "action": {
-    "default_icon": "icon.png",
-    "default_title": "DSY"
-  },
-  "host_permissions": [
-    "*://kixeye.com/*",
-    "*://wc-origin.cdn-kixeye.com/*"
-  ],
-  "permissions": [
-    "declarativeNetRequest",
-    "declarativeNetRequestWithEnterpriseEnforcement"
-  ],
-  "background": {
-    "service_worker": "NUF.js"
-  },
-  "externally_connectable": {
-    "matches": ["<all_urls>"]
-  }
+  "PLUMB": "neutral",
+  "_RM_": "neutral",
+  "W--B": "neutral",
+  "GYGR": "neutral",
+  "N7-HS": "neutral",
+  "W—-B": "neutral",
+  "N_A": "neutral",
+  "TPHNK": "neutral",
+  "No Name": "neutral"
 }

@@ -32,7 +32,7 @@
 
     .container {
       max-width: 800px;
-      margin: 40px auto; /* Reduced from 50px */
+      margin: 40px auto;
       padding: 1.5rem;
       position: relative;
       z-index: 1;
@@ -154,7 +154,7 @@
       font-weight: bold;
       font-family: 'Courier New', monospace;
       text-transform: uppercase;
-      font-size: 28px; /* Slightly smaller for compactness */
+      font-size: 28px;
       text-align: center;
     }
 
@@ -191,19 +191,18 @@
       padding-left: 1.3rem;
     }
 
-    /* Centered Logo - 1.8x Size & Moved Up */
+    /* Centered Logo - Hidden on Mobile */
     .center-logo {
       text-align: center;
       margin: 1.2rem 0 0.4rem 0;
     }
 
     .center-logo img {
-      width: 350px;
+      width: 432px;
       height: auto;
       border-radius: 12px;
     }
 
-    /* ✅ Hide Logo on Mobile Only */
     @media (max-width: 768px) {
       .center-logo {
         display: none !important;
@@ -230,7 +229,6 @@
       }
     }
 
-    /* Extra small screens */
     @media (max-height: 900px), (max-width: 480px) {
       .container {
         margin-top: 20px;
@@ -297,7 +295,7 @@
       </ul>
     </div>
 
-    <!-- ✅ Logo Below Instructions - Hidden on Mobile -->
+    <!-- Logo Below Instructions -->
     <div class="center-logo">
       <img src="assets/logo-small.png" alt="N7F Logo" />
     </div>
@@ -313,11 +311,8 @@
         const response = await fetch('tags.json');
         if (!response.ok) throw new Error('Failed to load tags.json');
         const data = await response.json();
-        // Convert all keys to lowercase for case-insensitive matching
-        Object.keys(data).forEach(key => {
-          const lowerKey = key.toLowerCase();
-          n7fDatabase[lowerKey] = data[key];
-        });
+        // ✅ Store keys EXACTLY as written in JSON (case-sensitive)
+        n7fDatabase = data;
       } catch (error) {
         console.error("Error loading database:", error);
         document.getElementById('results').innerHTML = 
@@ -346,8 +341,8 @@
 
       const fragment = document.createDocumentFragment();
       tags.forEach(tag => {
-        const lowerTag = tag.toLowerCase();
-        const entry = n7fDatabase[lowerTag];
+        // ✅ Case-Sensitive Lookup: No .toLowerCase()
+        const entry = n7fDatabase[tag];
 
         let status = 'unlisted';
         let note = null;

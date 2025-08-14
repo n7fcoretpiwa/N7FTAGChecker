@@ -27,24 +27,6 @@
       background-size: cover;
       background-attachment: fixed;
       background-position: center;
-      position: relative;
-    }
-
-    /* Floating Logo - Top Left (Refined) */
-    .floating-logo {
-      position: fixed;
-      top: 50px;        /* Moved down */
-      left: 50px;       /* Moved right */
-      z-index: 1000;
-      pointer-events: none;
-      opacity: 0.95;
-    }
-
-    .floating-logo img {
-      width: 240px;     /* Increased from 200px → 240px */
-      height: auto;
-      border-radius: 12px;
-      /* Removed box-shadow/glow completely */
     }
 
     .container {
@@ -90,6 +72,18 @@
       height: 3px;
       background: var(--secondary-color);
       margin: 10px auto;
+    }
+
+    /* Centered Logo Below Text */
+    .center-logo {
+      text-align: center;
+      margin: 2rem 0 3rem 0;
+    }
+
+    .center-logo img {
+      width: 240px;
+      height: auto;
+      border-radius: 12px;
     }
 
     .legend {
@@ -159,6 +153,7 @@
     .results {
       margin-top: 1rem;
       padding: 1rem;
+      text-align: center;
     }
 
     .tag-status {
@@ -183,7 +178,6 @@
     .tag-note {
       margin-top: -0.5rem;
       margin-bottom: 0.75rem;
-      margin-left: 1.5rem;
       font-size: 0.85rem;
       color: rgba(255, 255, 255, 0.7);
       font-style: italic;
@@ -196,40 +190,19 @@
       border-radius: 4px;
       font-size: 0.95rem;
     }
-
-    /* Responsive: Adjust logo size and position on smaller screens */
-    @media (max-width: 768px) {
-      .floating-logo {
-        top: 30px;
-        left: 30px;
-      }
-      .floating-logo img {
-        width: 140px; /* Smaller on tablet */
-      }
-    }
-
-    @media (max-width: 480px) {
-      .floating-logo {
-        top: 20px;
-        left: 20px;
-      }
-      .floating-logo img {
-        width: 100px; /* Small on mobile */
-      }
-    }
   </style>
 </head>
 <body>
-
-  <!-- Floating Logo - Top Left (Larger, No Glow, Slightly Offset) -->
-  <div class="floating-logo">
-    <img src="assets/logo-small.png" alt="N7F Logo" />
-  </div>
 
   <div class="container">
     <div class="logo">
       <div class="logo-text">N7F-CORE-TP-IWA</div>
       <div class="logo-subtext">N7F TAG CHECKER</div>
+    </div>
+
+    <!-- Centered Logo Below Text -->
+    <div class="center-logo">
+      <img src="assets/logo-small.png" alt="N7F Logo" />
     </div>
 
     <!-- Legend -->
@@ -331,9 +304,10 @@
           note = entry.note || null;
         }
 
+        // ✅ Show ONLY the status (e.g., "ENEMY") — not tag name
         const div = document.createElement('div');
         div.className = `tag-status ${status}`;
-        div.textContent = `${tag} — ${status.toUpperCase()}`;
+        div.textContent = status.toUpperCase();  // Only status
         fragment.appendChild(div);
 
         if (note) {

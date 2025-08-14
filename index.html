@@ -30,21 +30,21 @@
       position: relative;
     }
 
-    /* Floating Logo - Top Left */
+    /* Floating Logo - Top Left (Refined) */
     .floating-logo {
       position: fixed;
-      top: 30px;
-      left: 30px;
+      top: 50px;        /* Moved down */
+      left: 50px;       /* Moved right */
       z-index: 1000;
       pointer-events: none;
       opacity: 0.95;
     }
 
     .floating-logo img {
-      width: 200px;        /* Increased size (~10x visible impact) */
+      width: 240px;     /* Increased from 200px → 240px */
       height: auto;
       border-radius: 12px;
-      box-shadow: 0 0 20px rgba(58, 124, 165, 0.8);
+      /* Removed box-shadow/glow completely */
     }
 
     .container {
@@ -178,7 +178,7 @@
     .allied, .ally { color: #81c784; }
     .ceasefire { color: #ffa726; text-shadow: 0 0 5px rgba(255, 167, 38, 0.4); }
     .neutral { color: #b0bec5; }
-    .unlisted { color: #ff9800; }
+    .unlisted { color: #1d93a7; }
 
     .tag-note {
       margin-top: -0.5rem;
@@ -197,30 +197,31 @@
       font-size: 0.95rem;
     }
 
-    /* Responsive: Reduce logo size on small screens */
+    /* Responsive: Adjust logo size and position on smaller screens */
     @media (max-width: 768px) {
       .floating-logo {
-        top: 15px;
-        left: 15px;
+        top: 30px;
+        left: 30px;
       }
       .floating-logo img {
-        width: 120px; /* Smaller on mobile */
-      }
-      .container {
-        margin-top: 30px;
+        width: 140px; /* Smaller on tablet */
       }
     }
 
     @media (max-width: 480px) {
+      .floating-logo {
+        top: 20px;
+        left: 20px;
+      }
       .floating-logo img {
-        width: 100px;
+        width: 100px; /* Small on mobile */
       }
     }
   </style>
 </head>
 <body>
 
-  <!-- Floating Logo - Top Left Corner (Large) -->
+  <!-- Floating Logo - Top Left (Larger, No Glow, Slightly Offset) -->
   <div class="floating-logo">
     <img src="assets/logo-small.png" alt="N7F Logo" />
   </div>
@@ -250,7 +251,7 @@
         <span>Neutral</span>
       </div>
       <div class="legend-item">
-        <div class="legend-color" style="background-color: #ff9800;"></div>
+        <div class="legend-color" style="background-color: #1d93a7;"></div>
         <span>Unlisted</span>
       </div>
     </div>

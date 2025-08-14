@@ -1,0 +1,139 @@
+{
+  "uswc": {
+    "status": "enemy",
+    "note": "Primary hostile faction. Free to hit."
+  },
+  "smart": {
+    "status": "ceasefire",
+    "note": "Truce active until further notice."
+  },
+  "aow_4": {
+    "status": "allied",
+    "note": "Verified ally. Coordinate ops."
+  },
+  "fjb": {
+    "status": "enemy",
+    "note": "Extremist splinter group."
+  },
+  "hush": {
+    "status": "allied",
+    "note": "Covert asset. Maintain deniability."
+  },
+  "plumb": {
+    "status": "neutral",
+    "note": "Unaffiliated. Observe and report."
+  },
+  "wall": {
+    "status": "enemy",
+    "note": "High-priority target. Avoid negotiation."
+  },
+  "n7-hs": {
+    "status": "neutral",
+    "note": "Student org. Non-combatant."
+  },
+  "fed2": {
+    "status": "enemy"
+  },
+  "maxx": {
+    "status": "allied"
+  },
+  "undefined": {
+    "status": "allied"
+  },
+  "ar-15": {
+    "status": "allied"
+  },
+  "sn1m": {
+    "status": "allied"
+  },
+  "t-b-p": {
+    "status": "allied"
+  },
+  "a57": {
+    "status": "allied"
+  },
+  "ek1": {
+    "status": "allied"
+  },
+  "m-sog": {
+    "status": "allied"
+  },
+  "alb-u": {
+    "status": "allied"
+  },
+  "tbb-b": {
+    "status": "allied"
+  },
+  "ragnk": {
+    "status": "allied"
+  },
+  "m4l-": {
+    "status": "allied"
+  },
+  "n_o_c": {
+    "status": "allied"
+  },
+  "nutc": {
+    "status": "allied"
+  },
+  "sgw": {
+    "status": "allied"
+  },
+  "b_u_k": {
+    "status": "allied"
+  },
+  "fghtr": {
+    "status": "allied"
+  },
+  "it-ix": {
+    "status": "allied"
+  },
+  "soa_2": {
+    "status": "allied"
+  },
+  "iduk": {
+    "status": "allied"
+  },
+  "preus": {
+    "status": "allied"
+  },
+  "nem-e": {
+    "status": "allied"
+  },
+  "cc_": {
+    "status": "allied"
+  },
+  "boost": {
+    "status": "allied"
+  },
+  "wp-zc": {
+    "status": "allied"
+  },
+  "salem": {
+    "status": "allied"
+  },
+  "old": {
+    "status": "allied"
+  },
+  "es-lf": {
+    "status": "allied"
+  },
+  "ib-": {
+    "status": "allied"
+  },
+  "isf": {
+    "status": "allied"
+  },
+  "un100": {
+    "status": "allied"
+  },
+  "wcsf": {
+    "status": "allied"
+  },
+  "hurtf": {
+    "status": "allied"
+  },
+  "sshhh": {
+    "status": "allied"
+  }
+}

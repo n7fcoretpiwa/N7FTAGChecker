@@ -1589,39 +1589,33 @@
 
         // === TAG CHECK FUNCTION ===
         function checkTags() {
-            const input = document.getElementById('tagInput').value.trim();
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = '';
-
-            if (!input) {
-                resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INPUT REQUIRED</p>';
-                return;
-            }
-
-            const tags = input.split(',')
-                             .map(tag => tag.trim())
-                             .filter(tag => tag);
-
-            if (tags.length === 0) {
-                resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INVALID INPUT FORMAT</p>';
-                return;
-            }
-
-            const fragment = document.createDocumentFragment();
-
-            tags.forEach(tag => {
-                const status = n7fDatabase[tag.toLowerCase()] || 'neutral';
-                const span = document.createElement('span');
-                span.className = `tag-status ${status}`;
-                span.textContent = tag;
-                fragment.appendChild(span);
-                fragment.appendChild(document.createElement('br'));
-            });
-
-            resultsDiv.appendChild(fragment);
-            resultsDiv.scrollIntoView({ behavior: 'smooth' });
-            document.getElementById('tagInput').focus();
-        }
+    const input = document.getElementById('tagInput').value.trim();
+    const resultsDiv = document.getElementById('results');
+    resultsDiv.innerHTML = '';
+    if (!input) {
+        resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INPUT REQUIRED</p>';
+        return;
+    }
+    const tags = input.split(',')
+                     .map(tag => tag.trim())
+                     .filter(tag => tag);
+    if (tags.length === 0) {
+        resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INVALID INPUT FORMAT</p>';
+        return;
+    }
+    const fragment = document.createDocumentFragment();
+    tags.forEach(tag => {
+        const status = n7fDatabase[tag.toLowerCase()] || 'neutral';
+        const span = document.createElement('span');
+        span.className = `tag-status ${status}`;
+        span.textContent = `${tag} — ${status.toUpperCase()}`;
+        fragment.appendChild(span);
+        fragment.appendChild(document.createElement('br'));
+    });
+    resultsDiv.appendChild(fragment);
+    resultsDiv.scrollIntoView({ behavior: 'smooth' });
+    document.getElementById('tagInput').focus();
+}
 
         // Support Enter key
         document.getElementById('tagInput').addEventListener('keypress', e => {

@@ -121,6 +121,9 @@
     "fed2": {
         "status": "enemy"
     },
+    "acs": {
+        "status": "enemy"
+    },
     "cop": {
         "status": "allied"
     },

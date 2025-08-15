@@ -22,3720 +22,3727 @@
     },
     "868": {
         "status": "enemy",
-        "note": "el-deabloxx"
+        "note": "EL-Deabloxx"
     },
     "1893": {
         "status": "allied"
     },
-    "aow_4": {
-        "status": "allied"
+    "AOW_4": {
+        "status": "allied",
+        "note": "Kk"
     },
-    "uswc": {
+    "USWC": {
         "status": "enemy",
         "note": "listed on WWW - clarify who and where they are"
     },
-    "ads-r": {
+    "ADS-R": {
         "status": "allied"
     },
-    "_aze_": {
+    "_AZE_": {
         "status": "allied"
     },
-    "dg-f": {
+    "DG-F": {
         "status": "enemy"
     },
-    "crou": {
+    "CROU": {
         "status": "allied"
     },
-    "alb-c": {
+    "ALB-C": {
         "status": "allied"
     },
-    "us171": {
+    "US171": {
         "status": "allied"
     },
-    "d-k": {
+    "D-K": {
         "status": "allied"
     },
-    "doors": {
+    "DOORS": {
         "status": "allied"
     },
-    "monki": {
+    "MONKI": {
         "status": "allied"
     },
-    "cs-4l": {
+    "CS-4L": {
         "status": "allied"
     },
-    "emobf": {
+    "EMOBF": {
         "status": "allied"
     },
-    "b-n": {
+    "B-N": {
         "status": "allied"
     },
-    "odst": {
+    "ODST": {
         "status": "allied"
     },
-    "ous": {
+    "OUS": {
         "status": "allied"
     },
-    "nhsgh": {
+    "NHSGH": {
         "status": "allied"
     },
-    "rm_b": {
+    "RM_B": {
         "status": "allied"
     },
-    "uaake": {
+    "UAAKE": {
         "status": "allied"
     },
-    "art": {
+    "ART": {
         "status": "allied"
     },
-    "svu": {
+    "SVU": {
         "status": "allied"
     },
-    "scri": {
+    "SCRI": {
         "status": "allied"
     },
-    "f-u2": {
+    "F-U2": {
         "status": "allied"
     },
-    "-ugh-": {
+    "-UGH-": {
         "status": "allied"
     },
-    "sec1": {
+    "SEC1": {
         "status": "allied"
     },
-    "ammo": {
+    "AMMO": {
         "status": "allied"
     },
-    "2sec": {
+    "2SEC": {
         "status": "allied"
     },
-    "bss": {
+    "BSS": {
         "status": "allied"
     },
-    "-bog-": {
+    "-BOG-": {
         "status": "allied"
     },
-    "f4f": {
+    "F4F": {
         "status": "allied"
     },
-    "fed2": {
+    "FED2": {
         "status": "enemy"
     },
-    "acs": {
-        "status": "enemy"
-    },
-    "cop": {
+    "COP": {
         "status": "allied"
     },
-    "gen-k": {
+    "GEN-K": {
         "status": "allied"
     },
-    "s-o-v": {
+    "S-O-V": {
         "status": "enemy"
     },
-    "s3xy": {
+    "S3XY": {
         "status": "enemy",
         "note": "Sector 110"
     },
-    "bbros": {
+    "BBROS": {
         "status": "allied"
     },
-    "qtaq": {
+    "QTAQ": {
         "status": "allied"
     },
-    "ds-26": {
+    "DS-26": {
         "status": "allied"
     },
-    "post": {
+    "POST": {
         "status": "allied"
     },
-    "fb1": {
+    "FB1": {
         "status": "enemy"
     },
-    "iitz": {
+    "IITZ": {
         "status": "allied"
     },
-    "-ktw-": {
+    "-KTW-": {
         "status": "allied"
     },
-    "s331": {
+    "S331": {
         "status": "allied"
     },
-    "gunit": {
+    "GUNIT": {
         "status": "allied"
     },
-    "btro": {
+    "BTRO": {
         "status": "allied"
     },
-    "_ck_": {
+    "_CK_": {
         "status": "enemy",
         "note": "BMF"
     },
-    "borgs": {
+    "BORGS": {
         "status": "allied"
     },
-    "c-1-5": {
+    "C-1-5": {
         "status": "allied"
     },
-    "fae": {
+    "FAE": {
         "status": "allied"
     },
-    "kill": {
+    "KILL": {
         "status": "allied"
     },
-    "_pc_": {
+    "_PC_": {
         "status": "allied"
     },
-    "fed3": {
+    "FED3": {
         "status": "enemy"
     },
-    "kt12": {
+    "KT12": {
         "status": "allied"
     },
-    "craz1": {
+    "CRAZ1": {
         "status": "enemy"
     },
-    "sex-m": {
+    "SEX-M": {
         "status": "allied"
     },
-    "drab": {
+    "DRAB": {
         "status": "allied"
     },
-    "m75": {
+    "M75": {
         "status": "allied"
     },
-    "vasii": {
+    "VASII": {
         "status": "allied"
     },
-    "f_u": {
+    "F_U": {
         "status": "allied"
     },
-    "_kuk_": {
+    "_KUK_": {
         "status": "allied"
     },
-    "barts": {
+    "BARTS": {
         "status": "allied"
     },
-    "y_c": {
+    "Y_C": {
         "status": "allied"
     },
-    "bih-s": {
+    "BIH-S": {
         "status": "allied"
     },
-    "firma": {
+    "FIRMA": {
         "status": "allied"
     },
-    "npza": {
+    "NPZA": {
         "status": "allied"
     },
-    "kntbh": {
+    "KNTBH": {
         "status": "allied",
         "note": "KT alt"
     },
-    "ss300": {
+    "SS300": {
         "status": "allied"
     },
-    "brisk": {
+    "BRISK": {
         "status": "allied"
     },
-    "xp lod": {
+    "XPLOD": {
         "status": "allied"
     },
-    "fkwww": {
+    "FKWWW": {
         "status": "allied"
     },
-    "akr-p": {
+    "AKR-P": {
         "status": "allied"
     },
-    "s_100": {
+    "S_100": {
         "status": "allied"
     },
-    "warsq": {
+    "WARSQ": {
         "status": "allied"
     },
-    "k2ll": {
+    "K2LL": {
         "status": "allied"
     },
-    "fjb": {
+    "FJB": {
         "status": "enemy"
     },
-    "asan": {
+    "ASAN": {
         "status": "allied"
     },
-    "cuf": {
+    "CUF": {
         "status": "allied"
     },
-    "4f": {
+    "4F": {
         "status": "enemy"
     },
-    "hench": {
+    "HENCH": {
         "status": "enemy"
     },
-    "b-r-f": {
+    "B-R-F": {
         "status": "allied"
     },
-    "dmes2": {
+    "DMES2": {
         "status": "enemy"
     },
-    "d-w": {
+    "D-W": {
         "status": "enemy"
     },
-    "bless": {
+    "BLESS": {
         "status": "enemy"
     },
-    "akrep": {
+    "AKREP": {
         "status": "allied"
     },
-    "sga": {
+    "SGA": {
         "status": "allied"
     },
-    "mp184": {
+    "MP184": {
         "status": "allied"
     },
-    "m0h": {
+    "M0H": {
         "status": "allied"
     },
-    "rea_1": {
+    "REA_1": {
         "status": "enemy"
     },
-    "iwa": {
+    "IWA": {
         "status": "allied"
     },
-    "smart": {
+    "SMART": {
         "status": "ceasefire"
     },
-    "twr": {
+    "TWR": {
         "status": "enemy"
     },
-    "15th": {
+    "15TH": {
         "status": "allied"
     },
-    "_eos_": {
+    "_EOS_": {
         "status": "allied"
     },
-    "farmy": {
+    "FARMY": {
         "status": "allied"
     },
-    "440w": {
+    "440W": {
         "status": "allied"
     },
-    "burnc": {
+    "BURNC": {
         "status": "enemy",
         "note": "Allied to 70 and 94"
     },
-    "163hs": {
+    "163HS": {
         "status": "allied"
     },
-    "tf--x": {
+    "TF--X": {
         "status": "allied"
     },
-    "bmf": {
+    "BMF": {
         "status": "enemy"
     },
-    "fed": {
+    "FED": {
         "status": "enemy"
     },
-    "cris": {
+    "CRIS": {
         "status": "allied",
         "note": "Core allies"
     },
-    "dc-x": {
+    "DC-X": {
         "status": "allied"
     },
-    "sof1": {
+    "SOF1": {
         "status": "allied"
     },
-    "k_o_b": {
+    "K_O_B": {
         "status": "enemy"
     },
-    "aiden": {
+    "AIDEN": {
         "status": "allied"
     },
-    "f1ght": {
+    "F1GHT": {
         "status": "enemy"
     },
-    "rcell": {
+    "RCELL": {
         "status": "enemy",
         "note": "Tag stolen"
     },
-    "aa": {
-        "status": "ceasefire"
-    },
-    "_king_": {
-        "status": "allied"
-    },
-    "sa999": {
-        "status": "allied"
-    },
-    "eagle": {
-        "status": "allied"
-    },
-    "eire": {
+    "AA": {
         "status": "enemy"
     },
-    "ti-in": {
+    "_KING_": {
         "status": "allied"
     },
-    "e-20": {
+    "SA999": {
         "status": "allied"
     },
-    "fsm1": {
+    "EAGLE": {
+        "status": "allied"
+    },
+    "EIRE": {
         "status": "enemy"
     },
-    "grf1": {
+    "TI-IN": {
         "status": "allied"
     },
-    "1free": {
+    "E-20": {
         "status": "allied"
     },
-    "hd1": {
-        "status": "allied"
-    },
-    "media": {
-        "status": "allied"
-    },
-    "afet": {
-        "status": "allied"
-    },
-    "-bmf-": {
+    "FSM1": {
         "status": "enemy"
     },
-    "nt fu": {
+    "GRF1": {
         "status": "allied"
     },
-    "wwwb": {
+    "1FREE": {
         "status": "allied"
     },
-    "-fed-": {
+    "HD1": {
+        "status": "allied"
+    },
+    "MEDIA": {
+        "status": "allied"
+    },
+    "AFET": {
+        "status": "allied"
+    },
+    "-BMF-": {
         "status": "enemy"
     },
-    "nice1": {
-        "status": "enemy"
-    },
-    "hoez": {
+    "NT FU": {
         "status": "allied"
     },
-    "will-": {
+    "WWWB": {
         "status": "allied"
     },
-    "wcsf1": {
+    "-FED-": {
         "status": "enemy"
     },
-    "bpr": {
+    "NICE1": {
         "status": "enemy"
     },
-    "-doc-": {
-        "status": "enemy"
-    },
-    "cora": {
+    "HOEZ": {
         "status": "allied"
     },
-    "fl": {
+    "WILL-": {
         "status": "allied"
     },
-    "awol": {
+    "WCSF1": {
+        "status": "enemy"
+    },
+    "BPR": {
+        "status": "enemy"
+    },
+    "-DOC-": {
+        "status": "enemy"
+    },
+    "CORA": {
+        "status": "allied"
+    },
+    "FL": {
+        "status": "allied"
+    },
+    "AWOL": {
         "status": "allied",
         "note": "IWA"
     },
-    "n7fl": {
+    "N7FL": {
         "status": "enemy",
         "note": "fake tag"
     },
-    "samis": {
+    "SAMIS": {
         "status": "allied"
     },
-    "bald": {
+    "BALD": {
         "status": "enemy"
     },
-    "wh": {
+    "WH": {
         "status": "allied"
     },
-    "dksd": {
+    "DKSD": {
         "status": "allied"
     },
-    "iaaun": {
+    "IAAUN": {
         "status": "allied"
     },
-    "h-r": {
+    "H-R": {
         "status": "allied"
     },
-    "mt-w": {
+    "MT-W": {
         "status": "allied"
     },
-    "tgaog": {
+    "TGAOG": {
         "status": "allied"
     },
-    "g_m_w": {
+    "G_M_W": {
         "status": "enemy"
     },
-    "owell": {
+    "OWELL": {
         "status": "allied"
     },
-    "8om8s": {
+    "8OM8S": {
         "status": "allied"
     },
-    "ta-ta": {
+    "TA-TA": {
         "status": "allied"
     },
-    "fff--": {
+    "FFF--": {
         "status": "allied"
     },
-    "ktwar": {
+    "KTWAR": {
         "status": "allied"
     },
-    "oo3oo": {
+    "OO3OO": {
         "status": "allied"
     },
-    "srb_i": {
+    "SRB_I": {
         "status": "allied"
     },
-    "b-a-d": {
+    "B-A-D": {
         "status": "enemy"
     },
-    "indo_": {
+    "INDO_": {
         "status": "allied"
     },
-    "unfgn": {
+    "UNFGN": {
         "status": "allied"
     },
-    "jzfkr": {
+    "JZFKR": {
         "status": "allied"
     },
-    "esfab": {
+    "ESFAB": {
         "status": "allied",
         "note": "Core allies"
     },
-    "tfmc": {
+    "TFMC": {
         "status": "allied",
         "note": "see KRJ"
     },
-    "fof": {
+    "FOF": {
         "status": "allied"
     },
-    "s-c": {
+    "S-C": {
         "status": "allied"
     },
-    "fab-": {
+    "FAB-": {
         "status": "allied"
     },
-    "iordr": {
+    "IORDR": {
         "status": "allied"
     },
-    "i_am": {
+    "I_AM": {
         "status": "allied"
     },
-    "smsqd": {
+    "SMSQD": {
         "status": "allied"
     },
-    "ll": {
+    "LL": {
         "status": "allied"
     },
-    "nietz": {
+    "NIETZ": {
         "status": "allied"
     },
-    "krieg": {
+    "KRIEG": {
         "status": "allied"
     },
-    "kings": {
+    "KINGS": {
         "status": "allied",
         "note": "Core allies"
     },
-    "-uwu-": {
+    "-UWU-": {
         "status": "allied"
     },
-    "kurup": {
+    "KURUP": {
         "status": "allied"
     },
-    "p40": {
+    "P40": {
         "status": "allied"
     },
-    "s-a": {
+    "S-A": {
         "status": "enemy"
     },
-    "cfm2": {
+    "CFM2": {
         "status": "allied",
         "note": "Core allies"
     },
-    "tomm": {
+    "TOMM": {
         "status": "allied"
     },
-    "ke": {
+    "KE": {
         "status": "enemy"
     },
-    "raxs": {
+    "RAXS": {
         "status": "enemy"
     },
-    "dg": {
+    "DG": {
         "status": "enemy"
     },
-    "zw ar": {
+    "ZWAR": {
         "status": "allied"
     },
-    "uk-en": {
+    "UK-EN": {
         "status": "enemy"
     },
-    "s46s": {
+    "S46S": {
         "status": "allied"
     },
-    "meow": {
+    "MEOW": {
         "status": "allied"
     },
-    "pl": {
+    "PL": {
         "status": "allied"
     },
-    "madco": {
+    "MADCO": {
         "status": "allied"
     },
-    "imazt": {
+    "IMAZT": {
         "status": "allied"
     },
-    "trf1": {
+    "TRF1": {
         "status": "allied"
     },
-    "nem-r": {
+    "NEM-R": {
         "status": "allied"
     },
-    "otlwi": {
+    "OTLWI": {
         "status": "allied"
     },
-    "b52": {
+    "B52": {
         "status": "allied"
     },
-    "smct": {
+    "SMCT": {
         "status": "enemy"
     },
-    "tbf": {
+    "TBF": {
         "status": "allied"
     },
-    "azusa": {
+    "AZUSA": {
         "status": "allied"
     },
-    "bunny": {
+    "BUNNY": {
         "status": "allied",
         "note": "Core allies"
     },
-    "f4f-r": {
+    "F4F-R": {
         "status": "allied"
     },
-    "swf": {
+    "SWF": {
         "status": "allied"
     },
-    "-bg-1": {
+    "-BG-1": {
         "status": "allied"
     },
-    "x----": {
+    "X----": {
         "status": "allied"
     },
-    "x_men": {
+    "X_MEN": {
         "status": "allied"
     },
-    "lktao": {
+    "LKTAO": {
         "status": "allied"
     },
-    "alg-x": {
+    "ALG-X": {
         "status": "allied"
     },
-    "kismy": {
+    "KISMY": {
         "status": "allied"
     },
-    "hof": {
+    "HOF": {
         "status": "allied"
     },
-    "gfs": {
+    "GFS": {
         "status": "allied"
     },
-    "-k-w-": {
+    "-K-W-": {
         "status": "enemy"
     },
-    "tbb43": {
+    "TBB43": {
         "status": "allied"
     },
-    "x___x": {
+    "X___X": {
         "status": "allied"
     },
-    "kunte": {
+    "KUNTE": {
         "status": "allied"
     },
-    "ha_ja": {
+    "HA_JA": {
         "status": "allied"
     },
-    "ptbi": {
+    "PTBI": {
         "status": "allied"
     },
-    "fu_up": {
+    "FU_UP": {
         "status": "allied"
     },
-    "tgag": {
+    "TGAG": {
         "status": "allied"
     },
-    "_n7_": {
+    "_N7_": {
         "status": "allied"
     },
-    "tf-ik": {
+    "TF-IK": {
         "status": "allied"
     },
-    "th3": {
+    "TH3": {
         "status": "allied"
     },
-    "khala": {
+    "KHALA": {
         "status": "allied"
     },
-    "lokos": {
+    "LOKOS": {
         "status": "allied"
     },
-    "loal": {
+    "LOAL": {
         "status": "allied"
     },
-    "najb": {
+    "NAJB": {
         "status": "allied"
     },
-    "r_leb": {
+    "R_LEB": {
         "status": "allied"
     },
-    "bitme": {
+    "BITME": {
         "status": "enemy"
     },
-    "kt-p": {
+    "KT-P": {
         "status": "allied"
     },
-    "new_w": {
+    "NEW_W": {
         "status": "allied"
     },
-    "un-ti": {
+    "UN-TI": {
         "status": "allied"
     },
-    "v7nom": {
+    "V7NOM": {
         "status": "enemy"
     },
-    "trea3": {
+    "TREA3": {
         "status": "allied"
     },
-    "-lck-": {
+    "-LCK-": {
         "status": "allied"
     },
-    "w--b": {
-        "status": "neutral"
-    },
-    "grrr": {
-        "status": "allied"
-    },
-    "spl": {
-        "status": "allied"
-    },
-    "tigr": {
-        "status": "allied"
-    },
-    "thom": {
-        "status": "allied"
-    },
-    "f4f-p": {
-        "status": "allied"
-    },
-    "uac": {
+    "W--B": {
         "status": "enemy"
     },
-    "usav": {
+    "GRRR": {
+        "status": "allied"
+    },
+    "SPL": {
+        "status": "allied"
+    },
+    "TIGR": {
+        "status": "allied"
+    },
+    "THOM": {
+        "status": "allied"
+    },
+    "F4F-P": {
+        "status": "allied"
+    },
+    "UAC": {
         "status": "enemy"
     },
-    "mf-o": {
-        "status": "allied"
-    },
-    "uf154": {
-        "status": "allied"
-    },
-    "rea": {
+    "USAV": {
         "status": "enemy"
     },
-    "kght": {
+    "MF-O": {
         "status": "allied"
     },
-    "as-1": {
+    "UF154": {
         "status": "allied"
     },
-    "a-t-f": {
+    "REA": {
+        "status": "enemy"
+    },
+    "KGHT": {
         "status": "allied"
     },
-    "ghst": {
+    "AS-1": {
         "status": "allied"
     },
-    "g-1": {
+    "A-T-F": {
         "status": "allied"
     },
-    "cro-z": {
+    "GHST": {
+        "status": "allied"
+    },
+    "G-1": {
+        "status": "allied"
+    },
+    "CRO-Z": {
         "status": "allied",
         "note": "Core allies"
     },
-    "-dnj-": {
+    "-DNJ-": {
         "status": "enemy"
     },
-    "e5195": {
+    "E5195": {
         "status": "allied"
     },
-    "ds": {
+    "DS": {
         "status": "enemy"
     },
-    "un143": {
+    "UN143": {
         "status": "allied"
     },
-    "g2g2": {
+    "G2G2": {
         "status": "enemy"
     },
-    "ant_a": {
+    "ANT_A": {
         "status": "allied"
     },
-    "ktzar": {
+    "KTZAR": {
         "status": "allied"
     },
-    "razs": {
+    "RAZS": {
         "status": "enemy"
     },
-    "r-f-c": {
+    "R-F-C": {
         "status": "enemy"
     },
-    "ulm": {
+    "ULM": {
         "status": "allied"
     },
-    "a4": {
+    "A4": {
         "status": "allied"
     },
-    "rakia": {
+    "RAKIA": {
         "status": "allied"
     },
-    "thy": {
+    "THY": {
         "status": "allied"
     },
-    "jayb": {
-        "status": "enemy"
-    },
-    "sk137": {
+    "SK137": {
         "status": "allied"
     },
-    "un-24": {
+    "UN-24": {
         "status": "allied"
     },
-    "uil": {
+    "UIL": {
         "status": "allied"
     },
-    "-ukl-x": {
+    "-UKL-X": {
         "status": "allied"
     },
-    "domit": {
+    "DOMIT": {
         "status": "allied"
     },
-    "v_e_t": {
+    "V_E_T": {
         "status": "allied"
     },
-    "alp": {
+    "ALP": {
         "status": "allied"
     },
-    "gt20": {
+    "GT20": {
         "status": "allied"
     },
-    "arya": {
+    "ARYA": {
         "status": "allied"
     },
-    "e-up": {
+    "E-UP": {
         "status": "enemy",
         "note": "Core allies"
     },
-    "f_rat": {
+    "F_RAT": {
         "status": "allied"
     },
-    "t_c": {
+    "T_C": {
         "status": "allied"
     },
-    "phx1": {
+    "PHX1": {
         "status": "allied"
     },
-    "buds": {
+    "BUDS": {
         "status": "allied"
     },
-    "nztp": {
+    "NZTP": {
         "status": "enemy"
     },
-    "k-1": {
+    "K-1": {
         "status": "allied"
     },
-    "sw4g": {
+    "SW4G": {
         "status": "allied"
     },
-    "a_phx": {
+    "A_PHX": {
         "status": "enemy"
     },
-    "---x": {
+    "---X": {
         "status": "allied"
     },
-    "etw-g": {
+    "ETW-G": {
         "status": "allied"
     },
-    "bsd h": {
+    "BSDH": {
         "status": "allied"
     },
-    "oan": {
+    "OAN": {
         "status": "allied"
     },
-    "dado": {
+    "DADO": {
         "status": "allied"
     },
-    "evo_1": {
+    "EVO_1": {
         "status": "allied"
     },
-    "nmfd": {
+    "NMFD": {
         "status": "enemy"
     },
-    "un_43": {
+    "UN_43": {
         "status": "allied"
     },
-    "dbd1": {
+    "DBD1": {
         "status": "allied"
     },
-    "hnter": {
+    "HNTER": {
         "status": "allied"
     },
-    "sking": {
+    "SKING": {
         "status": "allied"
     },
-    "faq_u": {
+    "FAQ_U": {
         "status": "allied"
     },
-    "pu-ta": {
+    "PU-TA": {
         "status": "allied"
     },
-    "slw": {
+    "SLW": {
         "status": "allied"
     },
-    "nippl": {
+    "NIPPL": {
         "status": "allied"
     },
-    "fok": {
+    "FOK": {
         "status": "enemy"
     },
-    "hs106": {
+    "HS106": {
         "status": "allied"
     },
-    "sqm": {
+    "SQM": {
         "status": "allied"
     },
-    "h_f_s": {
+    "H_F_S": {
         "status": "enemy",
         "note": "sector 121"
     },
-    "_msk_": {
+    "_MSK_": {
         "status": "enemy"
     },
-    "dings": {
+    "DINGS": {
         "status": "enemy"
     },
-    "sn9pe": {
+    "SN9PE": {
         "status": "allied"
     },
-    "aaf12": {
+    "AAF12": {
         "status": "allied"
     },
-    "wcit": {
+    "WCIT": {
         "status": "enemy"
     },
-    "athz": {
+    "ATHZ": {
         "status": "allied"
     },
-    "bih-w": {
+    "BIH-W": {
         "status": "allied"
     },
-    "baby": {
+    "BABY": {
         "status": "allied"
     },
-    "wcri-": {
+    "WCRI-": {
         "status": "allied"
     },
-    "jf-71": {
+    "JF-71": {
         "status": "allied"
     },
-    "dm": {
+    "DM": {
         "status": "allied"
     },
-    "limi": {
+    "LIMI": {
         "status": "allied"
     },
-    "fam": {
+    "FAM": {
         "status": "allied"
     },
-    "fk9es": {
+    "FK9ES": {
         "status": "allied"
     },
-    "_off_": {
+    "_OFF_": {
         "status": "allied"
     },
-    "sos": {
+    "SOS": {
         "status": "allied"
     },
-    "mito": {
+    "MITO": {
         "status": "allied"
     },
-    "n7": {
+    "N7": {
         "status": "allied"
     },
-    "vmro": {
+    "VMRO": {
         "status": "allied"
     },
-    "albaa": {
+    "ALBAA": {
         "status": "allied"
     },
-    "c--t": {
+    "C--T": {
         "status": "allied"
     },
-    "-r_m-": {
+    "-R_M-": {
         "status": "enemy"
     },
-    "jusbr": {
+    "JUSBR": {
         "status": "allied"
     },
-    "god": {
+    "GOD": {
         "status": "allied"
     },
-    "bdsi": {
+    "BDSI": {
         "status": "enemy"
     },
-    "e-up1": {
+    "E-UP1": {
         "status": "allied",
         "note": "Core allies"
     },
-    "ecf": {
+    "ECF": {
         "status": "allied"
     },
-    "t-brd": {
+    "T-BRD": {
         "status": "allied"
     },
-    "-dik-": {
+    "-DIK-": {
         "status": "allied"
     },
-    "hush": {
+    "HUSH": {
         "status": "allied"
     },
-    "spc": {
+    "SPC": {
         "status": "allied"
     },
-    "mmde1": {
+    "MMDE1": {
         "status": "allied"
     },
-    "jdr": {
+    "JDR": {
         "status": "allied"
     },
-    "13sec": {
+    "13SEC": {
         "status": "allied"
     },
-    "ncr": {
+    "NCR": {
         "status": "allied"
     },
-    "n7b2k": {
+    "N7B2K": {
         "status": "enemy"
     },
-    "fb": {
+    "FB": {
         "status": "enemy"
     },
-    "ck": {
+    "CK": {
         "status": "enemy",
         "note": "BMF"
     },
-    "j1d": {
+    "J1D": {
         "status": "enemy"
     },
-    "rage-": {
+    "RAGE-": {
         "status": "allied"
     },
-    "pulse": {
+    "PULSE": {
         "status": "allied"
     },
-    "un80": {
+    "UN80": {
         "status": "allied"
     },
-    "hk_hk": {
+    "HK_HK": {
         "status": "allied"
     },
-    "-kaf-": {
+    "-KAF-": {
         "status": "allied"
     },
-    "-ub-f": {
+    "-UB-F": {
         "status": "allied"
     },
-    "groot": {
+    "GROOT": {
         "status": "allied"
     },
-    "hmnn": {
+    "HMNN": {
         "status": "allied"
     },
-    "eptix": {
+    "EPTIX": {
         "status": "allied"
     },
-    "mc-ac": {
+    "MC-AC": {
         "status": "allied"
     },
-    "kt1": {
+    "KT1": {
         "status": "allied"
     },
-    "k_v": {
+    "K_V": {
         "status": "allied"
     },
-    "rep-1": {
+    "REP-1": {
         "status": "allied"
     },
-    "cmc3": {
+    "CMC3": {
         "status": "allied"
     },
-    "ssa": {
+    "SSA": {
         "status": "allied"
     },
-    "storm": {
+    "STORM": {
         "status": "allied"
     },
-    "rngrs": {
+    "RNGRS": {
         "status": "enemy"
     },
-    "acab": {
+    "ACAB": {
         "status": "allied"
     },
-    "uf-ik": {
+    "UF-IK": {
         "status": "allied"
     },
-    "hinzl": {
+    "HINZL": {
         "status": "allied"
     },
-    "in-ti": {
+    "IN-TI": {
         "status": "allied"
     },
-    "dc-r": {
+    "DC-R": {
         "status": "allied"
     },
-    "hamze": {
+    "HAMZE": {
         "status": "allied",
         "note": "Core allies"
     },
-    "-fff-": {
+    "-FFF-": {
         "status": "allied"
     },
-    "d4e": {
+    "D4E": {
         "status": "allied"
     },
-    "raf__": {
+    "RAF__": {
         "status": "enemy"
     },
-    "bossy": {
+    "BOSSY": {
         "status": "enemy"
     },
-    "ali_b": {
+    "ALI_B": {
         "status": "allied"
     },
-    "base": {
+    "BASE": {
         "status": "allied"
     },
-    "_ss_": {
+    "_SS_": {
         "status": "allied"
     },
-    "_fuq_": {
+    "_FUQ_": {
         "status": "allied"
     },
-    "a43": {
+    "A43": {
         "status": "allied"
     },
-    "b_phx": {
+    "B_PHX": {
         "status": "allied"
     },
-    "hyc": {
+    "HYC": {
         "status": "allied"
     },
-    "ik": {
+    "IK": {
         "status": "allied"
     },
-    "f-u-2": {
+    "F-U-2": {
         "status": "enemy"
     },
-    "amr87": {
+    "AMR87": {
         "status": "allied"
     },
-    "t-a-o": {
+    "T-A-O": {
         "status": "allied"
     },
-    "dragz": {
+    "DRAGZ": {
         "status": "enemy"
     },
-    "135df": {
+    "135DF": {
         "status": "allied"
     },
-    "pdk": {
+    "PDK": {
         "status": "allied"
     },
-    "aec": {
+    "AEC": {
         "status": "enemy"
     },
-    "lum": {
+    "LUM": {
         "status": "allied"
     },
-    "l4f": {
+    "L4F": {
         "status": "allied"
     },
-    "xnxxx": {
+    "XNXXX": {
         "status": "allied"
     },
-    "magy": {
+    "MAGY": {
         "status": "enemy"
     },
-    "cadam": {
+    "CADAM": {
         "status": "allied"
     },
-    "-kb-": {
+    "-KB-": {
         "status": "enemy"
     },
-    "tha_2": {
+    "THA_2": {
         "status": "allied"
     },
-    "h8fk": {
+    "H8FK": {
         "status": "allied"
     },
-    "t-x-z": {
+    "T-X-Z": {
         "status": "allied"
     },
-    "kstar": {
+    "KSTAR": {
         "status": "allied"
     },
-    "fkger": {
+    "FKGER": {
         "status": "allied"
     },
-    "kkm": {
+    "KKM": {
         "status": "allied"
     },
-    "mf-un": {
+    "MF-UN": {
         "status": "enemy"
     },
-    "othc": {
+    "OTHC": {
         "status": "allied"
     },
-    "trow": {
+    "TROW": {
         "status": "allied"
     },
-    "sec27": {
+    "SEC27": {
         "status": "allied"
     },
-    "alb-e": {
+    "ALB-E": {
         "status": "allied"
     },
-    "fed-r": {
+    "FED-R": {
         "status": "enemy"
     },
-    "b1r": {
+    "B1R": {
         "status": "enemy"
     },
-    "a-f-o": {
+    "A-F-O": {
         "status": "allied"
     },
-    "an1me": {
+    "AN1ME": {
         "status": "allied"
     },
-    "rimm": {
+    "RIMM": {
         "status": "enemy"
     },
-    "nu": {
+    "NU": {
         "status": "allied"
     },
-    "treap": {
+    "TREAP": {
         "status": "allied"
     },
-    "-psv-": {
+    "-PSV-": {
         "status": "allied"
     },
-    "alb02": {
+    "ALB02": {
         "status": "allied"
     },
-    "cia-1": {
+    "CIA-1": {
         "status": "allied"
     },
-    "ldb": {
+    "LDB": {
         "status": "allied"
     },
-    "bxj": {
+    "BXJ": {
         "status": "allied"
     },
-    "messy": {
+    "MESSY": {
         "status": "allied"
     },
-    "n7_76": {
+    "N7_76": {
         "status": "allied"
     },
-    "uk-us": {
+    "UK-US": {
         "status": "allied"
     },
-    "metal": {
+    "METAL": {
         "status": "allied"
     },
-    "2mean": {
+    "2MEAN": {
         "status": "allied"
     },
-    "wwo": {
+    "WWO": {
         "status": "allied"
     },
-    "hk-bo": {
+    "HK-BO": {
         "status": "allied"
     },
-    "tea3": {
+    "TEA3": {
         "status": "allied"
     },
-    "trea4": {
+    "TREA4": {
         "status": "allied"
     },
-    "p-a-l": {
+    "P-A-L": {
         "status": "allied"
     },
-    "hel-o": {
+    "HEL-O": {
         "status": "enemy"
     },
-    "mstr": {
+    "MSTR": {
         "status": "allied"
     },
-    "tr3ap": {
+    "TR3AP": {
         "status": "allied"
     },
-    "red-": {
+    "RED-": {
         "status": "allied"
     },
-    "bogof": {
+    "BOGOF": {
         "status": "enemy",
         "note": "Removed due to allied hits"
     },
-    "hasis": {
+    "HASIS": {
         "status": "allied"
     },
-    "dc": {
+    "DC": {
         "status": "allied"
     },
-    "bnet": {
+    "BNET": {
         "status": "allied"
     },
-    "wcri7": {
+    "WCRI7": {
         "status": "allied"
     },
-    "rockt": {
+    "ROCKT": {
         "status": "allied"
     },
-    "pak-b": {
+    "PAK-B": {
         "status": "allied"
     },
-    "valor": {
+    "VALOR": {
         "status": "enemy"
     },
-    "j-": {
+    "J-": {
         "status": "allied"
     },
-    "tao": {
+    "TAO": {
         "status": "allied"
     },
-    "radr": {
+    "RADR": {
         "status": "enemy"
     },
-    "s-r-b": {
+    "S-R-B": {
         "status": "allied"
     },
-    "sinag": {
+    "SINAG": {
         "status": "allied",
         "note": "TP sector 25"
     },
-    "-x---": {
+    "-X---": {
         "status": "allied"
     },
-    "alb21": {
+    "ALB21": {
         "status": "allied"
     },
-    "bl_an": {
+    "BL_AN": {
         "status": "enemy"
     },
-    "uncl": {
+    "UNCL": {
         "status": "enemy"
     },
-    "-dps-": {
+    "-DPS-": {
         "status": "allied"
     },
-    "_bkb_": {
+    "_BKB_": {
         "status": "allied"
     },
-    "brpor": {
+    "BRPOR": {
         "status": "allied"
     },
-    "hlcon": {
+    "HLCON": {
         "status": "allied",
         "note": "Core allies"
     },
-    "ej": {
+    "EJ": {
         "status": "allied"
     },
-    "-xpto": {
+    "-XPTO": {
         "status": "allied"
     },
-    "x-": {
+    "X-": {
         "status": "allied"
     },
-    "4ever": {
+    "4EVER": {
         "status": "allied"
     },
-    "th170": {
+    "TH170": {
         "status": "allied"
     },
-    "n7a": {
+    "N7A": {
         "status": "allied"
     },
-    "fk3r": {
+    "FK3R": {
         "status": "allied"
     },
-    "tassy": {
+    "TASSY": {
         "status": "enemy"
     },
-    "malan": {
+    "MALAN": {
         "status": "allied"
     },
-    "j_wik": {
+    "J_WIK": {
         "status": "enemy"
     },
-    "k-w": {
+    "K-W": {
         "status": "enemy"
     },
-    "tf-x": {
+    "TF-X": {
         "status": "allied"
     },
-    "fife": {
+    "FIFE": {
         "status": "enemy"
     },
-    "-m-g-": {
+    "-M-G-": {
         "status": "allied"
     },
-    "-jgry": {
+    "-JGRY": {
         "status": "allied"
     },
-    "idf-e": {
+    "IDF-E": {
         "status": "allied"
     },
-    "xfffx": {
+    "XFFFX": {
         "status": "allied"
     },
-    "tco1": {
+    "TCO1": {
         "status": "allied"
     },
-    "usa": {
+    "USA": {
         "status": "allied"
     },
-    "tguns": {
+    "TGUNS": {
         "status": "allied"
     },
-    "i_d_a": {
+    "I_D_A": {
         "status": "allied"
     },
-    "z0mbi": {
+    "Z0MBI": {
         "status": "allied"
     },
-    "brlt5": {
+    "BRLT5": {
         "status": "allied"
     },
-    "u190l": {
+    "U190L": {
         "status": "allied"
     },
-    "fzb-1": {
+    "FZB-1": {
         "status": "allied"
     },
-    "a___z": {
+    "A___Z": {
         "status": "allied",
         "note": "Core allies"
     },
-    "cruze": {
+    "CRUZE": {
         "status": "allied"
     },
-    "cz_us": {
+    "CZ_US": {
         "status": "allied"
     },
-    "_hulk": {
+    "_HULK": {
         "status": "allied"
     },
-    "eatmy": {
+    "EATMY": {
         "status": "allied"
     },
-    "e-up3": {
+    "E-UP3": {
         "status": "allied",
         "note": "Core allies"
     },
-    "itrox": {
+    "ITROX": {
         "status": "allied"
     },
-    "f_w_f": {
+    "F_W_F": {
         "status": "allied"
     },
-    "asf-": {
+    "ASF-": {
         "status": "allied"
     },
-    "-myh-": {
+    "-MYH-": {
         "status": "allied"
     },
-    "ks187": {
+    "KS187": {
         "status": "enemy"
     },
-    "v5nom": {
+    "V5NOM": {
         "status": "enemy"
     },
-    "soxlo": {
+    "SOXLO": {
         "status": "allied"
     },
-    "rama_": {
+    "RAMA_": {
         "status": "allied"
     },
-    "s-100": {
+    "S-100": {
         "status": "allied"
     },
-    "sexys": {
+    "SEXYS": {
         "status": "allied"
     },
-    "fff-i": {
+    "FFF-I": {
         "status": "allied"
     },
-    "n7us": {
+    "N7US": {
         "status": "allied"
     },
-    "_rid_": {
+    "_RID_": {
         "status": "allied"
     },
-    "pandm": {
+    "PANDM": {
         "status": "allied"
     },
-    "m38": {
+    "M38": {
         "status": "allied"
     },
-    "kktc": {
+    "KKTC": {
         "status": "enemy"
     },
-    "mavs": {
+    "MAVS": {
         "status": "allied"
     },
-    "b-u-k": {
+    "B-U-K": {
         "status": "allied"
     },
-    "jl": {
+    "JL": {
         "status": "enemy"
     },
-    "dam": {
+    "DAM": {
         "status": "enemy"
     },
-    "m8rix": {
+    "M8RIX": {
         "status": "enemy"
     },
-    "_fl_": {
+    "_FL_": {
         "status": "allied"
     },
-    "-hur_": {
+    "-HUR_": {
         "status": "allied"
     },
-    "r383l": {
+    "R383L": {
         "status": "allied"
     },
-    "mfts": {
+    "MFTS": {
         "status": "allied"
     },
-    "sp4nk": {
+    "SP4NK": {
         "status": "allied"
     },
-    "rouni": {
+    "ROUNI": {
         "status": "allied"
     },
-    "t-t-p": {
+    "T-T-P": {
         "status": "allied"
     },
-    "top1": {
+    "TOP1": {
         "status": "enemy"
     },
-    "gzype": {
+    "GZYPE": {
         "status": "enemy"
     },
-    "dar_l": {
+    "DAR_L": {
         "status": "allied"
     },
-    "eff": {
+    "EFF": {
         "status": "allied"
     },
-    "bakup": {
+    "BAKUP": {
         "status": "allied"
     },
-    "vzaii": {
+    "VZAII": {
         "status": "allied"
     },
-    "dollr": {
+    "DOLLR": {
         "status": "enemy"
     },
-    "med-2": {
+    "MED-2": {
         "status": "allied"
     },
-    "ypg": {
+    "YPG": {
         "status": "allied"
     },
-    "t_w_s": {
+    "T_W_S": {
         "status": "allied"
     },
-    "fnmad": {
+    "FNMAD": {
         "status": "allied"
     },
-    "psf": {
+    "PSF": {
         "status": "allied",
         "note": "TP sector 4"
     },
-    "g-f-s": {
+    "G-F-S": {
         "status": "enemy"
     },
-    "gcell": {
+    "GCELL": {
         "status": "allied"
     },
-    "-mm-": {
+    "-MM-": {
         "status": "allied"
     },
-    "o": {
+    "O": {
         "status": "allied"
     },
-    "xtol": {
+    "XTOL": {
         "status": "allied"
     },
-    "ti-un": {
+    "TI-UN": {
         "status": "allied"
     },
-    "r-a-v": {
+    "R-A-V": {
         "status": "allied"
     },
-    "un-ta": {
+    "UN-TA": {
         "status": "allied"
     },
-    "h-_-w": {
+    "H-_-W": {
         "status": "enemy"
     },
-    "wqua": {
+    "WCUA": {
         "status": "allied"
     },
-    "npa_r": {
+    "NPA_R": {
         "status": "enemy"
     },
-    "af144": {
+    "AF144": {
         "status": "allied"
     },
-    "_bg_": {
+    "_BG_": {
         "status": "enemy"
     },
-    "uklff": {
+    "UKLFF": {
         "status": "allied"
     },
-    "rip-x": {
+    "RIP-X": {
         "status": "enemy"
     },
-    "xbx": {
+    "XBX": {
         "status": "allied"
     },
-    "ale": {
+    "ALE": {
         "status": "allied"
     },
-    "alb-g": {
+    "ALB-G": {
         "status": "allied"
     },
-    "s-s-s": {
+    "S-S-S": {
         "status": "allied"
     },
-    "bun47": {
+    "BUN47": {
         "status": "allied"
     },
-    "beer_": {
+    "BEER_": {
         "status": "allied"
     },
-    "e-a-a": {
+    "E-A-A": {
         "status": "allied",
         "note": "Core allies"
     },
-    "br100": {
+    "BR100": {
         "status": "allied",
         "note": "Core allies"
     },
-    "g2g": {
+    "G2G": {
         "status": "enemy"
     },
-    "i-r-q": {
+    "I-R-Q": {
         "status": "allied"
     },
-    "pk_76": {
+    "PK_76": {
         "status": "allied"
     },
-    "dgsq": {
+    "DGSQ": {
         "status": "allied",
         "note": "Core allies"
     },
-    "hl-x": {
+    "HL-X": {
         "status": "allied"
     },
-    "_bf_": {
+    "_BF_": {
         "status": "allied"
     },
-    "quds": {
+    "QUDS": {
         "status": "allied"
     },
-    "pauk": {
+    "PAUK": {
         "status": "allied"
     },
-    "os8-f": {
+    "OS8-F": {
         "status": "allied"
     },
-    "gq": {
+    "GQ": {
         "status": "allied"
     },
-    "test": {
+    "TEST": {
         "status": "allied"
     },
-    "kt-a": {
+    "KT-A": {
         "status": "allied"
     },
-    "ssa1": {
+    "SSA1": {
         "status": "allied"
     },
-    "fun-a": {
+    "FUN-A": {
         "status": "allied"
     },
-    "tra": {
+    "TRA": {
         "status": "allied"
     },
-    "lov69": {
+    "LOV69": {
         "status": "allied"
     },
-    "mftr": {
+    "MFTR": {
         "status": "allied"
     },
-    "kt-tf": {
+    "KT-TF": {
         "status": "allied"
     },
-    "rev1": {
+    "REV1": {
         "status": "allied"
     },
-    "_skb_": {
+    "_SKB_": {
         "status": "enemy",
         "note": "leader Emanual John wu tang alliance"
     },
-    "ck-1": {
+    "CK-1": {
         "status": "enemy",
         "note": "BMF"
     },
-    "dumaz": {
+    "DUMAZ": {
         "status": "enemy"
     },
-    "nyct": {
+    "NYCT": {
         "status": "enemy"
     },
-    "vksf": {
+    "VKSF": {
         "status": "allied"
     },
-    "ck_ff": {
+    "CK_FF": {
         "status": "enemy",
         "note": "BMF"
     },
-    "b_o_w": {
+    "B_O_W": {
         "status": "allied"
     },
-    "ubf": {
+    "UBF": {
         "status": "allied"
     },
-    "-yolo": {
+    "BPRR": {
         "status": "allied"
     },
-    "_uaw_": {
+    "-YOLO": {
         "status": "allied"
     },
-    "dify": {
+    "_UAW_": {
         "status": "allied"
     },
-    "uf-71": {
+    "DIFY": {
         "status": "allied"
     },
-    "ukl-x": {
+    "UF-71": {
         "status": "allied"
     },
-    "dk": {
+    "UKL-X": {
         "status": "allied"
     },
-    "gods": {
+    "DK": {
         "status": "allied"
     },
-    "josez": {
+    "GODS": {
         "status": "allied"
     },
-    "ialb": {
+    "JOSEZ": {
         "status": "allied"
     },
-    "glory": {
+    "IALB": {
         "status": "allied"
     },
-    "gsxr": {
+    "GLORY": {
         "status": "allied"
     },
-    "g23": {
+    "GSXR": {
         "status": "allied"
     },
-    "ht7": {
+    "G23": {
         "status": "allied"
     },
-    "herdy": {
+    "HT7": {
         "status": "allied"
     },
-    "goe1": {
+    "HERDY": {
         "status": "allied"
     },
-    "jyden": {
+    "GOE1": {
         "status": "allied"
     },
-    "forse": {
+    "JYDEN": {
         "status": "allied"
     },
-    "t-h-e": {
+    "FORSE": {
         "status": "allied"
     },
-    "renea": {
+    "T-H-E": {
         "status": "allied"
     },
-    "ri-hr": {
+    "RENEA": {
         "status": "allied"
     },
-    "kamin": {
+    "RI-HR": {
         "status": "allied"
     },
-    "mute": {
+    "KAMIN": {
         "status": "allied"
     },
-    "lyf_x": {
+    "MUTE": {
         "status": "allied"
     },
-    "-nvs-": {
+    "LYF_X": {
         "status": "allied"
     },
-    "leroy": {
+    "-NVS-": {
         "status": "allied"
     },
-    "mito2": {
+    "LEROY": {
         "status": "allied"
     },
-    "3aaas": {
+    "MITO2": {
         "status": "allied"
     },
-    "zombi": {
+    "3AAAS": {
         "status": "allied"
     },
-    "grwwp": {
+    "ZOMBI": {
+        "status": "allied"
+    },
+    "GRWWP": {
         "status": "allied"
     },
     "0808": {
         "status": "allied"
     },
-    "nfr_": {
+    "NFR_": {
         "status": "enemy",
         "note": "Supporting FJB"
     },
-    "broer": {
+    "BROER": {
         "status": "allied"
     },
-    "s131": {
+    "S131": {
         "status": "allied"
     },
-    "ua": {
+    "UA": {
         "status": "enemy"
     },
-    "frito": {
+    "FRITO": {
         "status": "enemy"
     },
-    "med_1": {
+    "MED_1": {
         "status": "allied"
     },
-    "afg": {
+    "AFG": {
         "status": "enemy"
     },
-    "8oo8s": {
+    "8OO8S": {
         "status": "allied"
     },
-    "nsi-1": {
+    "NSI-1": {
         "status": "allied"
     },
-    "nt_fu": {
+    "NT_FU": {
         "status": "allied"
     },
-    "t3ars": {
+    "T3ARS": {
         "status": "allied"
     },
-    "lance": {
+    "LANCE": {
         "status": "allied"
     },
-    "med-1": {
+    "MED-1": {
         "status": "allied"
     },
-    "kad": {
+    "KAD": {
         "status": "allied"
     },
-    "obl": {
+    "OBL": {
         "status": "allied"
     },
-    "nes-1": {
+    "NES-1": {
         "status": "allied"
     },
-    "f-c-p": {
+    "F-C-P": {
         "status": "allied"
     },
-    "kt-jo": {
+    "KT-JO": {
         "status": "allied"
     },
-    "fsm": {
+    "FSM": {
         "status": "enemy",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "w10": {
+    "W10": {
         "status": "allied"
     },
-    "altag": {
+    "ALTAG": {
         "status": "allied"
     },
-    "gdw": {
+    "GDW": {
         "status": "enemy"
     },
-    "sh": {
+    "SH": {
         "status": "allied"
     },
-    "thf": {
+    "THF": {
         "status": "allied"
     },
-    "thep": {
+    "THEP": {
         "status": "allied"
     },
-    "rdbls": {
+    "RDBLS": {
         "status": "allied"
     },
-    "1waya": {
+    "1WAYA": {
         "status": "enemy"
     },
-    "dwrwp": {
+    "DWRWP": {
         "status": "enemy"
     },
-    "148ho": {
+    "148HO": {
         "status": "allied"
     },
-    "g_r_t": {
+    "G_R_T": {
         "status": "allied"
     },
-    "b_i_p": {
+    "B_I_P": {
         "status": "enemy"
     },
-    "voyeer": {
+    "VOYER": {
         "status": "allied"
     },
-    "mggg": {
+    "MGGG": {
         "status": "enemy"
     },
-    "italy": {
+    "ITALY": {
         "status": "allied"
     },
-    "rsf": {
+    "RSF": {
         "status": "allied"
     },
-    "tesco": {
+    "TESCO": {
         "status": "allied"
     },
-    "mskil": {
+    "MSKIL": {
         "status": "allied"
     },
-    "tamu": {
+    "TAMU": {
         "status": "enemy"
     },
-    "maxx": {
+    "MAXX": {
         "status": "allied"
     },
-    "undefined": {
+    "UNDEFINED": {
         "status": "allied"
     },
-    "npa_1": {
+    "NPA_1": {
         "status": "enemy",
-        "note": "woody's alt"
+        "note": "Woody's alt"
     },
-    "hurft": {
+    "HURTF": {
         "status": "allied"
     },
-    "shhhh": {
+    "SSHHH": {
         "status": "allied"
     },
-    "sn8pe": {
+    "SN8PE": {
         "status": "enemy"
     },
-    "ar-15": {
+    "AR-15": {
         "status": "allied"
     },
-    "fed1": {
+    "FED1": {
         "status": "enemy"
     },
-    "sn1m": {
+    "SN1M": {
         "status": "allied"
     },
-    "t-b-p": {
+    "T-B-P": {
         "status": "allied"
     },
-    "a57": {
+    "A57": {
         "status": "allied"
     },
-    "ek1": {
+    "EK1": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "m-sog": {
+    "M-SOG": {
         "status": "allied"
     },
-    "alb-u": {
+    "ALB-U": {
         "status": "allied"
     },
-    "tbb-b": {
+    "TBB-B": {
         "status": "allied"
     },
-    "ragkn": {
+    "RAGNK": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "-m4l-": {
+    "-M4L-": {
         "status": "allied"
     },
-    "n_o_c": {
+    "N_O_C": {
         "status": "allied"
     },
-    "nutc": {
+    "NUTC": {
         "status": "allied"
     },
-    "sgw": {
+    "SGW": {
         "status": "allied"
     },
-    "b_u_k": {
+    "B_U_K": {
         "status": "allied"
     },
-    "fghtr": {
+    "FGHTR": {
         "status": "allied"
     },
-    "it-ix": {
+    "IT-IX": {
         "status": "allied"
     },
-    "panic": {
+    "PANIC": {
         "status": "enemy"
     },
-    "ass-o": {
+    "ASS-O": {
         "status": "enemy"
     },
-    "soa_2": {
+    "SOA_2": {
         "status": "allied"
     },
-    "iduk": {
+    "IDUK": {
         "status": "allied"
     },
-    "usa-1": {
+    "USA-1": {
         "status": "enemy"
     },
-    "preus": {
+    "PREUS": {
         "status": "allied"
     },
-    "nem-e": {
+    "NEM-E": {
         "status": "allied"
     },
-    "cc_": {
+    "CC_": {
         "status": "allied"
     },
-    "boost": {
+    "BOOST": {
         "status": "allied"
     },
-    "wp-zc": {
+    "WP-ZC": {
         "status": "allied"
     },
-    "salem": {
+    "SALEM": {
         "status": "allied"
     },
-    "old": {
+    "OLD": {
         "status": "allied"
     },
-    "es-lf": {
+    "ES-LF": {
         "status": "allied"
     },
-    "-ib-": {
+    "-IB-": {
         "status": "allied"
     },
-    "isf": {
+    "ISF": {
         "status": "allied"
     },
-    "un100": {
+    "UN100": {
         "status": "allied"
     },
-    "wcsf": {
+    "WCSF": {
         "status": "allied"
     },
-    "cru1": {
+    "CRU1": {
         "status": "allied"
     },
-    "_up_": {
+    "_UP_": {
         "status": "allied"
     },
-    "_ubf_": {
+    "_UBF_": {
         "status": "allied"
     },
-    "chett": {
+    "CHETT": {
         "status": "allied"
     },
-    "it300": {
+    "IT300": {
         "status": "allied"
     },
-    "cp-0": {
+    "CP-0": {
         "status": "allied"
     },
-    "hw": {
+    "HW": {
         "status": "allied"
     },
-    "g-o-e": {
+    "G-O-E": {
         "status": "allied"
     },
-    "imp_s": {
+    "IMP_S": {
         "status": "allied"
     },
-    "_cfm_": {
+    "_CFM_": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "fekku": {
+    "FEKKU": {
         "status": "allied"
     },
-    "vigi": {
+    "VIGI": {
         "status": "allied"
     },
-    "tinni": {
+    "TINNI": {
         "status": "allied"
     },
-    "f-d-e": {
+    "F-D-E": {
         "status": "allied"
     },
-    "f-a-b": {
+    "F-A-B": {
         "status": "allied"
     },
-    "wccp": {
+    "WCCP": {
         "status": "allied"
     },
-    "-fin-": {
+    "-FIN-": {
         "status": "allied"
     },
-    "tid-x": {
+    "TID-X": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "tizzy": {
+    "TIZZY": {
         "status": "allied"
     },
-    "1s1k": {
+    "1S1K": {
         "status": "allied"
     },
-    "u_p_f": {
+    "U_P_F": {
         "status": "allied"
     },
-    "ff-3": {
+    "FF-3": {
         "status": "allied"
     },
-    "uk-tq": {
+    "UK-TQ": {
         "status": "allied"
     },
-    "vic70": {
+    "VIC70": {
         "status": "allied"
     },
-    "gspot": {
+    "GSPOT": {
         "status": "enemy"
     },
-    "we-ri": {
+    "WE-RI": {
         "status": "allied"
     },
-    "roo": {
+    "ROO": {
         "status": "allied"
     },
-    "g-m-e": {
+    "G-M-E": {
         "status": "allied"
     },
-    "wahey": {
+    "WAHEY": {
         "status": "allied"
     },
-    "el1te": {
+    "EL1TE": {
         "status": "allied"
     },
-    "fh": {
+    "FH": {
         "status": "allied"
     },
-    "farm1": {
+    "FARM1": {
         "status": "allied"
     },
-    "eee": {
+    "EEE": {
         "status": "allied"
     },
-    "sfu": {
+    "SFU": {
         "status": "allied"
     },
-    "fde-2": {
+    "FDE-2": {
         "status": "allied"
     },
-    "tl": {
+    "TL": {
         "status": "allied"
     },
-    "el-kt": {
+    "EL-KT": {
         "status": "allied"
     },
-    "elada": {
+    "ELADA": {
         "status": "allied"
     },
-    "thai1": {
+    "THAI1": {
         "status": "allied"
     },
-    "solor": {
+    "SOLOR": {
         "status": "allied"
     },
-    "aer": {
+    "AER": {
         "status": "allied"
     },
-    "oe": {
+    "OE": {
         "status": "allied"
     },
-    "care3": {
+    "CARE3": {
         "status": "allied"
     },
-    "l_m_f": {
+    "L_M_F": {
         "status": "allied"
     },
-    "bgrim": {
+    "BGRIM": {
         "status": "allied"
     },
-    "sw_at": {
+    "SW_AT": {
         "status": "allied"
     },
-    "cro-d": {
+    "CRO-D": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "trows": {
+    "TROWS": {
         "status": "allied"
     },
-    "doom-": {
+    "DOOM-": {
         "status": "allied"
     },
-    "rep_1": {
+    "REP_1": {
         "status": "allied"
     },
-    "nude": {
+    "NUDE": {
         "status": "allied"
     },
-    "ddar": {
+    "DDAR": {
         "status": "allied"
     },
-    "s-p-t": {
+    "S-P-T": {
         "status": "enemy"
     },
-    "h-o-d": {
+    "H-O-D": {
         "status": "enemy"
     },
-    "ds300": {
+    "DS300": {
         "status": "allied"
     },
-    "-ol-": {
+    "-OL-": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "prc__": {
+    "PRC__": {
         "status": "allied"
     },
-    "outlz": {
+    "OUTLZ": {
         "status": "allied"
     },
-    "trea2": {
+    "TREA2": {
         "status": "allied"
     },
-    "-hfs-": {
+    "-HFS-": {
         "status": "enemy"
     },
-    "ss-pc": {
+    "SS-PC": {
         "status": "allied"
     },
-    "natve": {
+    "NATVE": {
         "status": "allied"
     },
-    "rangr": {
+    "RANGR": {
         "status": "allied"
     },
-    "nvdrs": {
+    "NVDRS": {
         "status": "allied"
     },
-    "dano": {
+    "DANO": {
         "status": "allied"
     },
-    "lout": {
+    "LOUT": {
         "status": "allied"
     },
-    "faixa": {
+    "FAIXA": {
         "status": "allied"
     },
-    "vj": {
+    "VJ": {
         "status": "allied"
     },
-    "rabit": {
+    "RABIT": {
         "status": "allied"
     },
-    "socom": {
+    "SOCOM": {
         "status": "allied"
     },
-    "stock": {
+    "STOCK": {
         "status": "allied"
     },
-    "_uno_": {
+    "_UNO_": {
         "status": "allied"
     },
-    "bigdk": {
+    "BIGDK": {
         "status": "allied"
     },
-    "uaadf": {
+    "UAADF": {
         "status": "enemy",
-        "note": "bmf allies"
+        "note": "Bmf allies"
     },
-    "akncr": {
+    "AKNCR": {
         "status": "allied"
     },
-    "2guys": {
+    "2GUYS": {
         "status": "allied"
     },
-    "lone": {
+    "LONE": {
         "status": "allied"
     },
-    "f-u": {
+    "F-U": {
         "status": "allied"
     },
-    "maea": {
+    "MAEA": {
         "status": "allied",
-        "note": "fady dinil"
+        "note": "Fady Dinil"
     },
-    "sif_m": {
+    "SIF_M": {
         "status": "allied"
     },
-    "-ak-": {
+    "-AK-": {
         "status": "allied"
     },
-    "tc-tk": {
+    "TC-TK": {
         "status": "allied"
     },
-    "powdg": {
+    "POWDG": {
         "status": "enemy"
     },
-    "ace": {
+    "ACE": {
         "status": "enemy"
     },
-    "oyeah": {
+    "OYEAH": {
         "status": "allied"
     },
-    "_fff_": {
+    "_FFF_": {
         "status": "allied"
     },
-    "gitti": {
+    "GITTI": {
         "status": "allied"
     },
-    "tus": {
+    "TUS": {
         "status": "allied"
     },
-    "suss": {
+    "SUSS": {
         "status": "allied"
     },
-    "kunty": {
+    "KUNTY": {
         "status": "allied"
     },
-    "a-a-": {
+    "A-A-": {
         "status": "allied"
     },
-    "ktcom": {
+    "KTCOM": {
         "status": "allied"
     },
-    "fff-s": {
+    "FFF-S": {
         "status": "allied"
     },
-    "hdmj": {
+    "HDMJ": {
         "status": "allied"
     },
-    "j-l": {
+    "J-L": {
         "status": "enemy"
     },
-    "rolo": {
+    "ROLO": {
         "status": "allied"
     },
-    "ks2": {
+    "KS2": {
         "status": "allied"
     },
-    "hkoc": {
+    "HKOC": {
         "status": "enemy"
     },
-    "usa1": {
+    "USA1": {
         "status": "enemy"
     },
-    "reaps": {
+    "REAPS": {
         "status": "enemy"
     },
-    "steel": {
+    "STEEL": {
         "status": "allied",
-        "note": "n7fl friends"
+        "note": "N7FL friends"
     },
-    "sfw": {
+    "SFW": {
         "status": "enemy"
     },
-    "es227": {
+    "ES227": {
         "status": "enemy"
     },
-    "eca": {
+    "ECA": {
         "status": "allied",
-        "note": "n7fl friends"
+        "note": "N7FL friends"
     },
-    "b1g": {
+    "B1G": {
         "status": "allied",
-        "note": "kt alt tag"
+        "note": "KT Alt tag"
     },
-    "tnt": {
+    "TNT": {
         "status": "ceasefire"
     },
-    "fwkrs": {
+    "FWKRS": {
         "status": "enemy"
     },
-    "_cd_": {
+    "_CD_": {
         "status": "allied"
     },
-    "a-phx": {
+    "A-PHX": {
         "status": "allied",
-        "note": "roger simon leader"
+        "note": "Roger Simon leader"
     },
-    "freem": {
+    "FREEM": {
         "status": "allied"
     },
-    "vamp": {
+    "VAMP": {
         "status": "allied"
     },
-    "da-so": {
+    "DA-SO": {
         "status": "allied",
-        "note": "joey wilson"
+        "note": "Joey Wilson"
     },
-    "w4m": {
+    "W4M": {
         "status": "allied"
     },
-    "4fk-s": {
+    "4FK-S": {
         "status": "allied"
     },
-    "nomad": {
+    "NOMAD": {
         "status": "allied"
     },
-    "mdet": {
+    "MDET": {
         "status": "allied"
     },
-    "bf-ta": {
+    "BF-TA": {
         "status": "allied"
     },
-    "xmn": {
+    "XMN": {
         "status": "allied",
-        "note": "kt allies see yanni"
+        "note": "KT Allies See Yanni"
     },
-    "tkt": {
+    "TKT": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "j3sus": {
+    "J3SUS": {
         "status": "allied",
-        "note": "anti acs, anti www, anti aaf"
+        "note": "Anti ACS, Anti WWW, Anti AAF"
     },
-    "c_w_t": {
+    "C_W_T": {
         "status": "allied"
     },
-    "tidr": {
+    "TIDR": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "zombe": {
+    "ZOMBE": {
         "status": "allied"
     },
-    "cma": {
+    "CMA": {
         "status": "allied"
     },
-    "palar": {
+    "PALAR": {
         "status": "enemy"
     },
-    "aggro": {
+    "AGGRO": {
         "status": "enemy"
     },
-    "me1": {
+    "ME1": {
         "status": "allied",
-        "note": "rav allies"
+        "note": "RAV Allies"
     },
-    "afg-": {
+    "AFG-": {
         "status": "enemy"
     },
-    "gygr": {
-        "status": "neutral",
-        "note": "sec 7 neutral / anti aaf"
-    },
-    "co3ra": {
-        "status": "allied",
-        "note": "treap allies"
-    },
-    "nfg_": {
-        "status": "enemy"
-    },
-    "b-a-e": {
-        "status": "allied"
-    },
-    "a__z": {
+    "GYGR": {
         "status": "enemy",
-        "note": "bmf/nmfd allies"
+        "note": "sec 7 Neutral / Anti AAF"
     },
-    "vsall": {
-        "status": "allied"
-    },
-    "vsaii": {
+    "CO3RA": {
         "status": "allied",
-        "note": "media allie’s"
+        "note": "TREAP Allies"
     },
-    "nodra": {
-        "status": "allied",
-        "note": "michael martinelli leader"
-    },
-    "two-x": {
+    "NFG_": {
         "status": "enemy"
     },
-    "sidad": {
+    "B-A-E": {
+        "status": "allied"
+    },
+    "A__Z": {
         "status": "enemy",
-        "note": "acs"
+        "note": "BMF/NMFD Allies"
     },
-    "polar": {
-        "status": "enemy"
-    },
-    "crazy": {
-        "status": "enemy"
-    },
-    "50def": {
+    "VSALL": {
         "status": "allied"
     },
-    "irl32": {
+    "VSAII": {
         "status": "allied",
-        "note": "frances oboyle - leader"
+        "note": "Media Allie’s"
     },
-    "pigo": {
-        "status": "allied"
+    "NODRA": {
+        "status": "allied",
+        "note": "Michael Martinelli leader"
     },
-    "b_a_e": {
-        "status": "allied"
-    },
-    "no_bs": {
-        "status": "allied"
-    },
-    "3sure": {
+    "TWO-X": {
         "status": "enemy"
     },
-    "xak2": {
-        "status": "allied"
-    },
-    "vill": {
-        "status": "allied"
-    },
-    "tdv": {
-        "status": "allied"
-    },
-    "dda": {
-        "status": "allied"
-    },
-    "b-l-k": {
-        "status": "allied"
-    },
-    "5glat": {
-        "status": "allied",
-        "note": "core allies"
-    },
-    "bbl-": {
-        "status": "allied"
-    },
-    "wcp": {
+    "SIDAD": {
         "status": "enemy",
-        "note": "sector 110"
+        "note": "ACS"
     },
-    "_gen_": {
+    "POLAR": {
+        "status": "enemy"
+    },
+    "CRAZY": {
+        "status": "enemy"
+    },
+    "50DEF": {
+        "status": "allied"
+    },
+    "IRL32": {
         "status": "allied",
-        "note": "tp"
+        "note": "Frances Oboyle - leader"
     },
-    "hold": {
+    "PIGO": {
         "status": "allied"
     },
-    "icons": {
+    "B_A_E": {
         "status": "allied"
     },
-    "mb692": {
+    "NO_BS": {
         "status": "allied"
     },
-    "gob": {
+    "3SURE": {
+        "status": "enemy"
+    },
+    "XAK2": {
         "status": "allied"
     },
-    "texmx": {
+    "VILL": {
         "status": "allied"
     },
-    "owawh": {
+    "TDV": {
+        "status": "allied"
+    },
+    "DDA": {
+        "status": "allied"
+    },
+    "B-L-K": {
+        "status": "allied"
+    },
+    "5GLAT": {
+        "status": "allied",
+        "note": "Core allies"
+    },
+    "BBL-": {
+        "status": "allied"
+    },
+    "WCP": {
+        "status": "enemy",
+        "note": "Sector 110"
+    },
+    "_GEN_": {
+        "status": "allied",
+        "note": "TP"
+    },
+    "HOLD": {
+        "status": "allied"
+    },
+    "ICONS": {
+        "status": "allied"
+    },
+    "MB692": {
+        "status": "allied"
+    },
+    "GOB": {
+        "status": "allied"
+    },
+    "TEXMX": {
+        "status": "allied"
+    },
+    "OWAWH": {
         "status": "enemy",
         "note": "s137"
     },
-    "asoas": {
+    "ASOAS": {
         "status": "allied",
-        "note": "see fady dinil"
+        "note": "See Fady Dinil"
     },
-    "kil19": {
+    "KIL19": {
         "status": "enemy"
     },
-    "trini": {
+    "TRINI": {
         "status": "allied",
-        "note": "leader - el deabloxx"
+        "note": "leader - EL Deabloxx"
     },
-    "bwc1": {
+    "BWC1": {
         "status": "allied",
         "note": "sector 7"
     },
-    "reddg": {
+    "REDDG": {
         "status": "allied"
     },
-    "b-l": {
+    "B-L": {
         "status": "allied"
     },
-    "-tmr-": {
+    "-TMR-": {
         "status": "enemy",
-        "note": "s3xy"
+        "note": "S3XY"
     },
-    "crdz": {
+    "CRDZ": {
         "status": "allied"
     },
-    "chido": {
+    "CHIDO": {
         "status": "allied"
     },
-    "dpain": {
+    "DPAIN": {
         "status": "allied"
     },
-    "df116": {
+    "DF116": {
         "status": "allied"
     },
-    "_flt_": {
+    "_FLT_": {
         "status": "allied"
     },
-    "f-kgs": {
+    "F-KGS": {
         "status": "enemy"
     },
-    "weroc": {
+    "WEROC": {
         "status": "allied"
     },
-    "ms-ac": {
+    "MS-AC": {
         "status": "allied"
     },
-    "-ug-": {
+    "-UG-": {
         "status": "allied"
     },
-    "x3n0": {
+    "X3N0": {
         "status": "allied"
     },
-    "0g235": {
+    "0G235": {
         "status": "allied"
     },
-    "__rf__": {
+    "__RF__": {
         "status": "allied"
     },
-    "_rf_": {
+    "_RF_": {
         "status": "allied"
     },
-    "rip83": {
+    "RIP83": {
         "status": "allied"
     },
-    "wcsf2": {
+    "WCSF2": {
         "status": "allied"
     },
-    "xsnpе": {
+    "XSNPE": {
         "status": "allied"
     },
-    "miri-": {
+    "MIRI-": {
         "status": "allied"
     },
-    "ahole": {
+    "AHOLE": {
         "status": "allied"
     },
-    "cm1": {
+    "CM1": {
         "status": "allied"
     },
-    "fa_v2": {
+    "FA_V2": {
         "status": "allied"
     },
-    "ruben": {
+    "RUBEN": {
         "status": "allied"
     },
-    "-fak-": {
+    "-FAK-": {
         "status": "allied"
     },
-    "htsq": {
+    "HTSQ": {
         "status": "allied"
     },
-    "kaf2": {
+    "KAF2": {
         "status": "allied"
     },
-    "upf": {
+    "UPF": {
         "status": "allied"
     },
-    "b0rgs": {
+    "B0RGS": {
         "status": "allied"
     },
-    "-eng-": {
+    "-ENG-": {
         "status": "allied"
     },
-    "hs187": {
-        "status": "ceasefire"
-    },
-    "aow": {
+    "HS187": {
         "status": "enemy"
     },
-    "hatsu": {
+    "AOW": {
         "status": "enemy"
     },
-    "junk": {
-        "status": "allied"
-    },
-    "d-t-c": {
+    "HATSU": {
         "status": "enemy"
     },
-    "4-psf": {
+    "JUNK": {
         "status": "allied"
     },
-    "gatu": {
+    "D-T-C": {
+        "status": "enemy"
+    },
+    "4-PSF": {
         "status": "allied"
     },
-    "r_m": {
+    "GATU": {
         "status": "allied"
     },
-    "1-t": {
+    "R_M": {
         "status": "allied"
     },
-    "silog": {
+    "1-T": {
+        "status": "allied"
+    },
+    "SILOG": {
         "status": "allied",
-        "note": "with tp allies"
+        "note": "with TP allies"
     },
-    "sckme": {
+    "SCKME": {
         "status": "allied"
     },
-    "xbhx": {
+    "XBHX": {
         "status": "enemy"
     },
-    "balss": {
+    "BALSS": {
         "status": "allied"
     },
-    "wlv": {
+    "WLV": {
         "status": "enemy"
     },
-    "kunt_": {
+    "KUNT_": {
         "status": "allied"
     },
-    "goran": {
+    "GORAN": {
         "status": "allied"
     },
-    "-ke-": {
-        "status": "ceasefire"
-    },
-    "-fe-": {
-        "status": "allied"
-    },
-    "rythm": {
+    "-KE-": {
         "status": "enemy"
     },
-    "fdn": {
+    "-FE-": {
         "status": "allied"
     },
-    "c03ra": {
-        "status": "allied"
-    },
-    "4sale": {
-        "status": "allied"
-    },
-    "silni": {
+    "RYTHM": {
         "status": "enemy"
     },
-    "ek134": {
+    "FDN": {
         "status": "allied"
     },
-    "ibero": {
+    "C03RA": {
+        "status": "allied"
+    },
+    "4SALE": {
+        "status": "allied"
+    },
+    "SILNI": {
+        "status": "enemy"
+    },
+    "EK134": {
+        "status": "allied"
+    },
+    "IBERO": {
         "status": "allied",
-        "note": "b-alb allied"
+        "note": "B-ALB Allied"
     },
-    "yorky": {
+    "YORKY": {
         "status": "enemy"
     },
-    "t-_p_": {
+    "T-_P_": {
         "status": "allied"
     },
-    "ha-rd": {
+    "HA-RD": {
         "status": "allied"
     },
-    "mat68": {
+    "MAT68": {
         "status": "allied"
     },
-    "mbf": {
+    "MBF": {
         "status": "allied"
     },
-    "bfns": {
+    "BFNS": {
         "status": "enemy"
     },
-    "4free": {
+    "4FREE": {
         "status": "allied"
     },
-    "zteam": {
+    "ZTEAM": {
         "status": "allied"
     },
-    "plumb": {
+    "PLUMB": {
         "status": "neutral",
-        "note": "moved to sector 19"
+        "note": "Moved to sector 19"
     },
-    "hr": {
+    "HR": {
         "status": "allied"
     },
-    "mamba": {
+    "MAMBA": {
         "status": "allied"
     },
-    "ctz": {
+    "CTZ": {
         "status": "allied"
     },
-    "insan": {
+    "INSAN": {
         "status": "allied"
     },
-    "poul": {
+    "POUL": {
         "status": "allied"
     },
-    "bf-d": {
+    "BF-D": {
         "status": "enemy"
     },
-    "aas": {
+    "AAS": {
         "status": "allied"
     },
-    "_rm_": {
+    "_RM_": {
         "status": "neutral",
-        "note": "eric"
+        "note": "Eric"
     },
-    "rwbuk": {
+    "RWBUK": {
         "status": "allied"
     },
-    "jmst": {
+    "JMST": {
         "status": "allied"
     },
-    "ddogs": {
+    "DDOGS": {
         "status": "allied"
     },
-    "waaaa": {
+    "WAAAA": {
         "status": "enemy"
     },
-    "gorge": {
+    "GORGE": {
         "status": "enemy"
     },
-    "sov": {
+    "SOV": {
         "status": "allied"
     },
-    "n7-hs": {
+    "N7-HS": {
         "status": "neutral"
     },
-    "ew": {
+    "EW": {
         "status": "enemy"
     },
-    "bign": {
+    "BIGN": {
         "status": "allied"
     },
-    "w-w-e": {
+    "W-W-E": {
         "status": "allied",
         "note": "135"
     },
-    "pbs": {
+    "PBS": {
         "status": "allied"
     },
-    "qwack": {
+    "QWACK": {
         "status": "enemy",
-        "note": "woody's alt"
+        "note": "Woody's alt"
     },
-    "gla": {
+    "GLA": {
         "status": "allied"
     },
-    "w-----b": {
+    "W—-B": {
         "status": "neutral"
     },
-    "u-can": {
+    "U-CAN": {
         "status": "allied"
     },
-    "_n-d_": {
+    "_N-D_": {
         "status": "allied"
     },
-    "-fta-": {
+    "-FTA-": {
         "status": "allied"
     },
-    "uws-a": {
+    "UWS-A": {
         "status": "ceasefire",
-        "note": "uws-a alliance"
+        "note": "UWS-A Alliance"
     },
-    "dntae": {
+    "DNTAE": {
         "status": "enemy"
     },
-    "-mia-": {
+    "-MIA-": {
         "status": "allied"
     },
-    "un-wc": {
+    "UN-WC": {
         "status": "enemy",
-        "note": "aaf"
+        "note": "AAF"
     },
-    "bstad": {
+    "BSTAD": {
         "status": "allied"
     },
-    "cnile": {
+    "CNILE": {
         "status": "enemy",
-        "note": "wcfu backup tag"
+        "note": "WCFU backup tag"
     },
-    "mabo": {
+    "MABO": {
         "status": "allied"
     },
-    "ponos": {
+    "PONOS": {
         "status": "allied"
     },
-    "_v-r_": {
+    "_V-R_": {
         "status": "allied"
     },
-    "bnk1": {
+    "BNK1": {
         "status": "allied",
         "note": "131"
     },
-    "bnk2": {
+    "BNK2": {
         "status": "allied"
     },
-    "bnk3": {
+    "BNK3": {
         "status": "allied"
     },
-    "the_1": {
+    "THE_1": {
         "status": "allied"
     },
-    "k-von": {
+    "K-VON": {
         "status": "allied"
     },
-    "vsao": {
+    "VSAO": {
         "status": "enemy"
     },
-    "av": {
+    "AV": {
         "status": "enemy"
     },
-    "absed": {
+    "ABSED": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "ali3n": {
+    "ALI3N": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "b2a": {
+    "B2A": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "bigro": {
+    "BIGRO": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "ef": {
+    "EF": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "f-all": {
+    "F-ALL": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "f3d": {
+    "F3D": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "fckyu": {
+    "FCKYU": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "fd-a": {
+    "FD-A": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "fft": {
+    "FFT": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "fk-em": {
+    "FK-EM": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "fu-2": {
+    "FU-2": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "fu-ry": {
+    "FU-RY": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "gts": {
+    "GTS": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "g-e-w": {
+    "G-E-W": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "music": {
+    "MUSIC": {
         "status": "allied"
     },
-    "old24": {
+    "OLD24": {
         "status": "allied",
-        "note": "n7f"
+        "note": "N7F"
     },
-    "-kafR": {
+    "-KAFR": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "wctp_": {
+    "WCTP_": {
         "status": "enemy"
     },
-    "lj8": {
+    "LJ8": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "mercc": {
+    "MERCC": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "mongo": {
+    "MONGO": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "myh_": {
+    "MYH_": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "myh-r": {
+    "MYH-R": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "ndl": {
+    "NDL": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "nem": {
+    "NEM": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "nmhrk": {
+    "NMHRK": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "oldaz": {
+    "OLDAZ": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "gazie": {
+    "GAZIE": {
         "status": "allied",
-        "note": "n7f"
+        "note": "N7F"
     },
-    "on": {
+    "ON": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "otlws": {
+    "OTLWS": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "_pl_": {
+    "_PL_": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "pbud": {
+    "PBUD": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "qt": {
+    "QT": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "rfc2": {
+    "RFC2": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "rgj": {
+    "RGJ": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "-rnt-": {
+    "-RNT-": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "-sbd-": {
+    "-SBD-": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "shado": {
+    "SHADO": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "sigal": {
+    "SIGAL": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "spurs": {
+    "SPURS": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "srfir": {
+    "SRFIR": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "t-r-b": {
+    "T-R-B": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "tw-tt": {
+    "TW-TT": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "ukhit": {
+    "UKHIT": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "v-t": {
+    "V-T": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "wcog": {
+    "WCOG": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "_r-v_": {
+    "_R-V_": {
         "status": "allied"
     },
-    "-rrh-": {
+    "-RRH-": {
         "status": "allied",
-        "note": "clarify who they are with main tag allied on www"
+        "note": "clarify who they are with main tag allied on WWW"
     },
-    "fromh": {
+    "FROMH": {
         "status": "enemy"
     },
-    "t209": {
+    "T209": {
         "status": "enemy"
     },
-    "icbm": {
+    "ICBM": {
         "status": "allied"
     },
-    "ksa": {
+    "KSA": {
         "status": "enemy"
     },
-    "sfog": {
+    "SFOG": {
         "status": "enemy",
-        "note": "aaf"
+        "note": "Aaf"
     },
-    "diab1": {
+    "DIAB1": {
         "status": "allied"
     },
-    "0ne35": {
+    "0NE35": {
         "status": "allied"
     },
-    "n1ppl": {
+    "N1PPL": {
         "status": "allied"
     },
-    "phnxr": {
+    "PHNXR": {
         "status": "allied"
     },
-    "afg_k": {
+    "AFG_K": {
         "status": "allied"
     },
-    "gfh": {
+    "GFH": {
         "status": "allied",
         "note": "131"
     },
-    "nx_hh": {
+    "NX_HH": {
         "status": "allied",
         "note": "24"
     },
-    "mra24": {
+    "MRA24": {
         "status": "allied"
     },
-    "l-phx": {
+    "L-PHX": {
         "status": "allied"
     },
-    "cp-24": {
+    "CP-24": {
         "status": "allied"
     },
-    "asa": {
+    "ASA": {
         "status": "allied"
     },
-    "wp-el": {
+    "WP-EL": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "wwwb1": {
+    "WWWB1": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "-xlv-": {
+    "-XLV-": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "-fal-": {
+    "-FAL-": {
         "status": "enemy",
-        "note": "uao"
+        "note": "UAO"
     },
-    "tboy": {
+    "TBOY": {
         "status": "allied",
-        "note": "krj mini"
+        "note": "KRJ mini"
     },
-    "goose": {
+    "GOOSE": {
         "status": "enemy"
     },
-    "hvso": {
+    "HVSO": {
         "status": "allied"
     },
-    "wall": {
+    "WALL": {
         "status": "allied",
-        "note": "alt tag to n7f"
+        "note": "Alt tag to n7f"
     },
-    "uyf": {
+    "UYF": {
         "status": "enemy"
     },
-    "7goku": {
+    "7GOKU": {
         "status": "allied"
     },
-    "lycn": {
+    "LYCN": {
         "status": "enemy",
-        "note": "made enemy for hitting allies waiting on leader"
+        "note": "Made enemy for hitting allies waiting on leader"
     },
-    "1wp1": {
+    "1WP1": {
         "status": "allied"
     },
-    "t-a-g": {
+    "T-A-G": {
         "status": "allied"
     },
     "01010": {
         "status": "allied"
     },
-    "cc": {
+    "CC": {
         "status": "allied",
-        "note": "sector 52"
+        "note": "Sector 52"
     },
     "0093-": {
         "status": "allied"
     },
-    "whu": {
+    "WHU": {
         "status": "enemy"
     },
-    "r_r_m": {
+    "R_R_M": {
         "status": "allied"
     },
-    "algir": {
+    "ALGIR": {
         "status": "allied"
     },
-    "vssec": {
+    "VSSEC": {
         "status": "allied"
     },
-    "legit": {
+    "LEGIT": {
         "status": "allied",
-        "note": "sector 1"
+        "note": "Sector 1"
     },
-    "-5g-": {
+    "-5G-": {
         "status": "allied"
     },
-    "fght": {
+    "FGHT": {
         "status": "enemy"
     },
-    "fgh": {
+    "FGH": {
         "status": "enemy"
     },
-    "adik": {
+    "ADIK": {
         "status": "allied",
-        "note": "tp sector 4"
+        "note": "TP sector 4"
     },
-    "12sec": {
+    "12SEC": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "amw": {
+    "AMW": {
         "status": "allied",
-        "note": "andrew tedstone"
+        "note": "Andrew Tedstone"
     },
-    "orig": {
+    "ORIG": {
         "status": "allied"
     },
-    "nfru": {
+    "NFRU": {
         "status": "allied",
-        "note": "tp - sector 25"
+        "note": "TP - sector 25"
     },
-    "t81p": {
+    "T81P": {
         "status": "enemy"
     },
-    "abyss": {
-        "status": "ceasefire",
-        "note": "allied in 52"
+    "ABYSS": {
+        "status": "neutral",
+        "note": "Allied in 52"
     },
-    "s-i-x": {
+    "S-I-X": {
         "status": "allied",
-        "note": "iwa - lisa and shemp mini in 12"
+        "note": "IWA - Lisa and Shemp mini in 12"
     },
-    "-fka-": {
-        "status": "allied"
-    },
-    "_win_": {
-        "status": "enemy"
-    },
-    "tp-si": {
-        "status": "enemy",
-        "note": "pending. tp approval"
-    },
-    "kntbf": {
-        "status": "allied",
-        "note": "kt alt"
-    },
-    "pqker": {
-        "status": "enemy"
-    },
-    "tphnk": {
+    "-FKA-": {
         "status": "neutral"
     },
-    "regan": {
+    "_WIN_": {
         "status": "enemy"
     },
-    "vik": {
-        "status": "enemy"
-    },
-    "edf": {
-        "status": "enemy"
-    },
-    "wo225": {
-        "status": "enemy"
-    },
-    "ek-pl": {
-        "status": "enemy"
-    },
-    "fa-s": {
-        "status": "allied"
-    },
-    "grav": {
-        "status": "allied"
-    },
-    "tmlb": {
+    "TP-SI": {
         "status": "enemy",
-        "note": "changed sides"
+        "note": "Pending. TP approval"
     },
-    "vsa0": {
+    "KNTBF": {
+        "status": "allied",
+        "note": "KT alt"
+    },
+    "PQKER": {
         "status": "enemy"
     },
-    "n_a": {
+    "TPHNK": {
         "status": "neutral"
     },
-    "torn": {
+    "REGAN": {
         "status": "enemy"
     },
-    "-hk-": {
+    "VIK": {
+        "status": "enemy"
+    },
+    "EDF": {
+        "status": "enemy"
+    },
+    "WO225": {
+        "status": "enemy"
+    },
+    "EK-PL": {
+        "status": "enemy"
+    },
+    "FA-S": {
         "status": "allied"
     },
-    "xnbot": {
+    "GRAV": {
         "status": "allied"
     },
-    "fa190": {
+    "TMLB": {
+        "status": "enemy",
+        "note": "CHANGED SIDES"
+    },
+    "VSA0": {
+        "status": "enemy"
+    },
+    "N_A": {
+        "status": "neutral"
+    },
+    "TORN": {
+        "status": "enemy"
+    },
+    "-HK-": {
+        "status": "allied"
+    },
+    "XNBot": {
+        "status": "allied"
+    },
+    "FA190": {
         "status": "allied"
     },
     "24/7": {
         "status": "enemy"
     },
-    "t_wat": {
+    "T_WAT": {
         "status": "enemy"
     },
     "agk": {
         "status": "enemy"
     },
-    "u-s-a": {
+    "U-S-A": {
         "status": "enemy"
     },
-    "zipit": {
+    "ZIPIT": {
         "status": "enemy"
     },
-    "popo": {
+    "POPO": {
         "status": "allied"
     },
-    "n7fed": {
+    "N7FED": {
         "status": "enemy"
     },
-    "fed12": {
+    "FED12": {
         "status": "enemy"
     },
-    "unc1e": {
+    "Unc1e": {
         "status": "enemy"
     },
-    "uncus": {
+    "UNCUS": {
         "status": "enemy"
     },
-    "djt45": {
+    "DJT45": {
         "status": "enemy"
     },
-    "b_a_s": {
+    "B_A_S": {
         "status": "enemy"
     },
-    "m_m": {
+    "M_M": {
         "status": "enemy",
-        "note": "bmf allies"
+        "note": "Bmf allies"
     },
     "umf": {
         "status": "enemy"
     },
-    "skc": {
+    "SKC": {
         "status": "enemy"
     },
-    "k_pop": {
+    "K_POP": {
         "status": "allied"
     },
-    "-bf4l": {
+    "-BF4L": {
         "status": "enemy"
     },
-    "nmfp": {
+    "NMFP": {
         "status": "allied"
     },
-    "-dbz-": {
+    "-DBZ-": {
         "status": "allied"
     },
-    "lethl": {
+    "Lethl": {
         "status": "enemy"
     },
-    "as-2": {
+    "AS-2": {
         "status": "allied"
     },
-    "luv_u": {
+    "LUV_U": {
         "status": "enemy"
     },
-    "-tsk-": {
+    "-TSK-": {
         "status": "allied"
     },
-    "n-c-t": {
+    "N-C-T": {
         "status": "allied"
     },
-    "n_c_t": {
+    "N_C_T": {
         "status": "allied"
     },
-    "t7": {
+    "T7": {
         "status": "enemy"
     },
-    "primo": {
+    "pRIMo": {
         "status": "enemy"
     },
-    "pk-nf": {
+    "Nem": {
         "status": "enemy"
     },
-    "gd2d": {
+    "PK-NF": {
         "status": "enemy"
     },
-    "_es_": {
+    "GD2D": {
         "status": "enemy"
     },
-    "n-z": {
+    "_ES_": {
         "status": "enemy"
     },
-    "pag": {
+    "N-Z": {
+        "status": "enemy"
+    },
+    "PAG": {
+        "status": "enemy"
+    },
+    "TAP_I": {
+        "status": "enemy"
+    },
+    "-TNM-": {
         "status": "enemy"
     },
     "tap_i": {
         "status": "enemy"
     },
-    "-tnm-": {
+    "-EA-": {
         "status": "enemy"
     },
-    "-ea-": {
-        "status": "enemy"
-    },
-    "n7-ai": {
+    "N7-AI": {
         "status": "allied"
     },
-    "kidon": {
+    "KIDON": {
         "status": "enemy"
     },
-    "dram": {
+    "DRAM": {
         "status": "enemy"
     },
     "71sf": {
         "status": "allied"
     },
-    "-mq-": {
+    "-MQ-": {
         "status": "allied",
-        "note": "bob khater friend's"
+        "note": "Bob Khater friend's"
     },
-    "hot_1": {
+    "HOT_1": {
         "status": "allied"
     },
     "farm8": {
         "status": "allied"
     },
-    "lod": {
+    "LOD": {
         "status": "allied"
     },
-    "aoh": {
+    "AOH": {
         "status": "allied"
     },
-    "dany": {
+    "DANY": {
         "status": "allied"
     },
-    "next": {
+    "NEXT": {
         "status": "allied"
     },
-    "ki": {
+    "KI": {
         "status": "allied"
     },
-    "_ufo_": {
+    "_UFO_": {
         "status": "allied"
     },
     "farm2": {
         "status": "allied"
     },
-    "ff-hs": {
+    "FF-HS": {
         "status": "allied"
     },
-    "-ub-": {
+    "-UB-": {
         "status": "allied"
     },
-    "flatu": {
+    "FLATU": {
         "status": "allied"
     },
-    "s___w": {
+    "S___W": {
         "status": "allied"
     },
-    "grazy": {
+    "GRAZY": {
         "status": "allied"
     },
-    "wsao": {
+    "WSAO": {
         "status": "allied"
     },
-    "usofa": {
+    "USOFA": {
         "status": "allied"
     },
-    "fkw": {
+    "FKW": {
         "status": "allied"
     },
-    "mpa": {
+    "MPA": {
         "status": "allied",
-        "note": "fff friendly"
+        "note": "FFF Friendly"
     },
-    "otc": {
+    "OTC": {
         "status": "allied"
     },
-    "_bia_": {
+    "_BIA_": {
         "status": "allied",
         "note": "43"
     },
     "farm7": {
         "status": "allied"
     },
-    "hhmmm": {
+    "HHMMM": {
         "status": "allied"
     },
-    "tp_pw": {
+    "TP_PW": {
         "status": "allied"
     },
-    "s-k": {
+    "S-K": {
         "status": "allied"
     },
-    "16df": {
+    "16DF": {
         "status": "allied"
     },
-    "-te-": {
+    "-TE-": {
         "status": "allied"
     },
-    "ebul": {
+    "EBUL": {
         "status": "allied"
     },
-    "jak": {
+    "JAK": {
         "status": "allied"
     },
-    "firm": {
+    "FIRM": {
         "status": "allied"
     },
-    "1gear": {
+    "1GEAR": {
         "status": "allied"
     },
-    "-bh--": {
+    "-BH--": {
         "status": "allied"
     },
-    "fcked": {
+    "FCKED": {
         "status": "allied"
     },
-    "a5a5n": {
+    "A5A5N": {
         "status": "allied"
     },
-    "bhfH": {
+    "BHFH": {
         "status": "allied"
     },
-    "piki": {
+    "PIKI": {
         "status": "allied"
     },
-    "d--s": {
+    "D--S": {
         "status": "allied"
     },
-    "cpr1": {
+    "CPR1": {
         "status": "allied"
     },
-    "ronin": {
+    "Ronin": {
         "status": "allied"
     },
-    "-d3-": {
+    "-D3-": {
         "status": "allied"
     },
-    "sty": {
+    "STY": {
         "status": "allied"
     },
-    "lb-43": {
+    "LB-43": {
         "status": "allied"
     },
-    "iks": {
+    "IKS": {
         "status": "allied"
     },
-    "whip": {
+    "WHIP": {
         "status": "allied"
     },
-    "lupus": {
+    "Lupus": {
         "status": "allied"
     },
     "noaff": {
         "status": "allied"
     },
-    "7-oct": {
+    "7-OCT": {
         "status": "allied"
     },
-    "grc43": {
+    "GRC43": {
         "status": "allied"
     },
-    "s43l2": {
+    "S43L2": {
         "status": "allied"
     },
-    "tfwpa": {
+    "TFWPA": {
         "status": "allied"
     },
-    "iaa_e": {
+    "IAA_E": {
         "status": "allied"
     },
     "-43-": {
         "status": "allied"
     },
-    "iaa_m": {
+    "IAA_M": {
         "status": "allied"
     },
-    "gop": {
+    "GOP": {
         "status": "allied"
     },
-    "_fa_": {
+    "_FA_": {
         "status": "allied"
     },
-    "s-d-r": {
+    "S-D-R": {
         "status": "allied"
     },
-    "137fw": {
+    "137FW": {
         "status": "allied"
     },
-    "n7f-l": {
+    "N7F-L": {
         "status": "allied"
     },
-    "un31": {
+    "UN31": {
         "status": "allied"
     },
-    "x0x0x": {
+    "X0X0X": {
         "status": "allied"
     },
-    "xoxox": {
+    "XOXOX": {
         "status": "allied"
     },
-    "i_g_i": {
+    "I_G_I": {
         "status": "allied"
     },
-    "nek": {
+    "NEK": {
         "status": "allied"
     },
-    "aov": {
+    "Aov": {
         "status": "allied"
     },
-    "yeast": {
+    "YEAST": {
         "status": "allied"
     },
-    "xawcx": {
+    "xAWCx": {
         "status": "allied"
     },
-    "koda": {
+    "KODA": {
         "status": "allied"
     },
-    "wild1": {
+    "Wild1": {
         "status": "allied"
     },
-    "_rk_": {
+    "_RK_": {
         "status": "allied"
     },
-    "tree": {
+    "Tree": {
         "status": "enemy"
     },
-    "bor3d": {
+    "BOR3D": {
         "status": "allied"
     },
-    "ch4os": {
+    "CH4OS": {
         "status": "allied",
-        "note": "glens mini tag"
+        "note": "Glens mini tag"
     },
-    "georg": {
+    "GEORG": {
         "status": "allied"
     },
-    "jqk3r": {
+    "JQK3R": {
         "status": "allied"
     },
-    "hqker": {
+    "HQKER": {
         "status": "allied"
     },
-    "dt131": {
+    "DT131": {
         "status": "allied"
     },
-    "got31": {
+    "GOT31": {
         "status": "allied"
     },
-    "genrl": {
+    "Genrl": {
         "status": "allied"
     },
-    "usa--": {
+    "USA--": {
         "status": "allied"
     },
-    "ace31": {
+    "WRECK": {
         "status": "allied"
     },
-    "dboyz": {
+    "Ace31": {
         "status": "allied"
     },
-    "xsnpe": {
+    "Dboyz": {
         "status": "allied"
     },
-    "myth-": {
+    "Xsnpe": {
         "status": "allied"
     },
-    "hazmt": {
+    "Myth-": {
+        "status": "allied"
+    },
+    "HazMt": {
         "status": "allied"
     },
     "skllz": {
         "status": "allied"
     },
-    "rw": {
+    "RW": {
         "status": "allied"
     },
-    "xripX": {
+    "xRIPx": {
         "status": "allied"
     },
     "game": {
         "status": "allied"
     },
-    "t-d-r": {
+    "T-D-R": {
         "status": "allied"
     },
-    "bnk20": {
+    "BNK20": {
         "status": "allied"
     },
-    "ltr": {
+    "LTR": {
         "status": "allied"
     },
     "z_l_f": {
         "status": "allied"
     },
-    "jedik": {
+    "JEDIK": {
         "status": "allied"
     },
-    "meows": {
+    "MEOWS": {
         "status": "allied"
     },
-    "malev": {
+    "MALEV": {
         "status": "allied"
     },
     "madd": {
@@ -3744,694 +3751,697 @@
     "duvel": {
         "status": "allied"
     },
-    "d_s": {
+    "D_S": {
         "status": "allied"
     },
-    "a230z": {
+    "A230Z": {
         "status": "allied"
     },
-    "a23oz": {
+    "A23Oz": {
         "status": "allied"
     },
     "ut": {
         "status": "allied"
     },
-    "meat": {
+    "MEAT": {
         "status": "allied"
     },
     "woofs": {
         "status": "allied"
     },
-    "templ": {
+    "TEMPL": {
         "status": "allied"
     },
-    "s-olo": {
+    "S-olo": {
         "status": "allied"
     },
-    "182jt": {
+    "182JT": {
         "status": "allied"
     },
-    "jdpa": {
+    "JDPA": {
         "status": "allied"
     },
-    "kw": {
+    "KW": {
         "status": "allied"
     },
-    "myob": {
+    "MYOB": {
         "status": "allied"
     },
-    "crazi": {
+    "CRAZI": {
         "status": "allied"
     },
-    "d-r": {
+    "D-R": {
         "status": "allied"
     },
-    "-ut-": {
+    "-UT-": {
         "status": "allied"
     },
-    "blnl": {
+    "BLNL": {
         "status": "allied"
     },
-    "pr1me": {
+    "PR1ME": {
         "status": "allied"
     },
-    "we": {
+    "WE": {
         "status": "allied"
     },
-    "ouwes": {
+    "OUWES": {
         "status": "allied"
     },
-    "redss": {
+    "RedSS": {
         "status": "allied"
     },
-    "mvpe": {
+    "MVPE": {
         "status": "allied"
     },
-    "-ctd-": {
+    "-CTD-": {
         "status": "allied"
     },
-    "den": {
+    "DEN": {
         "status": "allied"
     },
-    "isas": {
+    "iSAS": {
         "status": "allied"
     },
-    "woofz": {
+    "Woofz": {
         "status": "allied"
     },
-    "rca1": {
+    "RCA1": {
         "status": "allied"
     },
-    "erf": {
+    "ERF": {
         "status": "allied"
     },
-    "rav24": {
+    "RAV24": {
         "status": "allied"
     },
-    "-pap-": {
+    "-PAP-": {
         "status": "allied",
-        "note": "william macfie leader"
+        "note": "William Macfie leader"
     },
-    "dctbb": {
+    "DCTBB": {
         "status": "allied"
     },
-    "ras": {
+    "RAS": {
         "status": "allied"
     },
-    "bia": {
+    "BIA": {
         "status": "allied"
     },
-    "mvpre": {
+    "MVPRE": {
         "status": "allied"
     },
-    "bangs": {
+    "BANGS": {
         "status": "allied"
     },
-    "mmy": {
-        "status": "allied"
-    },
-    "wreck": {
-        "status": "allied"
-    },
-    "twc": {
-        "status": "allied"
-    },
-    "lforx": {
-        "status": "allied"
-    },
-    "m___a": {
-        "status": "allied"
-    },
-    "_kng_": {
+    "TEO": {
         "status": "allied",
-        "note": "sector 52 king smash’s tag"
+        "note": "Erdinc Oran Sector 52"
     },
-    "dik12": {
+    "MMY": {
+        "status": "allied"
+    },
+    "TWC": {
+        "status": "allied"
+    },
+    "LFORX": {
+        "status": "allied"
+    },
+    "M___A": {
+        "status": "allied"
+    },
+    "_KNG_": {
+        "status": "allied",
+        "note": "Sector 52 King Smash’s tag"
+    },
+    "DIK12": {
         "status": "enemy"
     },
-    "fee": {
+    "FEE": {
         "status": "allied"
     },
-    "w4nk4": {
+    "W4NK4": {
         "status": "allied"
     },
     "52rct": {
         "status": "allied"
     },
-    "thorn": {
+    "THORN": {
         "status": "allied"
     },
-    "na007": {
+    "NA007": {
         "status": "allied"
     },
-    "-btc-": {
+    "-BTC-": {
         "status": "allied",
-        "note": "mohamed moustafa mahoud leader"
+        "note": "Mohamed Moustafa Mahoud leader"
     },
-    "-fjb-": {
+    "-FJB-": {
         "status": "allied",
-        "note": "resident in sector 52"
+        "note": "Resident in sector 52"
     },
-    "slutz": {
+    "SLUTZ": {
         "status": "allied"
     },
-    "131f": {
+    "131F": {
         "status": "allied",
-        "note": "craig’s farming tag n7f"
+        "note": "Craig’s farming tag N7F"
     },
-    "sdcr": {
+    "SDCR": {
         "status": "allied",
-        "note": "n7f allied leader nathan ray denniston"
+        "note": "N7F allied Leader Nathan Ray Denniston"
     },
-    "twst1": {
+    "TWST1": {
         "status": "allied",
-        "note": "brian marble minis"
+        "note": "Brian Marble minis"
     },
-    "dvc": {
+    "DVC": {
         "status": "allied"
     },
-    "spt": {
+    "SPT": {
         "status": "allied"
     },
-    "-wtr-": {
+    "-WTR-": {
         "status": "allied"
     },
-    "un182": {
+    "UN182": {
         "status": "allied"
     },
-    "wm": {
+    "WM": {
         "status": "allied"
     },
-    "drgns": {
+    "DRGNS": {
         "status": "allied",
-        "note": "rob tetzloff sector 42"
+        "note": "Rob Tetzloff sector 42"
     },
-    "n7f_-": {
+    "N7F_-": {
         "status": "allied"
     },
-    "__n7f": {
+    "__N7F": {
         "status": "allied"
     },
-    "dwm": {
+    "DWM": {
         "status": "allied"
     },
-    "one35": {
+    "ONE35": {
         "status": "allied",
-        "note": "sector 159, 135"
+        "note": "Sector 159, 135"
     },
-    "-198-": {
+    "DPI": {
+        "status": "enemy"
+    },
+    "-N7F-": {
         "status": "allied"
     },
-    "-n7f-": {
+    "JQKER": {
         "status": "allied"
     },
-    "jqker": {
-        "status": "allied"
-    },
-    "u-k-u": {
+    "U-K-U": {
         "status": "allied",
-        "note": "listed on www - clarify who and where they are"
+        "note": "listed on WWW - clarify who and where they are"
     },
-    "krj": {
+    "KRJ": {
         "status": "allied",
         "note": "43"
     },
-    "-nrc-": {
+    "-NRC-": {
         "status": "allied"
     },
-    "s_p_t": {
+    "S_P_T": {
         "status": "allied"
     },
-    "_n7f_": {
+    "_N7F_": {
         "status": "allied"
     },
-    "relax": {
+    "RELAX": {
         "status": "allied"
     },
-    "trp": {
+    "TRP": {
         "status": "allied"
     },
-    "fa-hs": {
+    "FA-HS": {
         "status": "allied"
     },
-    "n7f": {
+    "N7F": {
         "status": "allied"
     },
-    "bd-l": {
+    "BD-L": {
         "status": "allied"
     },
-    "susq": {
+    "SUSQ": {
         "status": "allied"
     },
-    "kmwdr": {
+    "KMWDR": {
         "status": "allied"
     },
-    "n7f_s": {
+    "N7F_S": {
         "status": "allied"
     },
-    "-s2n-": {
+    "-S2N-": {
         "status": "allied"
     },
-    "asasn": {
+    "ASASN": {
         "status": "allied",
-        "note": "leader jack johnson"
+        "note": "Leader Jack Johnson"
     },
-    "n7fk": {
+    "N7FK": {
         "status": "allied"
     },
-    "jnb": {
+    "JNB": {
         "status": "allied"
     },
-    "grfa": {
+    "GRFA": {
         "status": "enemy"
     },
-    "uao": {
+    "UAO": {
         "status": "enemy"
     },
-    "w2h": {
+    "W2H": {
         "status": "enemy"
     },
-    "-ega-": {
+    "-EGA-": {
         "status": "enemy"
     },
-    "gam": {
+    "GAM": {
         "status": "enemy"
     },
-    "a-c-s": {
+    "A-C-S": {
         "status": "enemy"
     },
-    "ro": {
+    "RO": {
         "status": "enemy"
     },
-    "sf": {
+    "SF": {
         "status": "enemy"
     },
-    "f-off": {
+    "F-OFF": {
         "status": "enemy"
     },
-    "rod_": {
+    "ROD_": {
         "status": "enemy"
     },
-    "w-c-i": {
+    "W-C-I": {
         "status": "enemy"
     },
-    "k-s-": {
+    "K-S-": {
         "status": "enemy",
-        "note": "traitors"
+        "note": "TRAITORS"
     },
-    "b-l-s": {
+    "B-L-S": {
         "status": "enemy"
     },
-    "-acs-": {
+    "-ACS-": {
         "status": "enemy"
     },
-    "lforc": {
+    "LFORC": {
         "status": "enemy"
     },
-    "prks": {
+    "PRKS": {
         "status": "enemy"
     },
-    "-ger-": {
+    "-GER-": {
         "status": "enemy"
     },
-    "_knk_": {
+    "_KNK_": {
         "status": "enemy"
     },
-    "albs_": {
+    "ALBS_": {
         "status": "enemy"
     },
-    "_pvp_": {
+    "-198-": {
         "status": "enemy"
     },
-    "_rta_": {
+    "_PvP_": {
+        "status": "enemy"
+    },
+    "_RTA_": {
         "status": "enemy"
     },
     "ms14": {
         "status": "allied"
     },
-    "iwa19": {
+    "IWA19": {
         "status": "allied"
     },
-    "19iwa": {
+    "19IWA": {
         "status": "allied"
     },
-    "tndr1": {
+    "Tndr1": {
         "status": "allied"
     },
-    "g4h": {
+    "G4H": {
         "status": "allied"
     },
-    "lf": {
+    "LF": {
         "status": "allied"
     },
-    "u-a": {
+    "U-A": {
         "status": "allied"
     },
     "llypd": {
         "status": "allied"
     },
-    "eef": {
+    "EEF": {
         "status": "allied",
-        "note": "jb sheets. leader"
+        "note": "JB Sheets. Leader"
     },
-    "usna": {
+    "USNA": {
         "status": "allied"
     },
-    "-atw-": {
+    "-ATW-": {
         "status": "allied"
     },
     "ck-ff": {
         "status": "allied"
     },
-    "owo": {
+    "OWO": {
         "status": "allied"
     },
-    "baals": {
+    "BAALS": {
         "status": "allied"
     },
-    "cb2": {
+    "CB2": {
         "status": "allied"
     },
-    "uckma": {
+    "UCKMA": {
         "status": "allied"
     },
-    "roe-2": {
+    "ROE-2": {
         "status": "allied",
-        "note": "also listed on www"
+        "note": "also listed on WWW"
     },
-    "-weed": {
+    "-WEED": {
         "status": "allied",
-        "note": "iwa - listed allied on www"
+        "note": "IWA - listed allied on WWW"
     },
     "wiz-w": {
         "status": "allied",
-        "note": "iwa - listed allied on www"
+        "note": "IWA - listed allied on WWW"
     },
-    "-ass_": {
+    "-ASS_": {
         "status": "allied",
-        "note": "iwa"
+        "note": "IWA"
     },
-    "mf27": {
+    "MF27": {
         "status": "allied"
     },
-    "f1rm": {
-        "status": "allied",
-        "note": "sector 27"
-    },
-    "hfa": {
-        "status": "allied"
-    },
-    "_bvb_": {
-        "status": "allied"
-    },
-    "hfa27": {
-        "status": "allied"
-    },
-    "ogts": {
+    "F1RM": {
         "status": "allied",
         "note": "sector 27"
     },
-    "bvb": {
+    "HFA": {
         "status": "allied"
     },
-    "135ff": {
+    "_BVB_": {
         "status": "allied"
     },
-    "bvb27": {
+    "HFA27": {
         "status": "allied"
     },
-    "_cc_": {
-        "status": "allied",
-        "note": "sector 27 also listed on www"
-    },
-    "_buk_": {
-        "status": "allied"
-    },
-    "cb": {
+    "OGTS": {
         "status": "allied",
         "note": "sector 27"
     },
-    "bh-f": {
+    "BVB": {
         "status": "allied"
     },
-    "core_": {
-        "status": "allied",
-        "note": "iwa"
+    "135FF": {
+        "status": "allied"
     },
-    "dc2u": {
-        "status": "allied",
-        "note": "iwa"
+    "BVB27": {
+        "status": "allied"
     },
-    "wcnp": {
+    "_CC_": {
         "status": "allied",
-        "note": "sector 127"
+        "note": "sector 27 also listed on WWW"
     },
-    "157bs": {
+    "_BUK_": {
+        "status": "allied"
+    },
+    "CB": {
         "status": "allied",
-        "note": "sector 157 uno/sendoh"
+        "note": "sector 27"
     },
-    "muted": {
+    "BH-F": {
+        "status": "allied"
+    },
+    "CORE_": {
+        "status": "allied",
+        "note": "Iwa"
+    },
+    "DC2U": {
+        "status": "allied",
+        "note": "IWA"
+    },
+    "WCNP": {
+        "status": "allied",
+        "note": "Sector 127"
+    },
+    "157BS": {
+        "status": "allied",
+        "note": "Sector 157 UNO/Sendoh"
+    },
+    "MUTED": {
         "status": "allied",
         "note": "sector 111 and 122"
     },
-    "tp_hs": {
+    "TP_HS": {
         "status": "allied",
         "note": "sector 111"
     },
-    "-psk-": {
+    "-PSK-": {
         "status": "allied",
-        "note": "sector 157 uno/sendoh"
+        "note": "Sector 157 UNO/Sendoh"
     },
-    "spmtp": {
-        "status": "allied",
-        "note": "sector 111"
-    },
-    "one28": {
-        "status": "allied",
-        "note": "sector 128"
-    },
-    "_ca_": {
-        "status": "allied",
-        "note": "sector 109, 111 and 122"
-    },
-    "npa_g": {
-        "status": "allied",
-        "note": "allied to wcnp, sector 33 glanne bondoc"
-    },
-    "elulz": {
+    "SPMTP": {
         "status": "allied",
         "note": "sector 111"
     },
-    "wod": {
+    "ONE28": {
         "status": "allied",
-        "note": "sector 88 vicious/kida"
+        "note": "Sector 128"
     },
-    "sec25": {
-        "status": "allied"
-    },
-    "tvj": {
-        "status": "allied"
-    },
-    "tpuf": {
+    "_CA_": {
         "status": "allied",
-        "note": "sector 88 and 122"
+        "note": "sector 109,  111 and  122"
     },
-    "gftp": {
+    "NPA_G": {
         "status": "allied",
-        "note": "sector 88 vicious/kida"
+        "note": "allied to WCNP, sector 33 Glanne Bondoc"
     },
-    "ca": {
+    "ELULZ": {
         "status": "allied",
-        "note": "sector 109, 111 and 122"
+        "note": "sector 111"
     },
-    "rrm": {
+    "WOD": {
         "status": "allied",
-        "note": "sector 138 vicious/kida"
+        "note": "Sector 88 VICIOUS/KIDA"
     },
-    "rrm88": {
+    "SEC25": {
+        "status": "allied"
+    },
+    "TVJ": {
+        "status": "allied"
+    },
+    "TPUF": {
         "status": "allied",
-        "note": "sector 88 vicious/kida"
+        "note": "Sector 88 and 122"
     },
-    "usuk": {
-        "status": "allied"
-    },
-    "n7_hs": {
-        "status": "allied"
-    },
-    "s_g": {
-        "status": "allied"
-    },
-    "tpk3": {
-        "status": "allied"
-    },
-    "122tp": {
-        "status": "allied"
-    },
-    "tap-1": {
-        "status": "allied"
-    },
-    "psk": {
-        "status": "allied"
-    },
-    "one60": {
-        "status": "allied"
-    },
-    "tp_uf": {
+    "GFTP": {
         "status": "allied",
-        "note": "sector 138 vicious/kida"
+        "note": "Sector 88 VICIOUS/KIDA"
     },
-    "utp81": {
+    "CA": {
         "status": "allied",
-        "note": "sector 81"
+        "note": "Sector 109, 111 and 122"
     },
-    "gf_tp": {
+    "RRM": {
         "status": "allied",
-        "note": "sector 88 vicious/kida"
+        "note": "Sector 138 VICIOUS/KIDA"
     },
-    "xdad": {
+    "RRM88": {
+        "status": "allied",
+        "note": "Sector 88 VICIOUS/KIDA"
+    },
+    "USUK": {
         "status": "allied"
     },
-    "xwwwx": {
+    "N7_HS": {
+        "status": "allied"
+    },
+    "S_G": {
+        "status": "allied"
+    },
+    "TPK3": {
+        "status": "allied"
+    },
+    "122TP": {
+        "status": "allied"
+    },
+    "TAP-1": {
+        "status": "allied"
+    },
+    "PSK": {
+        "status": "allied"
+    },
+    "ONE60": {
+        "status": "allied"
+    },
+    "TP_UF": {
+        "status": "allied",
+        "note": "Sector 138 VICIOUS/KIDA"
+    },
+    "UTP81": {
+        "status": "allied",
+        "note": "Sector 81"
+    },
+    "GF_TP": {
+        "status": "allied",
+        "note": "Sector 88 VICIOUS/KIDA"
+    },
+    "XDaD": {
+        "status": "allied"
+    },
+    "xWWWx": {
         "status": "allied"
     },
     "unite": {
         "status": "allied"
     },
-    "wg_pt": {
+    "WG_PT": {
         "status": "allied"
     },
-    "tulok": {
+    "TULOK": {
         "status": "allied"
     },
-    "tdd": {
+    "TDD": {
         "status": "allied"
     },
-    "nday": {
+    "NDAY": {
         "status": "allied"
     },
-    "ozz": {
+    "Ozz": {
         "status": "allied"
     },
-    "ozz_": {
+    "OZZ_": {
         "status": "allied"
     },
-    "uif": {
+    "UIF": {
         "status": "allied"
     },
-    "_sos": {
+    "_SOS": {
         "status": "allied"
     },
-    "sos_": {
+    "SOS_": {
         "status": "allied"
     },
-    "sos_-": {
+    "SOS_-": {
         "status": "allied"
     },
-    "-_sos": {
+    "-_SOS": {
         "status": "allied"
     },
-    "ozn": {
+    "OZN": {
         "status": "allied"
     },
-    "tps34": {
+    "TPS34": {
         "status": "allied"
     },
-    "tp-au": {
+    "TP-AU": {
         "status": "allied"
     },
-    "jero": {
+    "JERO": {
         "status": "allied"
     },
-    "3otso": {
+    "3OTSO": {
         "status": "allied"
     },
-    "koo-2": {
+    "KOO-2": {
         "status": "allied"
     },
-    "koo": {
+    "KOO": {
         "status": "allied"
     },
-    "-albs": {
+    "-ALBS": {
         "status": "allied"
     },
     "kf": {
         "status": "allied"
     },
-    "c_phx": {
+    "C_PHX": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "dak": {
+    "DAK": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "cro_a": {
+    "CRO_A": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "jpff": {
+    "JPFF": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "kt": {
+    "KT": {
         "status": "allied"
     },
-    "b-alb": {
+    "B-ALB": {
         "status": "allied"
     },
-    "jpff_": {
+    "JPFF_": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "tid-r": {
+    "TID-R": {
         "status": "allied",
-        "note": "core allies"
+        "note": "Core allies"
     },
-    "irish": {
+    "IRISH": {
         "status": "allied"
     },
-    "czsk": {
+    "CZSK": {
         "status": "enemy",
-        "note": "leader karol pali"
+        "note": "leader Karol Pali"
     },
-    "scp17": {
+    "SCP17": {
         "status": "enemy",
-        "note": "dg / w2h"
+        "note": "DG / W2H"
     },
-    "nrc": {
+    "NRC": {
+        "status": "enemy"
+    },
+    "ALPHA": {
         "status": "enemy",
-        "note": "aaf"
+        "note": "Philip Norris leader"
     },
-    "alpha": {
-        "status": "enemy",
-        "note": "philip norris leader"
-    },
-    "ufl_x": {
+    "UFL_X": {
         "status": "enemy",
         "note": "clarify who they are with"
     },
-    "roec": {
+    "ROEC": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "rrh": {
+    "RRH": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "zzz": {
+    "Zzz": {
         "status": "enemy"
     },
-    "ykfoo": {
+    "YKFOO": {
         "status": "enemy"
     },
-    "yolo-": {
+    "Yolo-": {
         "status": "enemy",
-        "note": "allied to uao"
+        "note": "Allied to UAO"
     },
-    "y-p-j": {
+    "Y-P-J": {
         "status": "enemy"
     },
-    "x114r": {
+    "x114R": {
         "status": "enemy"
     },
     "x114x": {
@@ -4440,532 +4450,529 @@
     "xpred": {
         "status": "enemy"
     },
-    "x-t-c": {
+    "X-T-C": {
         "status": "enemy"
     },
-    "-xtc-": {
+    "-XTC-": {
         "status": "enemy"
     },
     "xurra": {
         "status": "enemy"
     },
-    "xxx": {
+    "xXx": {
         "status": "enemy"
     },
-    "w0wc": {
+    "W0WC": {
         "status": "enemy"
     },
-    "w50wup": {
+    "W50WUP": {
         "status": "enemy"
     },
-    "wade": {
+    "WADE": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "-waf-": {
+    "-WAF-": {
         "status": "enemy"
     },
-    "war_e": {
+    "WAR_E": {
         "status": "enemy"
     },
-    "war_v": {
+    "WAR_V": {
         "status": "enemy"
     },
-    "wbh-1": {
+    "WBH-1": {
         "status": "enemy"
     },
-    "wcb": {
+    "WCB": {
         "status": "enemy"
     },
-    "wcb6": {
+    "WCB6": {
         "status": "enemy"
     },
-    "wcfur": {
+    "WCFUR": {
         "status": "enemy"
     },
-    "wcguk": {
+    "WCGUK": {
         "status": "enemy"
     },
-    "wcmde": {
+    "WCMDE": {
         "status": "enemy"
     },
-    "-wd-": {
+    "-WD-": {
         "status": "enemy"
     },
-    "w-e": {
+    "W-E": {
         "status": "enemy"
     },
-    "w-f-c": {
+    "W-F-C": {
         "status": "enemy"
     },
-    "wg-g": {
+    "WG-G": {
         "status": "enemy"
     },
-    "wgodz": {
+    "WGodz": {
         "status": "enemy"
     },
-    "wicka": {
+    "Wicka": {
         "status": "enemy"
     },
-    "w-n-m": {
+    "W-n-M": {
         "status": "enemy"
     },
-    "wodo": {
+    "WODO": {
         "status": "enemy"
     },
     "w-o-s": {
         "status": "enemy"
     },
-    "wsnm": {
+    "WSNM": {
         "status": "enemy"
     },
-    "_wus_": {
+    "_WuS_": {
         "status": "enemy"
     },
-    "ww390": {
+    "WW390": {
         "status": "enemy"
     },
     "wwglo": {
         "status": "enemy"
     },
-    "www1": {
+    "WWW1": {
         "status": "enemy"
     },
-    "wwwat": {
+    "WWWAT": {
         "status": "enemy"
     },
-    "val1": {
+    "VAL1": {
         "status": "enemy"
     },
-    "vals6": {
+    "VALS6": {
         "status": "enemy"
     },
-    "verse": {
+    "VERSE": {
         "status": "enemy"
     },
-    "vffr": {
+    "VFFR": {
         "status": "enemy"
     },
-    "vffr1": {
+    "VFFR1": {
         "status": "enemy"
     },
-    "v-lpm": {
+    "V-LPM": {
         "status": "enemy"
     },
-    "v_o_x": {
+    "V_O_X": {
         "status": "enemy"
     },
-    "u108": {
+    "U108": {
         "status": "enemy"
     },
-    "uff": {
+    "UFF": {
         "status": "enemy"
     },
-    "uffes": {
+    "UFFES": {
         "status": "enemy"
     },
-    "ukfam": {
+    "UKFam": {
         "status": "enemy"
     },
-    "un62": {
+    "UN62": {
         "status": "enemy"
     },
-    "unff": {
+    "UNFF": {
         "status": "enemy"
     },
-    "unit": {
+    "UNIT": {
         "status": "enemy"
     },
-    "untgd": {
+    "UNTGD": {
         "status": "enemy"
     },
-    "unw": {
+    "UNW": {
         "status": "enemy"
     },
-    "usmv": {
+    "USMV": {
         "status": "enemy"
     },
-    "uswc-": {
+    "USWC-": {
         "status": "enemy",
-        "note": "listed on www - clarify who and where they are"
+        "note": "listed on WWW - clarify who and where they are"
     },
-    "uswc1": {
+    "USWC1": {
         "status": "enemy"
     },
-    "uswca": {
+    "UswcA": {
         "status": "enemy"
     },
-    "uswcr": {
+    "USWCr": {
         "status": "enemy"
     },
-    "uwc": {
+    "UWc": {
         "status": "enemy"
     },
-    "t0ads": {
+    "T0ADS": {
         "status": "enemy"
     },
-    "toads": {
+    "TOADS": {
         "status": "enemy"
     },
-    "t4": {
+    "T4": {
         "status": "enemy"
     },
-    "t4_es": {
+    "T4_ES": {
         "status": "enemy"
     },
-    "takis": {
+    "Takis": {
         "status": "enemy"
     },
-    "tck": {
+    "TCK": {
         "status": "enemy"
     },
-    "termi": {
+    "TERMI": {
         "status": "enemy"
     },
-    "tg1": {
+    "TG1": {
         "status": "enemy"
     },
-    "tgk": {
+    "TGK": {
         "status": "enemy"
     },
-    "the9l": {
+    "The9L": {
         "status": "enemy"
     },
-    "t-hs": {
+    "T-Hs": {
         "status": "enemy"
     },
-    "tinkw": {
+    "TINKW": {
         "status": "enemy"
     },
-    "t-j-f": {
+    "T-J-F": {
         "status": "enemy"
     },
-    "total": {
+    "Total": {
         "status": "enemy"
     },
-    "troll": {
+    "TROLL": {
         "status": "enemy"
     },
-    "trrks": {
+    "TRRKS": {
         "status": "enemy"
     },
-    "ts-fr": {
+    "TS-Fr": {
         "status": "enemy"
     },
-    "tssuf": {
+    "TSSUF": {
         "status": "enemy"
     },
-    "s04ge": {
+    "S04GE": {
         "status": "enemy"
     },
-    "s0s": {
+    "S0S": {
         "status": "enemy"
     },
-    "s_121": {
+    "S_121": {
         "status": "enemy"
     },
-    "s-44": {
+    "S-44": {
         "status": "enemy"
     },
-    "_sa_": {
+    "_SA_": {
         "status": "enemy"
     },
-    "salty": {
+    "SALTY": {
         "status": "enemy"
     },
-    "sc": {
+    "SC": {
         "status": "enemy"
     },
-    "sc-77": {
+    "SC-77": {
         "status": "enemy"
     },
-    "s-c-k": {
+    "S-C-K": {
         "status": "enemy"
     },
-    "s-c-m": {
+    "S-C-M": {
         "status": "enemy"
     },
-    "scm-1": {
+    "SCM-1": {
         "status": "enemy"
     },
-    "scmbh": {
+    "scmBH": {
         "status": "enemy"
     },
-    "sdd1": {
+    "SDD1": {
         "status": "enemy"
     },
-    "sec62": {
+    "SEC62": {
         "status": "enemy"
     },
     "seek": {
         "status": "enemy"
     },
-    "ses50": {
+    "SES50": {
         "status": "enemy"
     },
-    "sfar": {
+    "SFAR": {
         "status": "enemy"
     },
-    "sfp": {
+    "SFP": {
         "status": "enemy"
     },
-    "silly": {
+    "SILLY": {
         "status": "enemy"
     },
-    "sk": {
+    "SK": {
         "status": "enemy"
     },
-    "s-k-b": {
+    "S-K-B": {
         "status": "enemy"
     },
-    "sle50": {
+    "SLE50": {
         "status": "enemy"
     },
-    "smaku": {
+    "SMAKU": {
         "status": "enemy"
     },
-    "solol": {
+    "SOLOL": {
         "status": "enemy"
     },
-    "soooo": {
+    "SOOOO": {
         "status": "enemy"
     },
-    "sp---": {
+    "SP---": {
         "status": "enemy"
     },
-    "spork": {
+    "SPORK": {
         "status": "enemy"
     },
-    "s-pua": {
+    "S-PUA": {
         "status": "enemy"
     },
-    "s-s-c": {
+    "S-S-C": {
         "status": "enemy"
     },
-    "ss-lw": {
+    "SS-LW": {
         "status": "enemy"
     },
-    "ss-st": {
+    "SS-ST": {
         "status": "enemy"
     },
-    "ss-ta": {
+    "SS-TA": {
         "status": "enemy"
     },
-    "stfup": {
+    "STFUP": {
         "status": "enemy"
     },
-    "sven": {
+    "Sven": {
         "status": "enemy"
     },
-    "s__w": {
+    "S__W": {
         "status": "enemy"
     },
-    "swb-r": {
+    "SWB-R": {
         "status": "enemy"
     },
-    "sws": {
+    "SWS": {
         "status": "enemy"
     },
-    "swseg": {
+    "SWSEG": {
         "status": "enemy"
     },
-    "sws-g": {
+    "SWS-G": {
         "status": "enemy"
     },
-    "syc": {
+    "SYC": {
         "status": "enemy"
     },
-    "syc-r": {
+    "SYC-r": {
         "status": "enemy"
     },
-    "r0wdy": {
+    "R0WDY": {
         "status": "enemy"
     },
     "rowdy": {
         "status": "enemy"
     },
-    "rcj": {
+    "RCJ": {
         "status": "enemy"
     },
-    "rc-s": {
+    "RC-S": {
         "status": "enemy"
     },
-    "red1": {
+    "RED1": {
         "status": "enemy"
     },
-    "redl": {
+    "REDl": {
         "status": "enemy"
     },
-    "red-l": {
+    "RED-L": {
         "status": "enemy"
     },
-    "red-1": {
+    "RED-1": {
         "status": "enemy"
     },
-    "regul": {
+    "REGUL": {
         "status": "enemy"
     },
-    "resrv": {
+    "RESRV": {
         "status": "enemy"
     },
-    "-rev-": {
+    "-REV-": {
         "status": "enemy"
     },
-    "rey": {
+    "REY": {
         "status": "enemy"
     },
-    "rload": {
+    "RLOAD": {
         "status": "enemy"
     },
-    "rgom": {
+    "RGOM": {
         "status": "enemy"
     },
-    "rn-ef": {
+    "RN-EF": {
         "status": "enemy"
     },
-    "-rngd": {
+    "-RNGD": {
         "status": "enemy"
     },
-    "rngdx": {
+    "RNGDx": {
         "status": "enemy"
     },
-    "ro_bc": {
+    "RO_BC": {
         "status": "enemy"
     },
     "rockrrockr": {
         "status": "enemy"
     },
-    "r-o-d": {
+    "R-O-D": {
         "status": "enemy"
     },
-    "rodac": {
+    "RoDac": {
         "status": "enemy"
     },
-    "ro--e": {
+    "RO--e": {
         "status": "enemy"
     },
-    "roe": {
+    "ROE": {
         "status": "enemy"
     },
-    "roold": {
+    "RoOld": {
         "status": "enemy"
     },
-    "rot": {
+    "ROT": {
         "status": "enemy"
     },
-    "rotd": {
+    "RoTD": {
         "status": "enemy"
     },
-    "rough": {
+    "ROUGH": {
         "status": "enemy"
     },
-    "_rsf_": {
+    "_RSF_": {
         "status": "enemy"
     },
-    "r-u-d": {
+    "R-U-D": {
         "status": "enemy"
     },
-    "rud-r": {
+    "RUD-R": {
         "status": "enemy"
     },
-    "ruf": {
+    "RUF": {
         "status": "enemy"
     },
-    "ruff": {
+    "RUFF": {
         "status": "enemy"
     },
-    "rush": {
+    "RUSH": {
         "status": "enemy"
     },
-    "quiet": {
+    "Quiet": {
         "status": "enemy"
     },
-    "wcfu": {
+    "WCFU": {
         "status": "enemy"
     },
-    "wk-76": {
+    "WK-76": {
         "status": "enemy",
         "note": "135"
     },
-    "swb": {
+    "SWB": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "spwn": {
+    "SPWN": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "van": {
+    "VAN": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "worms": {
+    "WORMS": {
         "status": "enemy",
         "note": "was allied - clarify who they are and where"
     },
-    "wrrs": {
+    "WRRS": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "t4yi": {
+    "T4YI": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "ufl-x": {
+    "UFL-X": {
         "status": "enemy",
         "note": "clarify who they are with"
     },
-    "st501": {
+    "ST501": {
         "status": "enemy"
     },
-    "wct_": {
+    "WCT_": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "rowdi": {
+    "ROWDI": {
         "status": "enemy"
     },
-    "tecc": {
+    "TECC": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "slays": {
+    "SLAYS": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "sns": {
+    "SNS": {
         "status": "enemy"
     },
-    "ufl": {
+    "UFL": {
         "status": "enemy",
         "note": "clarify who they are with"
     },
-    "sfr-y": {
+    "SFR-Y": {
         "status": "enemy",
         "note": "was listed allied - clarify who and where they are"
     },
-    "_fff-": {
+    "_FFF-": {
         "status": "allied"
     },
-    "luxe": {
+    "LUXE": {
         "status": "allied"
     },
-    "socks": {
+    "Socks": {
         "status": "allied"
     },
-    "fff19": {
+    "FFF19": {
         "status": "allied"
     },
-    "19fff": {
+    "19FFF": {
         "status": "allied"
     },
-    "ncti": {
+    "NCTI": {
         "status": "allied"
     },
-    "zak": {
-        "status": "allied"
-    },
-    "-fff_": {
+    "-FFF_": {
         "status": "allied"
     }
 }

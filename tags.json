@@ -4972,6 +4972,24 @@
     "NCTI": {
         "status": "allied"
     },
+    "4PSF": {
+        "status": "allied"
+    },
+    "TP_AU": {
+        "status": "allied"
+    },
+    "PUSH": {
+        "status": "enemy"
+    },
+    "GAM": {
+        "status": "enemy"
+    },
+    "LNCE": {
+        "status": "enemy"
+    },
+    "-ACS-": {
+        "status": "enemy"
+    },
     "-FFF_": {
         "status": "allied"
     }

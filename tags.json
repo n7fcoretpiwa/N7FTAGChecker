@@ -4990,6 +4990,9 @@
     "-ACS-": {
         "status": "enemy"
     },
+    "_AWs_": {
+        "status": "allied"
+    },
     "-FFF_": {
         "status": "allied"
     }

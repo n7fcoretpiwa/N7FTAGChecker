@@ -4993,6 +4993,36 @@
     "_AWs_": {
         "status": "allied"
     },
+    "-198-": {
+        "status": "allied"
+    },
+    "USE": {
+        "status": "allied"
+    },
+    "UIF": {
+        "status": "allied"
+    },
+    "_SOS": {
+        "status": "allied"
+    },
+    "SOS_": {
+        "status": "allied"
+    },
+    "SOS_-": {
+        "status": "allied"
+    },
+    "-_SOS": {
+        "status": "allied"
+    },
+    "TMO": {
+        "status": "enemy"
+    },
+    "UAO": {
+        "status": "enemy"
+    },
+    "_PVP_": {
+        "status": "enemy"
+    },
     "-FFF_": {
         "status": "allied"
     }

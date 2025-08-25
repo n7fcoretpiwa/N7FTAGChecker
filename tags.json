@@ -3176,7 +3176,7 @@
         "note": "KRJ mini"
     },
     "GOOSE": {
-        "status": "enemy"
+        "status": "allied"
     },
     "HVSO": {
         "status": "allied"
@@ -4421,8 +4421,7 @@
         "note": "clarify who they are with"
     },
     "ROEC": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
+        "status": "allied",
     },
     "RRH": {
         "status": "enemy",
@@ -5037,5 +5036,45 @@
     },
     "-FFF_": {
         "status": "allied"
+    },
+    "TF7": {
+        "status": "allied"
+    },
+    "JHO": {
+        "status": "allied"
+    },
+    "jak25": {
+        "status": "allied"
+    },
+    "Balz": {
+        "status": "allied"
+    },
+    "Kyle": {
+        "status": "allied"
+    },
+    "_TA_": {
+        "status": "allied"
+    },
+    "S-HOG": {
+        "status": "enemy"
+    },
+    "_FAB_": {
+        "status": "enemy"
+    },
+    "_NV_": {
+        "status": "enemy"
+    },
+    "-DX-": {
+        "status": "enemy"
+    },
+    "-DOGZ-": {
+        "status": "enemy"
+    },
+    "-F-K-": {
+        "status": "enemy"
+    },
+    "-FAB-": {
+        "status": "enemy"
+
     }
 }

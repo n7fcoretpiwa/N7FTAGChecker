@@ -1,5079 +1,5079 @@
 {
-    "1": {
-        "status": "allied"
-    },
-    "42": {
-        "status": "allied"
-    },
-    "70": {
-        "status": "allied"
-    },
-    "103": {
-        "status": "allied"
-    },
-    "175": {
-        "status": "allied"
-    },
-    "316": {
-        "status": "allied"
-    },
-    "396": {
-        "status": "enemy"
-    },
-    "868": {
-        "status": "enemy",
-        "note": "EL-Deabloxx"
-    },
-    "1893": {
-        "status": "allied"
-    },
-    "AOW_4": {
-        "status": "allied",
-        "note": "Kk"
-    },
-    "USWC": {
-        "status": "enemy",
-        "note": "listed on WWW - clarify who and where they are"
-    },
-    "ADS-R": {
-        "status": "allied"
-    },
-    "_AZE_": {
-        "status": "allied"
-    },
-    "DG-F": {
-        "status": "enemy"
-    },
-    "CROU": {
-        "status": "allied"
-    },
-    "ALB-C": {
-        "status": "allied"
-    },
-    "US171": {
-        "status": "allied"
-    },
-    "D-K": {
-        "status": "allied"
-    },
-    "DOORS": {
-        "status": "allied"
-    },
-    "MONKI": {
-        "status": "allied"
-    },
-    "CS-4L": {
-        "status": "allied"
-    },
-    "EMOBF": {
-        "status": "allied"
-    },
-    "B-N": {
-        "status": "allied"
-    },
-    "ODST": {
-        "status": "allied"
-    },
-    "OUS": {
-        "status": "allied"
-    },
-    "NHSGH": {
-        "status": "allied"
-    },
-    "RM_B": {
-        "status": "allied"
-    },
-    "UAAKE": {
-        "status": "allied"
-    },
-    "ART": {
-        "status": "allied"
-    },
-    "SVU": {
-        "status": "allied"
-    },
-    "SCRI": {
-        "status": "allied"
-    },
-    "F-U2": {
-        "status": "allied"
-    },
-    "-UGH-": {
-        "status": "allied"
-    },
-    "SEC1": {
-        "status": "allied"
-    },
-    "AMMO": {
-        "status": "allied"
-    },
-    "2SEC": {
-        "status": "allied"
-    },
-    "BSS": {
-        "status": "allied"
-    },
-    "-BOG-": {
-        "status": "allied"
-    },
-    "F4F": {
-        "status": "allied"
-    },
-    "FED2": {
-        "status": "enemy"
-    },
-    "COP": {
-        "status": "allied"
-    },
-    "GEN-K": {
-        "status": "allied"
-    },
-    "S-O-V": {
-        "status": "enemy"
-    },
-    "S3XY": {
-        "status": "enemy",
-        "note": "Sector 110"
-    },
-    "BBROS": {
-        "status": "allied"
-    },
-    "QTAQ": {
-        "status": "allied"
-    },
-    "DS-26": {
-        "status": "allied"
-    },
-    "POST": {
-        "status": "allied"
-    },
-    "FB1": {
-        "status": "enemy"
-    },
-    "IITZ": {
-        "status": "allied"
-    },
-    "-KTW-": {
-        "status": "allied"
-    },
-    "S331": {
-        "status": "allied"
-    },
-    "GUNIT": {
-        "status": "allied"
-    },
-    "BTRO": {
-        "status": "allied"
-    },
-    "_CK_": {
-        "status": "enemy",
-        "note": "BMF"
-    },
-    "BORGS": {
-        "status": "allied"
-    },
-    "C-1-5": {
-        "status": "allied"
-    },
-    "FAE": {
-        "status": "allied"
-    },
-    "KILL": {
-        "status": "allied"
-    },
-    "_PC_": {
-        "status": "allied"
-    },
-    "FED3": {
-        "status": "enemy"
-    },
-    "KT12": {
-        "status": "allied"
-    },
-    "CRAZ1": {
-        "status": "enemy"
-    },
-    "SEX-M": {
-        "status": "allied"
-    },
-    "DRAB": {
-        "status": "allied"
-    },
-    "M75": {
-        "status": "allied"
-    },
-    "VASII": {
-        "status": "allied"
-    },
-    "F_U": {
-        "status": "allied"
-    },
-    "_KUK_": {
-        "status": "allied"
-    },
-    "BARTS": {
-        "status": "allied"
-    },
-    "Y_C": {
-        "status": "allied"
-    },
-    "BIH-S": {
-        "status": "allied"
-    },
-    "FIRMA": {
-        "status": "allied"
-    },
-    "NPZA": {
-        "status": "allied"
-    },
-    "KNTBH": {
-        "status": "allied",
-        "note": "KT alt"
-    },
-    "SS300": {
-        "status": "allied"
-    },
-    "BRISK": {
-        "status": "allied"
-    },
-    "XPLOD": {
-        "status": "allied"
-    },
-    "FKWWW": {
-        "status": "allied"
-    },
-    "AKR-P": {
-        "status": "allied"
-    },
-    "S_100": {
-        "status": "allied"
-    },
-    "WARSQ": {
-        "status": "allied"
-    },
-    "K2LL": {
-        "status": "allied"
-    },
-    "FJB": {
-        "status": "enemy"
-    },
-    "ASAN": {
-        "status": "allied"
-    },
-    "CUF": {
-        "status": "allied"
-    },
-    "4F": {
-        "status": "enemy"
-    },
-    "HENCH": {
-        "status": "enemy"
-    },
-    "B-R-F": {
-        "status": "allied"
-    },
-    "DMES2": {
-        "status": "enemy"
-    },
-    "D-W": {
-        "status": "enemy"
-    },
-    "BLESS": {
-        "status": "enemy"
-    },
-    "AKREP": {
-        "status": "allied"
-    },
-    "SGA": {
-        "status": "allied"
-    },
-    "MP184": {
-        "status": "allied"
-    },
-    "M0H": {
-        "status": "allied"
-    },
-    "REA_1": {
-        "status": "enemy"
-    },
-    "IWA": {
-        "status": "allied"
-    },
-    "SMART": {
-        "status": "ceasefire"
-    },
-    "TWR": {
-        "status": "enemy"
-    },
-    "15TH": {
-        "status": "allied"
-    },
-    "_EOS_": {
-        "status": "allied"
-    },
-    "FARMY": {
-        "status": "allied"
-    },
-    "440W": {
-        "status": "allied"
-    },
-    "BURNC": {
-        "status": "enemy",
-        "note": "Allied to 70 and 94"
-    },
-    "163HS": {
-        "status": "allied"
-    },
-    "TF--X": {
-        "status": "allied"
-    },
-    "BMF": {
-        "status": "enemy"
-    },
-    "FED": {
-        "status": "enemy"
-    },
-    "CRIS": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "DC-X": {
-        "status": "allied"
-    },
-    "SOF1": {
-        "status": "allied"
-    },
-    "K_O_B": {
-        "status": "enemy"
-    },
-    "AIDEN": {
-        "status": "allied"
-    },
-    "F1GHT": {
-        "status": "enemy"
-    },
-    "RCELL": {
-        "status": "enemy",
-        "note": "Tag stolen"
-    },
-    "AA": {
-        "status": "enemy"
-    },
-    "_KING_": {
-        "status": "allied"
-    },
-    "SA999": {
-        "status": "allied"
-    },
-    "EAGLE": {
-        "status": "allied"
-    },
-    "EIRE": {
-        "status": "enemy"
-    },
-    "TI-IN": {
-        "status": "allied"
-    },
-    "E-20": {
-        "status": "allied"
-    },
-    "FSM1": {
-        "status": "enemy"
-    },
-    "GRF1": {
-        "status": "allied"
-    },
-    "1FREE": {
-        "status": "allied"
-    },
-    "HD1": {
-        "status": "allied"
-    },
-    "MEDIA": {
-        "status": "allied"
-    },
-    "AFET": {
-        "status": "allied"
-    },
-    "-BMF-": {
-        "status": "enemy"
-    },
-    "NT FU": {
-        "status": "allied"
-    },
-    "WWWB": {
-        "status": "allied"
-    },
-    "-FED-": {
-        "status": "enemy"
-    },
-    "NICE1": {
-        "status": "enemy"
-    },
-    "HOEZ": {
-        "status": "allied"
-    },
-    "WILL-": {
-        "status": "allied"
-    },
-    "WCSF1": {
-        "status": "enemy"
-    },
-    "BPR": {
-        "status": "enemy"
-    },
-    "-DOC-": {
-        "status": "enemy"
-    },
-    "CORA": {
-        "status": "allied"
-    },
-    "FL": {
-        "status": "allied"
-    },
-    "AWOL": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "N7FL": {
-        "status": "enemy",
-        "note": "fake tag"
-    },
-    "SAMIS": {
-        "status": "allied"
-    },
-    "BALD": {
-        "status": "enemy"
-    },
-    "WH": {
-        "status": "allied"
-    },
-    "DKSD": {
-        "status": "allied"
-    },
-    "IAAUN": {
-        "status": "allied"
-    },
-    "H-R": {
-        "status": "allied"
-    },
-    "MT-W": {
-        "status": "allied"
-    },
-    "TGAOG": {
-        "status": "allied"
-    },
-    "G_M_W": {
-        "status": "enemy"
-    },
-    "OWELL": {
-        "status": "allied"
-    },
-    "8OM8S": {
-        "status": "allied"
-    },
-    "TA-TA": {
-        "status": "allied"
-    },
-    "FFF--": {
-        "status": "allied"
-    },
-    "KTWAR": {
-        "status": "allied"
-    },
-    "OO3OO": {
-        "status": "allied"
-    },
-    "SRB_I": {
-        "status": "allied"
-    },
-    "B-A-D": {
-        "status": "enemy"
-    },
-    "INDO_": {
-        "status": "allied"
-    },
-    "UNFGN": {
-        "status": "allied"
-    },
-    "JZFKR": {
-        "status": "allied"
-    },
-    "ESFAB": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "TFMC": {
-        "status": "allied",
-        "note": "see KRJ"
-    },
-    "FOF": {
-        "status": "allied"
-    },
-    "S-C": {
-        "status": "allied"
-    },
-    "FAB-": {
-        "status": "allied"
-    },
-    "IORDR": {
-        "status": "allied"
-    },
-    "I_AM": {
-        "status": "allied"
-    },
-    "SMSQD": {
-        "status": "allied"
-    },
-    "LL": {
-        "status": "allied"
-    },
-    "NIETZ": {
-        "status": "allied"
-    },
-    "KRIEG": {
-        "status": "allied"
-    },
-    "KINGS": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "-UWU-": {
-        "status": "allied"
-    },
-    "KURUP": {
-        "status": "allied"
-    },
-    "P40": {
-        "status": "allied"
-    },
-    "S-A": {
-        "status": "enemy"
-    },
-    "CFM2": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "TOMM": {
-        "status": "allied"
-    },
-    "KE": {
-        "status": "enemy"
-    },
-    "RAXS": {
-        "status": "enemy"
-    },
-    "DG": {
-        "status": "enemy"
-    },
-    "ZWAR": {
-        "status": "allied"
-    },
-    "UK-EN": {
-        "status": "enemy"
-    },
-    "S46S": {
-        "status": "allied"
-    },
-    "MEOW": {
-        "status": "allied"
-    },
-    "PL": {
-        "status": "allied"
-    },
-    "MADCO": {
-        "status": "allied"
-    },
-    "IMAZT": {
-        "status": "allied"
-    },
-    "TRF1": {
-        "status": "allied"
-    },
-    "NEM-R": {
-        "status": "allied"
-    },
-    "OTLWI": {
-        "status": "allied"
-    },
-    "B52": {
-        "status": "allied"
-    },
-    "SMCT": {
-        "status": "enemy"
-    },
-    "TBF": {
-        "status": "allied"
-    },
-    "AZUSA": {
-        "status": "allied"
-    },
-    "BUNNY": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "F4F-R": {
-        "status": "allied"
-    },
-    "SWF": {
-        "status": "allied"
-    },
-    "-BG-1": {
-        "status": "allied"
-    },
-    "X----": {
-        "status": "allied"
-    },
-    "X_MEN": {
-        "status": "allied"
-    },
-    "LKTAO": {
-        "status": "allied"
-    },
-    "ALG-X": {
-        "status": "allied"
-    },
-    "KISMY": {
-        "status": "allied"
-    },
-    "HOF": {
-        "status": "allied"
-    },
-    "GFS": {
-        "status": "allied"
-    },
-    "-K-W-": {
-        "status": "enemy"
-    },
-    "TBB43": {
-        "status": "allied"
-    },
-    "X___X": {
-        "status": "allied"
-    },
-    "KUNTE": {
-        "status": "allied"
-    },
-    "HA_JA": {
-        "status": "allied"
-    },
-    "PTBI": {
-        "status": "allied"
-    },
-    "FU_UP": {
-        "status": "allied"
-    },
-    "TGAG": {
-        "status": "allied"
-    },
-    "_N7_": {
-        "status": "allied"
-    },
-    "TF-IK": {
-        "status": "allied"
-    },
-    "TH3": {
-        "status": "allied"
-    },
-    "KHALA": {
-        "status": "allied"
-    },
-    "LOKOS": {
-        "status": "allied"
-    },
-    "LOAL": {
-        "status": "allied"
-    },
-    "NAJB": {
-        "status": "allied"
-    },
-    "R_LEB": {
-        "status": "allied"
-    },
-    "BITME": {
-        "status": "enemy"
-    },
-    "KT-P": {
-        "status": "allied"
-    },
-    "NEW_W": {
-        "status": "allied"
-    },
-    "UN-TI": {
-        "status": "allied"
-    },
-    "V7NOM": {
-        "status": "enemy"
-    },
-    "TREA3": {
-        "status": "allied"
-    },
-    "-LCK-": {
-        "status": "allied"
-    },
-    "W--B": {
-        "status": "enemy"
-    },
-    "GRRR": {
-        "status": "allied"
-    },
-    "SPL": {
-        "status": "allied"
-    },
-    "TIGR": {
-        "status": "allied"
-    },
-    "THOM": {
-        "status": "allied"
-    },
-    "F4F-P": {
-        "status": "allied"
-    },
-    "UAC": {
-        "status": "enemy"
-    },
-    "USAV": {
-        "status": "enemy"
-    },
-    "MF-O": {
-        "status": "allied"
-    },
-    "UF154": {
-        "status": "allied"
-    },
-    "REA": {
-        "status": "enemy"
-    },
-    "KGHT": {
-        "status": "allied"
-    },
-    "AS-1": {
-        "status": "allied"
-    },
-    "A-T-F": {
-        "status": "allied"
-    },
-    "GHST": {
-        "status": "allied"
-    },
-    "G-1": {
-        "status": "allied"
-    },
-    "CRO-Z": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "-DNJ-": {
-        "status": "enemy"
-    },
-    "E5195": {
-        "status": "allied"
-    },
-    "DS": {
-        "status": "enemy"
-    },
-    "UN143": {
-        "status": "allied"
-    },
-    "G2G2": {
-        "status": "enemy"
-    },
-    "ANT_A": {
-        "status": "allied"
-    },
-    "KTZAR": {
-        "status": "allied"
-    },
-    "RAZS": {
-        "status": "enemy"
-    },
-    "R-F-C": {
-        "status": "enemy"
-    },
-    "ULM": {
-        "status": "allied"
-    },
-    "A4": {
-        "status": "allied"
-    },
-    "RAKIA": {
-        "status": "allied"
-    },
-    "THY": {
-        "status": "allied"
-    },
-    "SK137": {
-        "status": "allied"
-    },
-    "UN-24": {
-        "status": "allied"
-    },
-    "UIL": {
-        "status": "allied"
-    },
-    "-UKL-X": {
-        "status": "allied"
-    },
-    "DOMIT": {
-        "status": "allied"
-    },
-    "V_E_T": {
-        "status": "allied"
-    },
-    "ALP": {
-        "status": "allied"
-    },
-    "GT20": {
-        "status": "allied"
-    },
-    "ARYA": {
-        "status": "allied"
-    },
-    "E-UP": {
-        "status": "enemy",
-        "note": "Core allies"
-    },
-    "F_RAT": {
-        "status": "allied"
-    },
-    "T_C": {
-        "status": "allied"
-    },
-    "PHX1": {
-        "status": "allied"
-    },
-    "BUDS": {
-        "status": "allied"
-    },
-    "NZTP": {
-        "status": "enemy"
-    },
-    "K-1": {
-        "status": "allied"
-    },
-    "SW4G": {
-        "status": "allied"
-    },
-    "A_PHX": {
-        "status": "enemy"
-    },
-    "---X": {
-        "status": "allied"
-    },
-    "ETW-G": {
-        "status": "allied"
-    },
-    "BSDH": {
-        "status": "allied"
-    },
-    "OAN": {
-        "status": "allied"
-    },
-    "DADO": {
-        "status": "allied"
-    },
-    "EVO_1": {
-        "status": "allied"
-    },
-    "NMFD": {
-        "status": "enemy"
-    },
-    "UN_43": {
-        "status": "allied"
-    },
-    "DBD1": {
-        "status": "allied"
-    },
-    "HNTER": {
-        "status": "allied"
-    },
-    "SKING": {
-        "status": "allied"
-    },
-    "FAQ_U": {
-        "status": "allied"
-    },
-    "PU-TA": {
-        "status": "allied"
-    },
-    "SLW": {
-        "status": "allied"
-    },
-    "NIPPL": {
-        "status": "allied"
-    },
-    "FOK": {
-        "status": "enemy"
-    },
-    "HS106": {
-        "status": "allied"
-    },
-    "SQM": {
-        "status": "allied"
-    },
-    "H_F_S": {
-        "status": "enemy",
-        "note": "sector 121"
-    },
-    "_MSK_": {
-        "status": "enemy"
-    },
-    "DINGS": {
-        "status": "enemy"
-    },
-    "SN9PE": {
-        "status": "allied"
-    },
-    "AAF12": {
-        "status": "allied"
-    },
-    "WCIT": {
-        "status": "enemy"
-    },
-    "ATHZ": {
-        "status": "allied"
-    },
-    "BIH-W": {
-        "status": "allied"
-    },
-    "BABY": {
-        "status": "allied"
-    },
-    "WCRI-": {
-        "status": "allied"
-    },
-    "JF-71": {
-        "status": "allied"
-    },
-    "DM": {
-        "status": "allied"
-    },
-    "LIMI": {
-        "status": "allied"
-    },
-    "FAM": {
-        "status": "allied"
-    },
-    "FK9ES": {
-        "status": "allied"
-    },
-    "_OFF_": {
-        "status": "allied"
-    },
-    "SOS": {
-        "status": "allied"
-    },
-    "MITO": {
-        "status": "allied"
-    },
-    "N7": {
-        "status": "allied"
-    },
-    "VMRO": {
-        "status": "allied"
-    },
-    "ALBAA": {
-        "status": "allied"
-    },
-    "C--T": {
-        "status": "allied"
-    },
-    "-R_M-": {
-        "status": "enemy"
-    },
-    "JUSBR": {
-        "status": "allied"
-    },
-    "GOD": {
-        "status": "allied"
-    },
-    "BDSI": {
-        "status": "enemy"
-    },
-    "E-UP1": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "ECF": {
-        "status": "allied"
-    },
-    "T-BRD": {
-        "status": "allied"
-    },
-    "-DIK-": {
-        "status": "allied"
-    },
-    "HUSH": {
-        "status": "allied"
-    },
-    "SPC": {
-        "status": "allied"
-    },
-    "MMDE1": {
-        "status": "allied"
-    },
-    "JDR": {
-        "status": "allied"
-    },
-    "13SEC": {
-        "status": "allied"
-    },
-    "NCR": {
-        "status": "allied"
-    },
-    "N7B2K": {
-        "status": "enemy"
-    },
-    "FB": {
-        "status": "enemy"
-    },
-    "CK": {
-        "status": "enemy",
-        "note": "BMF"
-    },
-    "J1D": {
-        "status": "enemy"
-    },
-    "RAGE-": {
-        "status": "allied"
-    },
-    "PULSE": {
-        "status": "allied"
-    },
-    "UN80": {
-        "status": "allied"
-    },
-    "HK_HK": {
-        "status": "allied"
-    },
-    "-KAF-": {
-        "status": "allied"
-    },
-    "-UB-F": {
-        "status": "allied"
-    },
-    "GROOT": {
-        "status": "allied"
-    },
-    "HMNN": {
-        "status": "allied"
-    },
-    "EPTIX": {
-        "status": "allied"
-    },
-    "MC-AC": {
-        "status": "allied"
-    },
-    "KT1": {
-        "status": "allied"
-    },
-    "K_V": {
-        "status": "allied"
-    },
-    "REP-1": {
-        "status": "allied"
-    },
-    "CMC3": {
-        "status": "allied"
-    },
-    "SSA": {
-        "status": "allied"
-    },
-    "STORM": {
-        "status": "allied"
-    },
-    "RNGRS": {
-        "status": "enemy"
-    },
-    "ACAB": {
-        "status": "allied"
-    },
-    "UF-IK": {
-        "status": "allied"
-    },
-    "HINZL": {
-        "status": "allied"
-    },
-    "IN-TI": {
-        "status": "allied"
-    },
-    "DC-R": {
-        "status": "allied"
-    },
-    "HAMZE": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "-FFF-": {
-        "status": "allied"
-    },
-    "D4E": {
-        "status": "allied"
-    },
-    "RAF__": {
-        "status": "enemy"
-    },
-    "BOSSY": {
-        "status": "enemy"
-    },
-    "ALI_B": {
-        "status": "allied"
-    },
-    "BASE": {
-        "status": "allied"
-    },
-    "_SS_": {
-        "status": "allied"
-    },
-    "_FUQ_": {
-        "status": "allied"
-    },
-    "A43": {
-        "status": "allied"
-    },
-    "B_PHX": {
-        "status": "allied"
-    },
-    "HYC": {
-        "status": "allied"
-    },
-    "IK": {
-        "status": "allied"
-    },
-    "F-U-2": {
-        "status": "enemy"
-    },
-    "AMR87": {
-        "status": "allied"
-    },
-    "T-A-O": {
-        "status": "allied"
-    },
-    "DRAGZ": {
-        "status": "enemy"
-    },
-    "135DF": {
-        "status": "allied"
-    },
-    "PDK": {
-        "status": "allied"
-    },
-    "AEC": {
-        "status": "enemy"
-    },
-    "LUM": {
-        "status": "allied"
-    },
-    "L4F": {
-        "status": "allied"
-    },
-    "XNXXX": {
-        "status": "allied"
-    },
-    "MAGY": {
-        "status": "enemy"
-    },
-    "CADAM": {
-        "status": "allied"
-    },
-    "-KB-": {
-        "status": "enemy"
-    },
-    "THA_2": {
-        "status": "allied"
-    },
-    "H8FK": {
-        "status": "allied"
-    },
-    "T-X-Z": {
-        "status": "allied"
-    },
-    "KSTAR": {
-        "status": "allied"
-    },
-    "FKGER": {
-        "status": "allied"
-    },
-    "KKM": {
-        "status": "allied"
-    },
-    "MF-UN": {
-        "status": "enemy"
-    },
-    "OTHC": {
-        "status": "allied"
-    },
-    "TROW": {
-        "status": "allied"
-    },
-    "SEC27": {
-        "status": "allied"
-    },
-    "ALB-E": {
-        "status": "allied"
-    },
-    "FED-R": {
-        "status": "enemy"
-    },
-    "B1R": {
-        "status": "enemy"
-    },
-    "A-F-O": {
-        "status": "allied"
-    },
-    "AN1ME": {
-        "status": "allied"
-    },
-    "RIMM": {
-        "status": "enemy"
-    },
-    "NU": {
-        "status": "allied"
-    },
-    "TREAP": {
-        "status": "allied"
-    },
-    "-PSV-": {
-        "status": "allied"
-    },
-    "ALB02": {
-        "status": "allied"
-    },
-    "CIA-1": {
-        "status": "allied"
-    },
-    "LDB": {
-        "status": "allied"
-    },
-    "BXJ": {
-        "status": "allied"
-    },
-    "MESSY": {
-        "status": "allied"
-    },
-    "N7_76": {
-        "status": "allied"
-    },
-    "UK-US": {
-        "status": "allied"
-    },
-    "METAL": {
-        "status": "allied"
-    },
-    "2MEAN": {
-        "status": "allied"
-    },
-    "WWO": {
-        "status": "allied"
-    },
-    "HK-BO": {
-        "status": "allied"
-    },
-    "TEA3": {
-        "status": "allied"
-    },
-    "TREA4": {
-        "status": "allied"
-    },
-    "P-A-L": {
-        "status": "allied"
-    },
-    "HEL-O": {
-        "status": "enemy"
-    },
-    "MSTR": {
-        "status": "allied"
-    },
-    "TR3AP": {
-        "status": "allied"
-    },
-    "RED-": {
-        "status": "allied"
-    },
-    "BOGOF": {
-        "status": "enemy",
-        "note": "Removed due to allied hits"
-    },
-    "HASIS": {
-        "status": "allied"
-    },
-    "DC": {
-        "status": "allied"
-    },
-    "BNET": {
-        "status": "allied"
-    },
-    "WCRI7": {
-        "status": "allied"
-    },
-    "ROCKT": {
-        "status": "allied"
-    },
-    "PAK-B": {
-        "status": "allied"
-    },
-    "VALOR": {
-        "status": "enemy"
-    },
-    "J-": {
-        "status": "allied"
-    },
-    "TAO": {
-        "status": "allied"
-    },
-    "RADR": {
-        "status": "enemy"
-    },
-    "S-R-B": {
-        "status": "allied"
-    },
-    "SINAG": {
-        "status": "allied",
-        "note": "TP sector 25"
-    },
-    "-X---": {
-        "status": "allied"
-    },
-    "ALB21": {
-        "status": "allied"
-    },
-    "BL_AN": {
-        "status": "enemy"
-    },
-    "UNCL": {
-        "status": "enemy"
-    },
-    "-DPS-": {
-        "status": "allied"
-    },
-    "_BKB_": {
-        "status": "allied"
-    },
-    "BRPOR": {
-        "status": "allied"
-    },
-    "HLCON": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "EJ": {
-        "status": "allied"
-    },
-    "-XPTO": {
-        "status": "allied"
-    },
-    "X-": {
-        "status": "allied"
-    },
-    "4EVER": {
-        "status": "allied"
-    },
-    "TH170": {
-        "status": "allied"
-    },
-    "N7A": {
-        "status": "allied"
-    },
-    "FK3R": {
-        "status": "allied"
-    },
-    "TASSY": {
-        "status": "enemy"
-    },
-    "MALAN": {
-        "status": "allied"
-    },
-    "J_WIK": {
-        "status": "enemy"
-    },
-    "K-W": {
-        "status": "enemy"
-    },
-    "TF-X": {
-        "status": "allied"
-    },
-    "FIFE": {
-        "status": "enemy"
-    },
-    "-M-G-": {
-        "status": "allied"
-    },
-    "-JGRY": {
-        "status": "allied"
-    },
-    "IDF-E": {
-        "status": "allied"
-    },
-    "XFFFX": {
-        "status": "allied"
-    },
-    "TCO1": {
-        "status": "allied"
-    },
-    "USA": {
-        "status": "allied"
-    },
-    "TGUNS": {
-        "status": "allied"
-    },
-    "I_D_A": {
-        "status": "allied"
-    },
-    "Z0MBI": {
-        "status": "allied"
-    },
-    "BRLT5": {
-        "status": "allied"
-    },
-    "U190L": {
-        "status": "allied"
-    },
-    "FZB-1": {
-        "status": "allied"
-    },
-    "A___Z": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "CRUZE": {
-        "status": "allied"
-    },
-    "CZ_US": {
-        "status": "allied"
-    },
-    "_HULK": {
-        "status": "allied"
-    },
-    "EATMY": {
-        "status": "allied"
-    },
-    "E-UP3": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "ITROX": {
-        "status": "allied"
-    },
-    "F_W_F": {
-        "status": "allied"
-    },
-    "ASF-": {
-        "status": "allied"
-    },
-    "-MYH-": {
-        "status": "allied"
-    },
-    "KS187": {
-        "status": "enemy"
-    },
-    "V5NOM": {
-        "status": "enemy"
-    },
-    "SOXLO": {
-        "status": "allied"
-    },
-    "RAMA_": {
-        "status": "allied"
-    },
-    "S-100": {
-        "status": "allied"
-    },
-    "SEXYS": {
-        "status": "allied"
-    },
-    "FFF-I": {
-        "status": "allied"
-    },
-    "N7US": {
-        "status": "allied"
-    },
-    "_RID_": {
-        "status": "allied"
-    },
-    "PANDM": {
-        "status": "allied"
-    },
-    "M38": {
-        "status": "allied"
-    },
-    "KKTC": {
-        "status": "enemy"
-    },
-    "MAVS": {
-        "status": "allied"
-    },
-    "B-U-K": {
-        "status": "allied"
-    },
-    "JL": {
-        "status": "enemy"
-    },
-    "DAM": {
-        "status": "enemy"
-    },
-    "M8RIX": {
-        "status": "enemy"
-    },
-    "_FL_": {
-        "status": "allied"
-    },
-    "-HUR_": {
-        "status": "allied"
-    },
-    "R383L": {
-        "status": "allied"
-    },
-    "MFTS": {
-        "status": "allied"
-    },
-    "SP4NK": {
-        "status": "allied"
-    },
-    "ROUNI": {
-        "status": "allied"
-    },
-    "T-T-P": {
-        "status": "allied"
-    },
-    "TOP1": {
-        "status": "enemy"
-    },
-    "GZYPE": {
-        "status": "enemy"
-    },
-    "DAR_L": {
-        "status": "allied"
-    },
-    "EFF": {
-        "status": "allied"
-    },
-    "BAKUP": {
-        "status": "allied"
-    },
-    "VZAII": {
-        "status": "allied"
-    },
-    "DOLLR": {
-        "status": "enemy"
-    },
-    "MED-2": {
-        "status": "allied"
-    },
-    "YPG": {
-        "status": "allied"
-    },
-    "T_W_S": {
-        "status": "allied"
-    },
-    "FNMAD": {
-        "status": "allied"
-    },
-    "PSF": {
-        "status": "allied",
-        "note": "TP sector 4"
-    },
-    "G-F-S": {
-        "status": "enemy"
-    },
-    "GCELL": {
-        "status": "allied"
-    },
-    "-MM-": {
-        "status": "allied"
-    },
-    "O": {
-        "status": "allied"
-    },
-    "XTOL": {
-        "status": "allied"
-    },
-    "TI-UN": {
-        "status": "allied"
-    },
-    "R-A-V": {
-        "status": "allied"
-    },
-    "UN-TA": {
-        "status": "allied"
-    },
-    "H-_-W": {
-        "status": "enemy"
-    },
-    "WCUA": {
-        "status": "allied"
-    },
-    "NPA_R": {
-        "status": "enemy"
-    },
-    "AF144": {
-        "status": "allied"
-    },
-    "_BG_": {
-        "status": "enemy"
-    },
-    "UKLFF": {
-        "status": "allied"
-    },
-    "RIP-X": {
-        "status": "enemy"
-    },
-    "XBX": {
-        "status": "allied"
-    },
-    "ALE": {
-        "status": "allied"
-    },
-    "ALB-G": {
-        "status": "allied"
-    },
-    "S-S-S": {
-        "status": "allied"
-    },
-    "BUN47": {
-        "status": "allied"
-    },
-    "BEER_": {
-        "status": "allied"
-    },
-    "E-A-A": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "BR100": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "G2G": {
-        "status": "enemy"
-    },
-    "I-R-Q": {
-        "status": "allied"
-    },
-    "PK_76": {
-        "status": "allied"
-    },
-    "DGSQ": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "HL-X": {
-        "status": "allied"
-    },
-    "_BF_": {
-        "status": "allied"
-    },
-    "QUDS": {
-        "status": "allied"
-    },
-    "PAUK": {
-        "status": "allied"
-    },
-    "OS8-F": {
-        "status": "allied"
-    },
-    "GQ": {
-        "status": "allied"
-    },
-    "TEST": {
-        "status": "allied"
-    },
-    "KT-A": {
-        "status": "allied"
-    },
-    "SSA1": {
-        "status": "allied"
-    },
-    "FUN-A": {
-        "status": "allied"
-    },
-    "TRA": {
-        "status": "allied"
-    },
-    "LOV69": {
-        "status": "allied"
-    },
-    "MFTR": {
-        "status": "allied"
-    },
-    "KT-TF": {
-        "status": "allied"
-    },
-    "REV1": {
-        "status": "allied"
-    },
-    "_SKB_": {
-        "status": "enemy",
-        "note": "leader Emanual John wu tang alliance"
-    },
-    "CK-1": {
-        "status": "enemy",
-        "note": "BMF"
-    },
-    "DUMAZ": {
-        "status": "enemy"
-    },
-    "NYCT": {
-        "status": "enemy"
-    },
-    "VKSF": {
-        "status": "allied"
-    },
-    "CK_FF": {
-        "status": "enemy",
-        "note": "BMF"
-    },
-    "B_O_W": {
-        "status": "allied"
-    },
-    "UBF": {
-        "status": "allied"
-    },
-    "BPRR": {
-        "status": "allied"
-    },
-    "-YOLO": {
-        "status": "allied"
-    },
-    "_UAW_": {
-        "status": "allied"
-    },
-    "DIFY": {
-        "status": "allied"
-    },
-    "UF-71": {
-        "status": "allied"
-    },
-    "UKL-X": {
-        "status": "allied"
-    },
-    "DK": {
-        "status": "allied"
-    },
-    "GODS": {
-        "status": "allied"
-    },
-    "JOSEZ": {
-        "status": "allied"
-    },
-    "IALB": {
-        "status": "allied"
-    },
-    "GLORY": {
-        "status": "allied"
-    },
-    "GSXR": {
-        "status": "allied"
-    },
-    "G23": {
-        "status": "allied"
-    },
-    "HT7": {
-        "status": "allied"
-    },
-    "HERDY": {
-        "status": "allied"
-    },
-    "GOE1": {
-        "status": "allied"
-    },
-    "JYDEN": {
-        "status": "allied"
-    },
-    "FORSE": {
-        "status": "allied"
-    },
-    "T-H-E": {
-        "status": "allied"
-    },
-    "RENEA": {
-        "status": "allied"
-    },
-    "RI-HR": {
-        "status": "allied"
-    },
-    "KAMIN": {
-        "status": "allied"
-    },
-    "MUTE": {
-        "status": "allied"
-    },
-    "LYF_X": {
-        "status": "allied"
-    },
-    "-NVS-": {
-        "status": "allied"
-    },
-    "LEROY": {
-        "status": "allied"
-    },
-    "MITO2": {
-        "status": "allied"
-    },
-    "3AAAS": {
-        "status": "allied"
-    },
-    "ZOMBI": {
-        "status": "allied"
-    },
-    "GRWWP": {
-        "status": "allied"
-    },
-    "0808": {
-        "status": "allied"
-    },
-    "NFR_": {
-        "status": "enemy",
-        "note": "Supporting FJB"
-    },
-    "BROER": {
-        "status": "allied"
-    },
-    "S131": {
-        "status": "allied"
-    },
-    "UA": {
-        "status": "enemy"
-    },
-    "FRITO": {
-        "status": "enemy"
-    },
-    "MED_1": {
-        "status": "allied"
-    },
-    "AFG": {
-        "status": "enemy"
-    },
-    "8OO8S": {
-        "status": "allied"
-    },
-    "NSI-1": {
-        "status": "allied"
-    },
-    "NT_FU": {
-        "status": "allied"
-    },
-    "T3ARS": {
-        "status": "allied"
-    },
-    "LANCE": {
-        "status": "allied"
-    },
-    "MED-1": {
-        "status": "allied"
-    },
-    "KAD": {
-        "status": "allied"
-    },
-    "OBL": {
-        "status": "allied"
-    },
-    "NES-1": {
-        "status": "allied"
-    },
-    "F-C-P": {
-        "status": "allied"
-    },
-    "KT-JO": {
-        "status": "allied"
-    },
-    "FSM": {
-        "status": "enemy",
-        "note": "Core allies"
-    },
-    "W10": {
-        "status": "allied"
-    },
-    "ALTAG": {
-        "status": "allied"
-    },
-    "GDW": {
-        "status": "enemy"
-    },
-    "SH": {
-        "status": "allied"
-    },
-    "THF": {
-        "status": "allied"
-    },
-    "THEP": {
-        "status": "allied"
-    },
-    "RDBLS": {
-        "status": "allied"
-    },
-    "1WAYA": {
-        "status": "enemy"
-    },
-    "DWRWP": {
-        "status": "enemy"
-    },
-    "148HO": {
-        "status": "allied"
-    },
-    "G_R_T": {
-        "status": "allied"
-    },
-    "B_I_P": {
-        "status": "enemy"
-    },
-    "VOYER": {
-        "status": "allied"
-    },
-    "MGGG": {
-        "status": "enemy"
-    },
-    "ITALY": {
-        "status": "allied"
-    },
-    "RSF": {
-        "status": "allied"
-    },
-    "TESCO": {
-        "status": "allied"
-    },
-    "MSKIL": {
-        "status": "allied"
-    },
-    "TAMU": {
-        "status": "enemy"
-    },
-    "MAXX": {
-        "status": "allied"
-    },
-    "UNDEFINED": {
-        "status": "allied"
-    },
-    "NPA_1": {
-        "status": "enemy",
-        "note": "Woody's alt"
-    },
-    "HURTF": {
-        "status": "allied"
-    },
-    "SSHHH": {
-        "status": "allied"
-    },
-    "SN8PE": {
-        "status": "enemy"
-    },
-    "AR-15": {
-        "status": "allied"
-    },
-    "FED1": {
-        "status": "enemy"
-    },
-    "SN1M": {
-        "status": "allied"
-    },
-    "T-B-P": {
-        "status": "allied"
-    },
-    "A57": {
-        "status": "allied"
-    },
-    "EK1": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "M-SOG": {
-        "status": "allied"
-    },
-    "ALB-U": {
-        "status": "allied"
-    },
-    "TBB-B": {
-        "status": "allied"
-    },
-    "RAGNK": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "-M4L-": {
-        "status": "allied"
-    },
-    "N_O_C": {
-        "status": "allied"
-    },
-    "NUTC": {
-        "status": "allied"
-    },
-    "SGW": {
-        "status": "allied"
-    },
-    "B_U_K": {
-        "status": "allied"
-    },
-    "FGHTR": {
-        "status": "allied"
-    },
-    "IT-IX": {
-        "status": "allied"
-    },
-    "PANIC": {
-        "status": "enemy"
-    },
-    "ASS-O": {
-        "status": "enemy"
-    },
-    "SOA_2": {
-        "status": "allied"
-    },
-    "IDUK": {
-        "status": "allied"
-    },
-    "USA-1": {
-        "status": "enemy"
-    },
-    "PREUS": {
-        "status": "allied"
-    },
-    "NEM-E": {
-        "status": "allied"
-    },
-    "CC_": {
-        "status": "allied"
-    },
-    "BOOST": {
-        "status": "allied"
-    },
-    "WP-ZC": {
-        "status": "allied"
-    },
-    "SALEM": {
-        "status": "allied"
-    },
-    "OLD": {
-        "status": "allied"
-    },
-    "ES-LF": {
-        "status": "allied"
-    },
-    "-IB-": {
-        "status": "allied"
-    },
-    "ISF": {
-        "status": "allied"
-    },
-    "UN100": {
-        "status": "allied"
-    },
-    "WCSF": {
-        "status": "allied"
-    },
-    "CRU1": {
-        "status": "allied"
-    },
-    "_UP_": {
-        "status": "allied"
-    },
-    "_UBF_": {
-        "status": "allied"
-    },
-    "CHETT": {
-        "status": "allied"
-    },
-    "IT300": {
-        "status": "allied"
-    },
-    "CP-0": {
-        "status": "allied"
-    },
-    "HW": {
-        "status": "allied"
-    },
-    "G-O-E": {
-        "status": "allied"
-    },
-    "IMP_S": {
-        "status": "allied"
-    },
-    "_CFM_": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "FEKKU": {
-        "status": "allied"
-    },
-    "VIGI": {
-        "status": "allied"
-    },
-    "TINNI": {
-        "status": "allied"
-    },
-    "F-D-E": {
-        "status": "allied"
-    },
-    "F-A-B": {
-        "status": "allied"
-    },
-    "WCCP": {
-        "status": "allied"
-    },
-    "-FIN-": {
-        "status": "allied"
-    },
-    "TID-X": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "TIZZY": {
-        "status": "allied"
-    },
-    "1S1K": {
-        "status": "allied"
-    },
-    "U_P_F": {
-        "status": "allied"
-    },
-    "FF-3": {
-        "status": "allied"
-    },
-    "UK-TQ": {
-        "status": "allied"
-    },
-    "VIC70": {
-        "status": "allied"
-    },
-    "GSPOT": {
-        "status": "enemy"
-    },
-    "WE-RI": {
-        "status": "allied"
-    },
-    "ROO": {
-        "status": "allied"
-    },
-    "G-M-E": {
-        "status": "allied"
-    },
-    "WAHEY": {
-        "status": "allied"
-    },
-    "EL1TE": {
-        "status": "allied"
-    },
-    "FH": {
-        "status": "allied"
-    },
-    "FARM1": {
-        "status": "allied"
-    },
-    "EEE": {
-        "status": "allied"
-    },
-    "SFU": {
-        "status": "allied"
-    },
-    "FDE-2": {
-        "status": "allied"
-    },
-    "TL": {
-        "status": "allied"
-    },
-    "EL-KT": {
-        "status": "allied"
-    },
-    "ELADA": {
-        "status": "allied"
-    },
-    "THAI1": {
-        "status": "allied"
-    },
-    "SOLOR": {
-        "status": "allied"
-    },
-    "AER": {
-        "status": "allied"
-    },
-    "OE": {
-        "status": "allied"
-    },
-    "CARE3": {
-        "status": "allied"
-    },
-    "L_M_F": {
-        "status": "allied"
-    },
-    "BGRIM": {
-        "status": "allied"
-    },
-    "SW_AT": {
-        "status": "allied"
-    },
-    "CRO-D": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "TROWS": {
-        "status": "allied"
-    },
-    "DOOM-": {
-        "status": "allied"
-    },
-    "REP_1": {
-        "status": "allied"
-    },
-    "NUDE": {
-        "status": "allied"
-    },
-    "DDAR": {
-        "status": "allied"
-    },
-    "S-P-T": {
-        "status": "enemy"
-    },
-    "H-O-D": {
-        "status": "enemy"
-    },
-    "DS300": {
-        "status": "allied"
-    },
-    "-OL-": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "PRC__": {
-        "status": "allied"
-    },
-    "OUTLZ": {
-        "status": "allied"
-    },
-    "TREA2": {
-        "status": "allied"
-    },
-    "-HFS-": {
-        "status": "enemy"
-    },
-    "SS-PC": {
-        "status": "allied"
-    },
-    "NATVE": {
-        "status": "allied"
-    },
-    "RANGR": {
-        "status": "allied"
-    },
-    "NVDRS": {
-        "status": "allied"
-    },
-    "DANO": {
-        "status": "allied"
-    },
-    "LOUT": {
-        "status": "allied"
-    },
-    "FAIXA": {
-        "status": "allied"
-    },
-    "VJ": {
-        "status": "allied"
-    },
-    "RABIT": {
-        "status": "allied"
-    },
-    "SOCOM": {
-        "status": "allied"
-    },
-    "STOCK": {
-        "status": "allied"
-    },
-    "_UNO_": {
-        "status": "allied"
-    },
-    "BIGDK": {
-        "status": "allied"
-    },
-    "UAADF": {
-        "status": "enemy",
-        "note": "Bmf allies"
-    },
-    "AKNCR": {
-        "status": "allied"
-    },
-    "2GUYS": {
-        "status": "allied"
-    },
-    "LONE": {
-        "status": "allied"
-    },
-    "F-U": {
-        "status": "allied"
-    },
-    "MAEA": {
-        "status": "allied",
-        "note": "Fady Dinil"
-    },
-    "SIF_M": {
-        "status": "allied"
-    },
-    "-AK-": {
-        "status": "allied"
-    },
-    "TC-TK": {
-        "status": "allied"
-    },
-    "POWDG": {
-        "status": "enemy"
-    },
-    "ACE": {
-        "status": "enemy"
-    },
-    "OYEAH": {
-        "status": "allied"
-    },
-    "_FFF_": {
-        "status": "allied"
-    },
-    "GITTI": {
-        "status": "allied"
-    },
-    "TUS": {
-        "status": "allied"
-    },
-    "SUSS": {
-        "status": "allied"
-    },
-    "KUNTY": {
-        "status": "allied"
-    },
-    "A-A-": {
-        "status": "allied"
-    },
-    "KTCOM": {
-        "status": "allied"
-    },
-    "FFF-S": {
-        "status": "allied"
-    },
-    "HDMJ": {
-        "status": "allied"
-    },
-    "J-L": {
-        "status": "enemy"
-    },
-    "ROLO": {
-        "status": "allied"
-    },
-    "KS2": {
-        "status": "allied"
-    },
-    "HKOC": {
-        "status": "enemy"
-    },
-    "USA1": {
-        "status": "enemy"
-    },
-    "REAPS": {
-        "status": "enemy"
-    },
-    "STEEL": {
-        "status": "allied",
-        "note": "N7FL friends"
-    },
-    "SFW": {
-        "status": "enemy"
-    },
-    "ES227": {
-        "status": "enemy"
-    },
-    "ECA": {
-        "status": "allied",
-        "note": "N7FL friends"
-    },
-    "B1G": {
-        "status": "allied",
-        "note": "KT Alt tag"
-    },
-    "TNT": {
-        "status": "ceasefire"
-    },
-    "FWKRS": {
-        "status": "enemy"
-    },
-    "_CD_": {
-        "status": "allied"
-    },
-    "A-PHX": {
-        "status": "allied",
-        "note": "Roger Simon leader"
-    },
-    "FREEM": {
-        "status": "allied"
-    },
-    "VAMP": {
-        "status": "allied"
-    },
-    "DA-SO": {
-        "status": "allied",
-        "note": "Joey Wilson"
-    },
-    "W4M": {
-        "status": "allied"
-    },
-    "4FK-S": {
-        "status": "allied"
-    },
-    "NOMAD": {
-        "status": "allied"
-    },
-    "MDET": {
-        "status": "allied"
-    },
-    "BF-TA": {
-        "status": "allied"
-    },
-    "XMN": {
-        "status": "allied",
-        "note": "KT Allies See Yanni"
-    },
-    "TKT": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "J3SUS": {
-        "status": "allied",
-        "note": "Anti ACS, Anti WWW, Anti AAF"
-    },
-    "C_W_T": {
-        "status": "allied"
-    },
-    "TIDR": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "ZOMBE": {
-        "status": "allied"
-    },
-    "CMA": {
-        "status": "allied"
-    },
-    "PALAR": {
-        "status": "enemy"
-    },
-    "AGGRO": {
-        "status": "enemy"
-    },
-    "ME1": {
-        "status": "allied",
-        "note": "RAV Allies"
-    },
-    "AFG-": {
-        "status": "enemy"
-    },
-    "GYGR": {
-        "status": "enemy",
-        "note": "sec 7 Neutral / Anti AAF"
-    },
-    "CO3RA": {
-        "status": "allied",
-        "note": "TREAP Allies"
-    },
-    "NFG_": {
-        "status": "enemy"
-    },
-    "B-A-E": {
-        "status": "allied"
-    },
-    "A__Z": {
-        "status": "enemy",
-        "note": "BMF/NMFD Allies"
-    },
-    "VSALL": {
-        "status": "allied"
-    },
-    "VSAII": {
-        "status": "allied",
-        "note": "Media Allie’s"
-    },
-    "NODRA": {
-        "status": "allied",
-        "note": "Michael Martinelli leader"
-    },
-    "TWO-X": {
-        "status": "enemy"
-    },
-    "SIDAD": {
-        "status": "enemy",
-        "note": "ACS"
-    },
-    "POLAR": {
-        "status": "enemy"
-    },
-    "CRAZY": {
-        "status": "enemy"
-    },
-    "50DEF": {
-        "status": "allied"
-    },
-    "IRL32": {
-        "status": "allied",
-        "note": "Frances Oboyle - leader"
-    },
-    "PIGO": {
-        "status": "allied"
-    },
-    "B_A_E": {
-        "status": "allied"
-    },
-    "NO_BS": {
-        "status": "allied"
-    },
-    "3SURE": {
-        "status": "enemy"
-    },
-    "XAK2": {
-        "status": "allied"
-    },
-    "VILL": {
-        "status": "allied"
-    },
-    "TDV": {
-        "status": "allied"
-    },
-    "DDA": {
-        "status": "allied"
-    },
-    "B-L-K": {
-        "status": "allied"
-    },
-    "5GLAT": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "BBL-": {
-        "status": "allied"
-    },
-    "WCP": {
-        "status": "enemy",
-        "note": "Sector 110"
-    },
-    "_GEN_": {
-        "status": "allied",
-        "note": "TP"
-    },
-    "HOLD": {
-        "status": "allied"
-    },
-    "ICONS": {
-        "status": "allied"
-    },
-    "MB692": {
-        "status": "allied"
-    },
-    "GOB": {
-        "status": "allied"
-    },
-    "TEXMX": {
-        "status": "allied"
-    },
-    "OWAWH": {
-        "status": "enemy",
-        "note": "s137"
-    },
-    "ASOAS": {
-        "status": "allied",
-        "note": "See Fady Dinil"
-    },
-    "KIL19": {
-        "status": "enemy"
-    },
-    "TRINI": {
-        "status": "allied",
-        "note": "leader - EL Deabloxx"
-    },
-    "BWC1": {
-        "status": "allied",
-        "note": "sector 7"
-    },
-    "REDDG": {
-        "status": "allied"
-    },
-    "B-L": {
-        "status": "allied"
-    },
-    "-TMR-": {
-        "status": "enemy",
-        "note": "S3XY"
-    },
-    "CRDZ": {
-        "status": "allied"
-    },
-    "CHIDO": {
-        "status": "allied"
-    },
-    "DPAIN": {
-        "status": "allied"
-    },
-    "DF116": {
-        "status": "allied"
-    },
-    "_FLT_": {
-        "status": "allied"
-    },
-    "F-KGS": {
-        "status": "enemy"
-    },
-    "WEROC": {
-        "status": "allied"
-    },
-    "MS-AC": {
-        "status": "allied"
-    },
-    "-UG-": {
-        "status": "allied"
-    },
-    "X3N0": {
-        "status": "allied"
-    },
-    "0G235": {
-        "status": "allied"
-    },
-    "__RF__": {
-        "status": "allied"
-    },
-    "_RF_": {
-        "status": "allied"
-    },
-    "RIP83": {
-        "status": "allied"
-    },
-    "WCSF2": {
-        "status": "allied"
-    },
-    "XSNPE": {
-        "status": "allied"
-    },
-    "MIRI-": {
-        "status": "allied"
-    },
-    "AHOLE": {
-        "status": "allied"
-    },
-    "CM1": {
-        "status": "allied"
-    },
-    "FA_V2": {
-        "status": "allied"
-    },
-    "RUBEN": {
-        "status": "allied"
-    },
-    "-FAK-": {
-        "status": "allied"
-    },
-    "HTSQ": {
-        "status": "allied"
-    },
-    "KAF2": {
-        "status": "allied"
-    },
-    "UPF": {
-        "status": "allied"
-    },
-    "B0RGS": {
-        "status": "allied"
-    },
-    "-ENG-": {
-        "status": "allied"
-    },
-    "HS187": {
-        "status": "enemy"
-    },
-    "AOW": {
-        "status": "enemy"
-    },
-    "HATSU": {
-        "status": "enemy"
-    },
-    "JUNK": {
-        "status": "allied"
-    },
-    "D-T-C": {
-        "status": "enemy"
-    },
-    "4-PSF": {
-        "status": "allied"
-    },
-    "GATU": {
-        "status": "allied"
-    },
-    "R_M": {
-        "status": "allied"
-    },
-    "1-T": {
-        "status": "allied"
-    },
-    "SILOG": {
-        "status": "allied",
-        "note": "with TP allies"
-    },
-    "SCKME": {
-        "status": "allied"
-    },
-    "XBHX": {
-        "status": "enemy"
-    },
-    "BALSS": {
-        "status": "allied"
-    },
-    "WLV": {
-        "status": "enemy"
-    },
-    "KUNT_": {
-        "status": "allied"
-    },
-    "GORAN": {
-        "status": "allied"
-    },
-    "-KE-": {
-        "status": "enemy"
-    },
-    "-FE-": {
-        "status": "allied"
-    },
-    "RYTHM": {
-        "status": "enemy"
-    },
-    "FDN": {
-        "status": "allied"
-    },
-    "C03RA": {
-        "status": "allied"
-    },
-    "4SALE": {
-        "status": "allied"
-    },
-    "SILNI": {
-        "status": "enemy"
-    },
-    "EK134": {
-        "status": "allied"
-    },
-    "IBERO": {
-        "status": "allied",
-        "note": "B-ALB Allied"
-    },
-    "YORKY": {
-        "status": "enemy"
-    },
-    "T-_P_": {
-        "status": "allied"
-    },
-    "HA-RD": {
-        "status": "allied"
-    },
-    "MAT68": {
-        "status": "allied"
-    },
-    "MBF": {
-        "status": "allied"
-    },
-    "BFNS": {
-        "status": "enemy"
-    },
-    "4FREE": {
-        "status": "allied"
-    },
-    "ZTEAM": {
-        "status": "allied"
-    },
-    "PLUMB": {
-        "status": "neutral",
-        "note": "Moved to sector 19"
-    },
-    "HR": {
-        "status": "allied"
-    },
-    "MAMBA": {
-        "status": "allied"
-    },
-    "CTZ": {
-        "status": "allied"
-    },
-    "INSAN": {
-        "status": "allied"
-    },
-    "POUL": {
-        "status": "allied"
-    },
-    "BF-D": {
-        "status": "enemy"
-    },
-    "AAS": {
-        "status": "allied"
-    },
-    "_RM_": {
-        "status": "neutral",
-        "note": "Eric"
-    },
-    "RWBUK": {
-        "status": "allied"
-    },
-    "JMST": {
-        "status": "allied"
-    },
-    "DDOGS": {
-        "status": "allied"
-    },
-    "WAAAA": {
-        "status": "enemy"
-    },
-    "GORGE": {
-        "status": "enemy"
-    },
-    "SOV": {
-        "status": "allied"
-    },
-    "N7-HS": {
-        "status": "neutral"
-    },
-    "EW": {
-        "status": "enemy"
-    },
-    "BIGN": {
-        "status": "allied"
-    },
-    "W-W-E": {
-        "status": "allied",
-        "note": "135"
-    },
-    "PBS": {
-        "status": "allied"
-    },
-    "QWACK": {
-        "status": "enemy",
-        "note": "Woody's alt"
-    },
-    "GLA": {
-        "status": "allied"
-    },
-    "W—-B": {
-        "status": "neutral"
-    },
-    "U-CAN": {
-        "status": "allied"
-    },
-    "_N-D_": {
-        "status": "allied"
-    },
-    "-FTA-": {
-        "status": "allied"
-    },
-    "UWS-A": {
-        "status": "ceasefire",
-        "note": "UWS-A Alliance"
-    },
-    "DNTAE": {
-        "status": "enemy"
-    },
-    "-MIA-": {
-        "status": "allied"
-    },
-    "UN-WC": {
-        "status": "enemy",
-        "note": "AAF"
-    },
-    "BSTAD": {
-        "status": "allied"
-    },
-    "CNILE": {
-        "status": "enemy",
-        "note": "WCFU backup tag"
-    },
-    "MABO": {
-        "status": "allied"
-    },
-    "PONOS": {
-        "status": "allied"
-    },
-    "_V-R_": {
-        "status": "allied"
-    },
-    "BNK1": {
-        "status": "allied",
-        "note": "131"
-    },
-    "BNK2": {
-        "status": "allied"
-    },
-    "BNK3": {
-        "status": "allied"
-    },
-    "THE_1": {
-        "status": "allied"
-    },
-    "K-VON": {
-        "status": "allied"
-    },
-    "VSAO": {
-        "status": "enemy"
-    },
-    "AV": {
-        "status": "enemy"
-    },
-    "ABSED": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "ALI3N": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "B2A": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "BIGRO": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "EF": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "F-ALL": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "F3D": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "FCKYU": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "FD-A": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "FFT": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "FK-EM": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "FU-2": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "FU-RY": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "GTS": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "G-E-W": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "MUSIC": {
-        "status": "allied"
-    },
-    "OLD24": {
-        "status": "allied",
-        "note": "N7F"
-    },
-    "-KAFR": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "WCTP_": {
-        "status": "enemy"
-    },
-    "LJ8": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "MERCC": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "MONGO": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "MYH_": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "MYH-R": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "NDL": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "NEM": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "NMHRK": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "OLDAZ": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "GAZIE": {
-        "status": "allied",
-        "note": "N7F"
-    },
-    "ON": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "OTLWS": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "_PL_": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "PBUD": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "QT": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "RFC2": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "RGJ": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "-RNT-": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "-SBD-": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "SHADO": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "SIGAL": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "SPURS": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "SRFIR": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "T-R-B": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "TW-TT": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "UKHIT": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "V-T": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "WCOG": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "_R-V_": {
-        "status": "allied"
-    },
-    "-RRH-": {
-        "status": "allied",
-        "note": "clarify who they are with main tag allied on WWW"
-    },
-    "FROMH": {
-        "status": "enemy"
-    },
-    "T209": {
-        "status": "enemy"
-    },
-    "ICBM": {
-        "status": "allied"
-    },
-    "KSA": {
-        "status": "enemy"
-    },
-    "SFOG": {
-        "status": "enemy",
-        "note": "Aaf"
-    },
-    "DIAB1": {
-        "status": "allied"
-    },
-    "0NE35": {
-        "status": "allied"
-    },
-    "N1PPL": {
-        "status": "allied"
-    },
-    "PHNXR": {
-        "status": "allied"
-    },
-    "AFG_K": {
-        "status": "allied"
-    },
-    "GFH": {
-        "status": "allied",
-        "note": "131"
-    },
-    "NX_HH": {
-        "status": "allied",
-        "note": "24"
-    },
-    "MRA24": {
-        "status": "allied"
-    },
-    "L-PHX": {
-        "status": "allied"
-    },
-    "CP-24": {
-        "status": "allied"
-    },
-    "ASA": {
-        "status": "allied"
-    },
-    "WP-EL": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "WWWB1": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "-XLV-": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "-FAL-": {
-        "status": "enemy",
-        "note": "UAO"
-    },
-    "TBOY": {
-        "status": "allied",
-        "note": "KRJ mini"
-    },
-    "GOOSE": {
-        "status": "allied"
-    },
-    "HVSO": {
-        "status": "allied"
-    },
-    "WALL": {
-        "status": "allied",
-        "note": "Alt tag to n7f"
-    },
-    "UYF": {
-        "status": "enemy"
-    },
-    "7GOKU": {
-        "status": "allied"
-    },
-    "LYCN": {
-        "status": "enemy",
-        "note": "Made enemy for hitting allies waiting on leader"
-    },
-    "1WP1": {
-        "status": "allied"
-    },
-    "T-A-G": {
-        "status": "allied"
-    },
-    "01010": {
-        "status": "allied"
-    },
-    "CC": {
-        "status": "allied",
-        "note": "Sector 52"
-    },
-    "0093-": {
-        "status": "allied"
-    },
-    "WHU": {
-        "status": "enemy"
-    },
-    "R_R_M": {
-        "status": "allied"
-    },
-    "ALGIR": {
-        "status": "allied"
-    },
-    "VSSEC": {
-        "status": "allied"
-    },
-    "LEGIT": {
-        "status": "allied",
-        "note": "Sector 1"
-    },
-    "-5G-": {
-        "status": "allied"
-    },
-    "FGHT": {
-        "status": "enemy"
-    },
-    "FGH": {
-        "status": "enemy"
-    },
-    "ADIK": {
-        "status": "allied",
-        "note": "TP sector 4"
-    },
-    "12SEC": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "AMW": {
-        "status": "allied",
-        "note": "Andrew Tedstone"
-    },
-    "ORIG": {
-        "status": "allied"
-    },
-    "NFRU": {
-        "status": "allied",
-        "note": "TP - sector 25"
-    },
-    "T81P": {
-        "status": "enemy"
-    },
-    "ABYSS": {
-        "status": "neutral",
-        "note": "Allied in 52"
-    },
-    "S-I-X": {
-        "status": "allied",
-        "note": "IWA - Lisa and Shemp mini in 12"
-    },
-    "-FKA-": {
-        "status": "neutral"
-    },
-    "_WIN_": {
-        "status": "enemy"
-    },
-    "TP-SI": {
-        "status": "enemy",
-        "note": "Pending. TP approval"
-    },
-    "KNTBF": {
-        "status": "allied",
-        "note": "KT alt"
-    },
-    "PQKER": {
-        "status": "enemy"
-    },
-    "TPHNK": {
-        "status": "neutral"
-    },
-    "REGAN": {
-        "status": "enemy"
-    },
-    "VIK": {
-        "status": "enemy"
-    },
-    "EDF": {
-        "status": "enemy"
-    },
-    "WO225": {
-        "status": "enemy"
-    },
-    "EK-PL": {
-        "status": "enemy"
-    },
-    "FA-S": {
-        "status": "allied"
-    },
-    "GRAV": {
-        "status": "allied"
-    },
-    "TMLB": {
-        "status": "enemy",
-        "note": "CHANGED SIDES"
-    },
-    "VSA0": {
-        "status": "enemy"
-    },
-    "N_A": {
-        "status": "neutral"
-    },
-    "TORN": {
-        "status": "enemy"
-    },
-    "-HK-": {
-        "status": "allied"
-    },
-    "XNBot": {
-        "status": "allied"
-    },
-    "FA190": {
-        "status": "allied"
-    },
-    "24/7": {
-        "status": "enemy"
-    },
-    "T_WAT": {
-        "status": "enemy"
-    },
-    "agk": {
-        "status": "enemy"
-    },
-    "U-S-A": {
-        "status": "enemy"
-    },
-    "ZIPIT": {
-        "status": "enemy"
-    },
-    "POPO": {
-        "status": "allied"
-    },
-    "N7FED": {
-        "status": "enemy"
-    },
-    "FED12": {
-        "status": "enemy"
-    },
-    "Unc1e": {
-        "status": "enemy"
-    },
-    "UNCUS": {
-        "status": "enemy"
-    },
-    "DJT45": {
-        "status": "enemy"
-    },
-    "B_A_S": {
-        "status": "enemy"
-    },
-    "M_M": {
-        "status": "enemy",
-        "note": "Bmf allies"
-    },
-    "umf": {
-        "status": "enemy"
-    },
-    "SKC": {
-        "status": "enemy"
-    },
-    "K_POP": {
-        "status": "allied"
-    },
-    "-BF4L": {
-        "status": "enemy"
-    },
-    "NMFP": {
-        "status": "allied"
-    },
-    "-DBZ-": {
-        "status": "allied"
-    },
-    "Lethl": {
-        "status": "enemy"
-    },
-    "AS-2": {
-        "status": "allied"
-    },
-    "LUV_U": {
-        "status": "enemy"
-    },
-    "-TSK-": {
-        "status": "allied"
-    },
-    "N-C-T": {
-        "status": "allied"
-    },
-    "N_C_T": {
-        "status": "allied"
-    },
-    "T7": {
-        "status": "enemy"
-    },
-    "pRIMo": {
-        "status": "enemy"
-    },
-    "Nem": {
-        "status": "enemy"
-    },
-    "PK-NF": {
-        "status": "enemy"
-    },
-    "GD2D": {
-        "status": "enemy"
-    },
-    "_ES_": {
-        "status": "enemy"
-    },
-    "N-Z": {
-        "status": "enemy"
-    },
-    "PAG": {
-        "status": "enemy"
-    },
-    "TAP_I": {
-        "status": "enemy"
-    },
-    "-TNM-": {
-        "status": "enemy"
-    },
-    "tap_i": {
-        "status": "enemy"
-    },
-    "-EA-": {
-        "status": "enemy"
-    },
-    "N7-AI": {
-        "status": "allied"
-    },
-    "KIDON": {
-        "status": "enemy"
-    },
-    "DRAM": {
-        "status": "enemy"
-    },
-    "71sf": {
-        "status": "allied"
-    },
-    "-MQ-": {
-        "status": "allied",
-        "note": "Bob Khater friend's"
-    },
-    "HOT_1": {
-        "status": "allied"
-    },
-    "farm8": {
-        "status": "allied"
-    },
-    "LOD": {
-        "status": "allied"
-    },
-    "AOH": {
-        "status": "allied"
-    },
-    "DANY": {
-        "status": "allied"
-    },
-    "NEXT": {
-        "status": "allied"
-    },
-    "KI": {
-        "status": "allied"
-    },
-    "_UFO_": {
-        "status": "allied"
-    },
-    "farm2": {
-        "status": "allied"
-    },
-    "FF-HS": {
-        "status": "allied"
-    },
-    "-UB-": {
-        "status": "allied"
-    },
-    "FLATU": {
-        "status": "allied"
-    },
-    "S___W": {
-        "status": "allied"
-    },
-    "GRAZY": {
-        "status": "allied"
-    },
-    "WSAO": {
-        "status": "allied"
-    },
-    "USOFA": {
-        "status": "allied"
-    },
-    "FKW": {
-        "status": "allied"
-    },
-    "MPA": {
-        "status": "allied",
-        "note": "FFF Friendly"
-    },
-    "OTC": {
-        "status": "allied"
-    },
-    "_BIA_": {
-        "status": "allied",
-        "note": "43"
-    },
-    "farm7": {
-        "status": "allied"
-    },
-    "HHMMM": {
-        "status": "allied"
-    },
-    "TP_PW": {
-        "status": "allied"
-    },
-    "S-K": {
-        "status": "allied"
-    },
-    "16DF": {
-        "status": "allied"
-    },
-    "-TE-": {
-        "status": "allied"
-    },
-    "EBUL": {
-        "status": "allied"
-    },
-    "JAK": {
-        "status": "allied"
-    },
-    "FIRM": {
-        "status": "allied"
-    },
-    "1GEAR": {
-        "status": "allied"
-    },
-    "-BH--": {
-        "status": "allied"
-    },
-    "FCKED": {
-        "status": "allied"
-    },
-    "A5A5N": {
-        "status": "allied"
-    },
-    "BHFH": {
-        "status": "allied"
-    },
-    "PIKI": {
-        "status": "allied"
-    },
-    "D--S": {
-        "status": "allied"
-    },
-    "CPR1": {
-        "status": "allied"
-    },
-    "Ronin": {
-        "status": "allied"
-    },
-    "-D3-": {
-        "status": "allied"
-    },
-    "STY": {
-        "status": "allied"
-    },
-    "LB-43": {
-        "status": "allied"
-    },
-    "IKS": {
-        "status": "allied"
-    },
-    "WHIP": {
-        "status": "allied"
-    },
-    "Lupus": {
-        "status": "allied"
-    },
-    "noaff": {
-        "status": "allied"
-    },
-    "7-OCT": {
-        "status": "allied"
-    },
-    "GRC43": {
-        "status": "allied"
-    },
-    "S43L2": {
-        "status": "allied"
-    },
-    "TFWPA": {
-        "status": "allied"
-    },
-    "IAA_E": {
-        "status": "allied"
-    },
-    "-43-": {
-        "status": "allied"
-    },
-    "IAA_M": {
-        "status": "allied"
-    },
-    "GOP": {
-        "status": "allied"
-    },
-    "_FA_": {
-        "status": "allied"
-    },
-    "S-D-R": {
-        "status": "allied"
-    },
-    "137FW": {
-        "status": "allied"
-    },
-    "N7F-L": {
-        "status": "allied"
-    },
-    "UN31": {
-        "status": "allied"
-    },
-    "X0X0X": {
-        "status": "allied"
-    },
-    "XOXOX": {
-        "status": "allied"
-    },
-    "I_G_I": {
-        "status": "allied"
-    },
-    "NEK": {
-        "status": "allied"
-    },
-    "Aov": {
-        "status": "allied"
-    },
-    "YEAST": {
-        "status": "allied"
-    },
-    "xAWCx": {
-        "status": "allied"
-    },
-    "KODA": {
-        "status": "allied"
-    },
-    "Wild1": {
-        "status": "allied"
-    },
-    "_RK_": {
-        "status": "allied"
-    },
-    "Tree": {
-        "status": "enemy"
-    },
-    "BOR3D": {
-        "status": "allied"
-    },
-    "CH4OS": {
-        "status": "allied",
-        "note": "Glens mini tag"
-    },
-    "GEORG": {
-        "status": "allied"
-    },
-    "JQK3R": {
-        "status": "allied"
-    },
-    "HQKER": {
-        "status": "allied"
-    },
-    "DT131": {
-        "status": "allied"
-    },
-    "GOT31": {
-        "status": "allied"
-    },
-    "Genrl": {
-        "status": "allied"
-    },
-    "USA--": {
-        "status": "allied"
-    },
-    "WRECK": {
-        "status": "allied"
-    },
-    "Ace31": {
-        "status": "allied"
-    },
-    "Dboyz": {
-        "status": "allied"
-    },
-    "Xsnpe": {
-        "status": "allied"
-    },
-    "Myth-": {
-        "status": "allied"
-    },
-    "HazMt": {
-        "status": "allied"
-    },
-    "skllz": {
-        "status": "allied"
-    },
-    "RW": {
-        "status": "allied"
-    },
-    "xRIPx": {
-        "status": "allied"
-    },
-    "game": {
-        "status": "allied"
-    },
-    "T-D-R": {
-        "status": "allied"
-    },
-    "BNK20": {
-        "status": "allied"
-    },
-    "LTR": {
-        "status": "allied"
-    },
-    "z_l_f": {
-        "status": "allied"
-    },
-    "JEDIK": {
-        "status": "allied"
-    },
-    "MEOWS": {
-        "status": "allied"
-    },
-    "MALEV": {
-        "status": "allied"
-    },
-    "madd": {
-        "status": "allied"
-    },
-    "duvel": {
-        "status": "allied"
-    },
-    "D_S": {
-        "status": "allied"
-    },
-    "A230Z": {
-        "status": "allied"
-    },
-    "A23Oz": {
-        "status": "allied"
-    },
-    "ut": {
-        "status": "allied"
-    },
-    "MEAT": {
-        "status": "allied"
-    },
-    "woofs": {
-        "status": "allied"
-    },
-    "TEMPL": {
-        "status": "allied"
-    },
-    "S-olo": {
-        "status": "allied"
-    },
-    "182JT": {
-        "status": "allied"
-    },
-    "JDPA": {
-        "status": "allied"
-    },
-    "KW": {
-        "status": "allied"
-    },
-    "MYOB": {
-        "status": "allied"
-    },
-    "CRAZI": {
-        "status": "allied"
-    },
-    "D-R": {
-        "status": "allied"
-    },
-    "-UT-": {
-        "status": "allied"
-    },
-    "BLNL": {
-        "status": "allied"
-    },
-    "PR1ME": {
-        "status": "allied"
-    },
-    "WE": {
-        "status": "allied"
-    },
-    "OUWES": {
-        "status": "allied"
-    },
-    "RedSS": {
-        "status": "allied"
-    },
-    "MVPE": {
-        "status": "allied"
-    },
-    "-CTD-": {
-        "status": "allied"
-    },
-    "DEN": {
-        "status": "allied"
-    },
-    "iSAS": {
-        "status": "allied"
-    },
-    "Woofz": {
-        "status": "allied"
-    },
-    "RCA1": {
-        "status": "allied"
-    },
-    "ERF": {
-        "status": "allied"
-    },
-    "RAV24": {
-        "status": "allied"
-    },
-    "-PAP-": {
-        "status": "allied",
-        "note": "William Macfie leader"
-    },
-    "DCTBB": {
-        "status": "allied"
-    },
-    "RAS": {
-        "status": "allied"
-    },
-    "BIA": {
-        "status": "allied"
-    },
-    "MVPRE": {
-        "status": "allied"
-    },
-    "BANGS": {
-        "status": "allied"
-    },
-    "TEO": {
-        "status": "allied",
-        "note": "Erdinc Oran Sector 52"
-    },
-    "MMY": {
-        "status": "allied"
-    },
-    "TWC": {
-        "status": "allied"
-    },
-    "LFORX": {
-        "status": "allied"
-    },
-    "M___A": {
-        "status": "allied"
-    },
-    "_KNG_": {
-        "status": "allied",
-        "note": "Sector 52 King Smash’s tag"
-    },
-    "DIK12": {
-        "status": "enemy"
-    },
-    "FEE": {
-        "status": "allied"
-    },
-    "W4NK4": {
-        "status": "allied"
-    },
-    "52rct": {
-        "status": "allied"
-    },
-    "THORN": {
-        "status": "allied"
-    },
-    "NA007": {
-        "status": "allied"
-    },
-    "-BTC-": {
-        "status": "allied",
-        "note": "Mohamed Moustafa Mahoud leader"
-    },
-    "-FJB-": {
-        "status": "allied",
-        "note": "Resident in sector 52"
-    },
-    "SLUTZ": {
-        "status": "allied"
-    },
-    "131F": {
-        "status": "allied",
-        "note": "Craig’s farming tag N7F"
-    },
-    "SDCR": {
-        "status": "allied",
-        "note": "N7F allied Leader Nathan Ray Denniston"
-    },
-    "TWST1": {
-        "status": "allied",
-        "note": "Brian Marble minis"
-    },
-    "DVC": {
-        "status": "allied"
-    },
-    "SPT": {
-        "status": "allied"
-    },
-    "-WTR-": {
-        "status": "allied"
-    },
-    "UN182": {
-        "status": "allied"
-    },
-    "WM": {
-        "status": "allied"
-    },
-    "DRGNS": {
-        "status": "allied",
-        "note": "Rob Tetzloff sector 42"
-    },
-    "N7F_-": {
-        "status": "allied"
-    },
-    "__N7F": {
-        "status": "allied"
-    },
-    "DWM": {
-        "status": "allied"
-    },
-    "ONE35": {
-        "status": "allied",
-        "note": "Sector 159, 135"
-    },
-    "DPI": {
-        "status": "enemy"
-    },
-    "-N7F-": {
-        "status": "allied"
-    },
-    "JQKER": {
-        "status": "allied"
-    },
-    "U-K-U": {
-        "status": "allied",
-        "note": "listed on WWW - clarify who and where they are"
-    },
-    "KRJ": {
-        "status": "allied",
-        "note": "43"
-    },
-    "-NRC-": {
-        "status": "allied"
-    },
-    "S_P_T": {
-        "status": "allied"
-    },
-    "_N7F_": {
-        "status": "allied"
-    },
-    "RELAX": {
-        "status": "allied"
-    },
-    "TRP": {
-        "status": "allied"
-    },
-    "FA-HS": {
-        "status": "allied"
-    },
-    "N7F": {
-        "status": "allied"
-    },
-    "BD-L": {
-        "status": "allied"
-    },
-    "SUSQ": {
-        "status": "allied"
-    },
-    "KMWDR": {
-        "status": "allied"
-    },
-    "N7F_S": {
-        "status": "allied"
-    },
-    "-S2N-": {
-        "status": "allied"
-    },
-    "ASASN": {
-        "status": "allied",
-        "note": "Leader Jack Johnson"
-    },
-    "N7FK": {
-        "status": "allied"
-    },
-    "JNB": {
-        "status": "allied"
-    },
-    "GRFA": {
-        "status": "enemy"
-    },
-    "UAO": {
-        "status": "enemy"
-    },
-    "W2H": {
-        "status": "enemy"
-    },
-    "-EGA-": {
-        "status": "enemy"
-    },
-    "GAM": {
-        "status": "enemy"
-    },
-    "A-C-S": {
-        "status": "enemy"
-    },
-    "RO": {
-        "status": "enemy"
-    },
-    "SF": {
-        "status": "enemy"
-    },
-    "F-OFF": {
-        "status": "enemy"
-    },
-    "ROD_": {
-        "status": "enemy"
-    },
-    "W-C-I": {
-        "status": "enemy"
-    },
-    "K-S-": {
-        "status": "enemy",
-        "note": "TRAITORS"
-    },
-    "B-L-S": {
-        "status": "enemy"
-    },
-    "-ACS-": {
-        "status": "enemy"
-    },
-    "LFORC": {
-        "status": "enemy"
-    },
-    "PRKS": {
-        "status": "enemy"
-    },
-    "-GER-": {
-        "status": "enemy"
-    },
-    "_KNK_": {
-        "status": "enemy"
-    },
-    "ALBS_": {
-        "status": "enemy"
-    },
-    "-198-": {
-        "status": "enemy"
-    },
-    "_PvP_": {
-        "status": "enemy"
-    },
-    "_RTA_": {
-        "status": "enemy"
-    },
-    "ms14": {
-        "status": "allied"
-    },
-    "IWA19": {
-        "status": "allied"
-    },
-    "19IWA": {
-        "status": "allied"
-    },
-    "Tndr1": {
-        "status": "allied"
-    },
-    "G4H": {
-        "status": "allied"
-    },
-    "LF": {
-        "status": "allied"
-    },
-    "U-A": {
-        "status": "allied"
-    },
-    "llypd": {
-        "status": "allied"
-    },
-    "EEF": {
-        "status": "allied",
-        "note": "JB Sheets. Leader"
-    },
-    "USNA": {
-        "status": "allied"
-    },
-    "-ATW-": {
-        "status": "allied"
-    },
-    "ck-ff": {
-        "status": "allied"
-    },
-    "OWO": {
-        "status": "allied"
-    },
-    "BAALS": {
-        "status": "allied"
-    },
-    "CB2": {
-        "status": "allied"
-    },
-    "UCKMA": {
-        "status": "allied"
-    },
-    "ROE-2": {
-        "status": "allied",
-        "note": "also listed on WWW"
-    },
-    "-WEED": {
-        "status": "allied",
-        "note": "IWA - listed allied on WWW"
-    },
-    "wiz-w": {
-        "status": "allied",
-        "note": "IWA - listed allied on WWW"
-    },
-    "-ASS_": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "MF27": {
-        "status": "allied"
-    },
-    "F1RM": {
-        "status": "allied",
-        "note": "sector 27"
-    },
-    "HFA": {
-        "status": "allied"
-    },
-    "_BVB_": {
-        "status": "allied"
-    },
-    "HFA27": {
-        "status": "allied"
-    },
-    "OGTS": {
-        "status": "allied",
-        "note": "sector 27"
-    },
-    "BVB": {
-        "status": "allied"
-    },
-    "135FF": {
-        "status": "allied"
-    },
-    "BVB27": {
-        "status": "allied"
-    },
-    "_CC_": {
-        "status": "allied",
-        "note": "sector 27 also listed on WWW"
-    },
-    "_BUK_": {
-        "status": "allied"
-    },
-    "CB": {
-        "status": "allied",
-        "note": "sector 27"
-    },
-    "BH-F": {
-        "status": "allied"
-    },
-    "CORE_": {
-        "status": "allied",
-        "note": "Iwa"
-    },
-    "DC2U": {
-        "status": "allied",
-        "note": "IWA"
-    },
-    "WCNP": {
-        "status": "allied",
-        "note": "Sector 127"
-    },
-    "157BS": {
-        "status": "allied",
-        "note": "Sector 157 UNO/Sendoh"
-    },
-    "MUTED": {
-        "status": "allied",
-        "note": "sector 111 and 122"
-    },
-    "TP_HS": {
-        "status": "allied",
-        "note": "sector 111"
-    },
-    "-PSK-": {
-        "status": "allied",
-        "note": "Sector 157 UNO/Sendoh"
-    },
-    "SPMTP": {
-        "status": "allied",
-        "note": "sector 111"
-    },
-    "ONE28": {
-        "status": "allied",
-        "note": "Sector 128"
-    },
-    "_CA_": {
-        "status": "allied",
-        "note": "sector 109,  111 and  122"
-    },
-    "NPA_G": {
-        "status": "allied",
-        "note": "allied to WCNP, sector 33 Glanne Bondoc"
-    },
-    "ELULZ": {
-        "status": "allied",
-        "note": "sector 111"
-    },
-    "WOD": {
-        "status": "allied",
-        "note": "Sector 88 VICIOUS/KIDA"
-    },
-    "SEC25": {
-        "status": "allied"
-    },
-    "TVJ": {
-        "status": "allied"
-    },
-    "TPUF": {
-        "status": "allied",
-        "note": "Sector 88 and 122"
-    },
-    "GFTP": {
-        "status": "allied",
-        "note": "Sector 88 VICIOUS/KIDA"
-    },
-    "CA": {
-        "status": "allied",
-        "note": "Sector 109, 111 and 122"
-    },
-    "RRM": {
-        "status": "allied",
-        "note": "Sector 138 VICIOUS/KIDA"
-    },
-    "RRM88": {
-        "status": "allied",
-        "note": "Sector 88 VICIOUS/KIDA"
-    },
-    "USUK": {
-        "status": "allied"
-    },
-    "N7_HS": {
-        "status": "allied"
-    },
-    "S_G": {
-        "status": "allied"
-    },
-    "TPK3": {
-        "status": "allied"
-    },
-    "122TP": {
-        "status": "allied"
-    },
-    "TAP-1": {
-        "status": "allied"
-    },
-    "PSK": {
-        "status": "allied"
-    },
-    "ONE60": {
-        "status": "allied"
-    },
-    "TP_UF": {
-        "status": "allied",
-        "note": "Sector 138 VICIOUS/KIDA"
-    },
-    "UTP81": {
-        "status": "allied",
-        "note": "Sector 81"
-    },
-    "GF_TP": {
-        "status": "allied",
-        "note": "Sector 88 VICIOUS/KIDA"
-    },
-    "XDaD": {
-        "status": "allied"
-    },
-    "xWWWx": {
-        "status": "allied"
-    },
-    "unite": {
-        "status": "allied"
-    },
-    "WG_PT": {
-        "status": "allied"
-    },
-    "TULOK": {
-        "status": "allied"
-    },
-    "TDD": {
-        "status": "allied"
-    },
-    "NDAY": {
-        "status": "allied"
-    },
-    "Ozz": {
-        "status": "allied"
-    },
-    "OZZ_": {
-        "status": "allied"
-    },
-    "UIF": {
-        "status": "allied"
-    },
-    "_SOS": {
-        "status": "allied"
-    },
-    "SOS_": {
-        "status": "allied"
-    },
-    "SOS_-": {
-        "status": "allied"
-    },
-    "-_SOS": {
-        "status": "allied"
-    },
-    "OZN": {
-        "status": "allied"
-    },
-    "TPS34": {
-        "status": "allied"
-    },
-    "TP-AU": {
-        "status": "allied"
-    },
-    "JERO": {
-        "status": "allied"
-    },
-    "3OTSO": {
-        "status": "allied"
-    },
-    "KOO-2": {
-        "status": "allied"
-    },
-    "KOO": {
-        "status": "allied"
-    },
-    "-ALBS": {
-        "status": "allied"
-    },
-    "kf": {
-        "status": "allied"
-    },
-    "C_PHX": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "DAK": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "CRO_A": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "JPFF": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "KT": {
-        "status": "allied"
-    },
-    "B-ALB": {
-        "status": "allied"
-    },
-    "JPFF_": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "TID-R": {
-        "status": "allied",
-        "note": "Core allies"
-    },
-    "IRISH": {
-        "status": "allied"
-    },
-    "CZSK": {
-        "status": "enemy",
-        "note": "leader Karol Pali"
-    },
-    "SCP17": {
-        "status": "enemy",
-        "note": "DG / W2H"
-    },
-    "NRC": {
-        "status": "enemy"
-    },
-    "ALPHA": {
-        "status": "enemy",
-        "note": "Philip Norris leader"
-    },
-    "UFL_X": {
-        "status": "enemy",
-        "note": "clarify who they are with"
-    },
-    "ROEC": {
-        "status": "allied",
-    },
-    "RRH": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "Zzz": {
-        "status": "enemy"
-    },
-    "YKFOO": {
-        "status": "enemy"
-    },
-    "Yolo-": {
-        "status": "enemy",
-        "note": "Allied to UAO"
-    },
-    "Y-P-J": {
-        "status": "enemy"
-    },
-    "x114R": {
-        "status": "enemy"
-    },
-    "x114x": {
-        "status": "enemy"
-    },
-    "xpred": {
-        "status": "enemy"
-    },
-    "X-T-C": {
-        "status": "enemy"
-    },
-    "-XTC-": {
-        "status": "enemy"
-    },
-    "xurra": {
-        "status": "enemy"
-    },
-    "xXx": {
-        "status": "enemy"
-    },
-    "W0WC": {
-        "status": "enemy"
-    },
-    "W50WUP": {
-        "status": "enemy"
-    },
-    "WADE": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "-WAF-": {
-        "status": "enemy"
-    },
-    "WAR_E": {
-        "status": "enemy"
-    },
-    "WAR_V": {
-        "status": "enemy"
-    },
-    "WBH-1": {
-        "status": "enemy"
-    },
-    "WCB": {
-        "status": "enemy"
-    },
-    "WCB6": {
-        "status": "enemy"
-    },
-    "WCFUR": {
-        "status": "enemy"
-    },
-    "WCGUK": {
-        "status": "enemy"
-    },
-    "WCMDE": {
-        "status": "enemy"
-    },
-    "-WD-": {
-        "status": "enemy"
-    },
-    "W-E": {
-        "status": "enemy"
-    },
-    "W-F-C": {
-        "status": "enemy"
-    },
-    "WG-G": {
-        "status": "enemy"
-    },
-    "WGodz": {
-        "status": "enemy"
-    },
-    "Wicka": {
-        "status": "enemy"
-    },
-    "W-n-M": {
-        "status": "enemy"
-    },
-    "WODO": {
-        "status": "enemy"
-    },
-    "w-o-s": {
-        "status": "enemy"
-    },
-    "WSNM": {
-        "status": "enemy"
-    },
-    "_WuS_": {
-        "status": "enemy"
-    },
-    "WW390": {
-        "status": "enemy"
-    },
-    "wwglo": {
-        "status": "enemy"
-    },
-    "WWW1": {
-        "status": "enemy"
-    },
-    "WWWAT": {
-        "status": "enemy"
-    },
-    "VAL1": {
-        "status": "enemy"
-    },
-    "VALS6": {
-        "status": "enemy"
-    },
-    "VERSE": {
-        "status": "enemy"
-    },
-    "VFFR": {
-        "status": "enemy"
-    },
-    "VFFR1": {
-        "status": "enemy"
-    },
-    "V-LPM": {
-        "status": "enemy"
-    },
-    "V_O_X": {
-        "status": "enemy"
-    },
-    "U108": {
-        "status": "enemy"
-    },
-    "UFF": {
-        "status": "enemy"
-    },
-    "UFFES": {
-        "status": "enemy"
-    },
-    "UKFam": {
-        "status": "enemy"
-    },
-    "UN62": {
-        "status": "enemy"
-    },
-    "UNFF": {
-        "status": "enemy"
-    },
-    "UNIT": {
-        "status": "enemy"
-    },
-    "UNTGD": {
-        "status": "enemy"
-    },
-    "UNW": {
-        "status": "enemy"
-    },
-    "USMV": {
-        "status": "enemy"
-    },
-    "USWC-": {
-        "status": "enemy",
-        "note": "listed on WWW - clarify who and where they are"
-    },
-    "USWC1": {
-        "status": "enemy"
-    },
-    "UswcA": {
-        "status": "enemy"
-    },
-    "USWCr": {
-        "status": "enemy"
-    },
-    "UWc": {
-        "status": "enemy"
-    },
-    "T0ADS": {
-        "status": "enemy"
-    },
-    "TOADS": {
-        "status": "enemy"
-    },
-    "T4": {
-        "status": "enemy"
-    },
-    "T4_ES": {
-        "status": "enemy"
-    },
-    "Takis": {
-        "status": "enemy"
-    },
-    "TCK": {
-        "status": "enemy"
-    },
-    "TERMI": {
-        "status": "enemy"
-    },
-    "TG1": {
-        "status": "enemy"
-    },
-    "TGK": {
-        "status": "enemy"
-    },
-    "The9L": {
-        "status": "enemy"
-    },
-    "T-Hs": {
-        "status": "enemy"
-    },
-    "TINKW": {
-        "status": "enemy"
-    },
-    "T-J-F": {
-        "status": "enemy"
-    },
-    "Total": {
-        "status": "enemy"
-    },
-    "TROLL": {
-        "status": "enemy"
-    },
-    "TRRKS": {
-        "status": "enemy"
-    },
-    "TS-Fr": {
-        "status": "enemy"
-    },
-    "TSSUF": {
-        "status": "enemy"
-    },
-    "S04GE": {
-        "status": "enemy"
-    },
-    "S0S": {
-        "status": "enemy"
-    },
-    "S_121": {
-        "status": "enemy"
-    },
-    "S-44": {
-        "status": "enemy"
-    },
-    "_SA_": {
-        "status": "enemy"
-    },
-    "SALTY": {
-        "status": "enemy"
-    },
-    "SC": {
-        "status": "enemy"
-    },
-    "SC-77": {
-        "status": "enemy"
-    },
-    "S-C-K": {
-        "status": "enemy"
-    },
-    "S-C-M": {
-        "status": "enemy"
-    },
-    "SCM-1": {
-        "status": "enemy"
-    },
-    "scmBH": {
-        "status": "enemy"
-    },
-    "SDD1": {
-        "status": "enemy"
-    },
-    "SEC62": {
-        "status": "enemy"
-    },
-    "seek": {
-        "status": "enemy"
-    },
-    "SES50": {
-        "status": "enemy"
-    },
-    "SFAR": {
-        "status": "enemy"
-    },
-    "SFP": {
-        "status": "enemy"
-    },
-    "SILLY": {
-        "status": "enemy"
-    },
-    "SK": {
-        "status": "enemy"
-    },
-    "S-K-B": {
-        "status": "enemy"
-    },
-    "SLE50": {
-        "status": "enemy"
-    },
-    "SMAKU": {
-        "status": "enemy"
-    },
-    "SOLOL": {
-        "status": "enemy"
-    },
-    "SOOOO": {
-        "status": "enemy"
-    },
-    "SP---": {
-        "status": "enemy"
-    },
-    "SPORK": {
-        "status": "enemy"
-    },
-    "S-PUA": {
-        "status": "enemy"
-    },
-    "S-S-C": {
-        "status": "enemy"
-    },
-    "SS-LW": {
-        "status": "enemy"
-    },
-    "SS-ST": {
-        "status": "enemy"
-    },
-    "SS-TA": {
-        "status": "enemy"
-    },
-    "STFUP": {
-        "status": "enemy"
-    },
-    "Sven": {
-        "status": "enemy"
-    },
-    "S__W": {
-        "status": "enemy"
-    },
-    "SWB-R": {
-        "status": "enemy"
-    },
-    "SWS": {
-        "status": "enemy"
-    },
-    "SWSEG": {
-        "status": "enemy"
-    },
-    "SWS-G": {
-        "status": "enemy"
-    },
-    "SYC": {
-        "status": "enemy"
-    },
-    "SYC-r": {
-        "status": "enemy"
-    },
-    "R0WDY": {
-        "status": "enemy"
-    },
-    "rowdy": {
-        "status": "enemy"
-    },
-    "RCJ": {
-        "status": "enemy"
-    },
-    "RC-S": {
-        "status": "enemy"
-    },
-    "RED1": {
-        "status": "enemy"
-    },
-    "REDl": {
-        "status": "enemy"
-    },
-    "RED-L": {
-        "status": "enemy"
-    },
-    "RED-1": {
-        "status": "enemy"
-    },
-    "REGUL": {
-        "status": "enemy"
-    },
-    "RESRV": {
-        "status": "enemy"
-    },
-    "-REV-": {
-        "status": "enemy"
-    },
-    "REY": {
-        "status": "enemy"
-    },
-    "RLOAD": {
-        "status": "enemy"
-    },
-    "RGOM": {
-        "status": "enemy"
-    },
-    "RN-EF": {
-        "status": "enemy"
-    },
-    "-RNGD": {
-        "status": "enemy"
-    },
-    "RNGDx": {
-        "status": "enemy"
-    },
-    "RO_BC": {
-        "status": "enemy"
-    },
-    "rockrrockr": {
-        "status": "enemy"
-    },
-    "R-O-D": {
-        "status": "enemy"
-    },
-    "RoDac": {
-        "status": "enemy"
-    },
-    "RO--e": {
-        "status": "enemy"
-    },
-    "ROE": {
-        "status": "enemy"
-    },
-    "RoOld": {
-        "status": "enemy"
-    },
-    "ROT": {
-        "status": "enemy"
-    },
-    "RoTD": {
-        "status": "enemy"
-    },
-    "ROUGH": {
-        "status": "enemy"
-    },
-    "_RSF_": {
-        "status": "enemy"
-    },
-    "R-U-D": {
-        "status": "enemy"
-    },
-    "RUD-R": {
-        "status": "enemy"
-    },
-    "RUF": {
-        "status": "enemy"
-    },
-    "RUFF": {
-        "status": "enemy"
-    },
-    "RUSH": {
-        "status": "enemy"
-    },
-    "Quiet": {
-        "status": "enemy"
-    },
-    "WCFU": {
-        "status": "enemy"
-    },
-    "WK-76": {
-        "status": "enemy",
-        "note": "135"
-    },
-    "SWB": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "SPWN": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "VAN": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "WORMS": {
-        "status": "enemy",
-        "note": "was allied - clarify who they are and where"
-    },
-    "WRRS": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "T4YI": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "UFL-X": {
-        "status": "enemy",
-        "note": "clarify who they are with"
-    },
-    "ST501": {
-        "status": "enemy"
-    },
-    "WCT_": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "ROWDI": {
-        "status": "enemy"
-    },
-    "TECC": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "SLAYS": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "SNS": {
-        "status": "enemy"
-    },
-    "UFL": {
-        "status": "enemy",
-        "note": "clarify who they are with"
-    },
-    "SFR-Y": {
-        "status": "enemy",
-        "note": "was listed allied - clarify who and where they are"
-    },
-    "_FFF-": {
-        "status": "allied"
-    },
-    "LUXE": {
-        "status": "allied"
-    },
-    "Socks": {
-        "status": "allied"
-    },
-    "FFF19": {
-        "status": "allied"
-    },
-    "19FFF": {
-        "status": "allied"
-    },
-    "NCTI": {
-        "status": "allied"
-    },
-    "4PSF": {
-        "status": "allied"
-    },
-    "TP_AU": {
-        "status": "allied"
-    },
-    "PUSH": {
-        "status": "enemy"
-    },
-    "GAM": {
-        "status": "enemy"
-    },
-    "LNCE": {
-        "status": "enemy"
-    },
-    "-ACS-": {
-        "status": "enemy"
-    },
-    "_AWs_": {
-        "status": "allied"
-    },
-    "-198-": {
-        "status": "allied"
-    },
-    "USE": {
-        "status": "allied"
-    },
-    "UIF": {
-        "status": "allied"
-    },
-    "_SOS": {
-        "status": "allied"
-    },
-    "SOS_": {
-        "status": "allied"
-    },
-    "SOS_-": {
-        "status": "allied"
-    },
-    "-_SOS": {
-        "status": "allied"
-    },
-    "Old24": {
-        "status": "allied"
-    },
-    "Preus": {
-        "status": "allied"
-    },
-    "S---W": {
-        "status": "allied"
-    },
-    "GRWwp": {
-        "status": "allied"
-    },
-    "TMO": {
-        "status": "enemy"
-    },
-    "UAO": {
-        "status": "enemy"
-    },
-    "_PVP_": {
-        "status": "enemy"
-    },
-    "-FFF_": {
-        "status": "allied"
-    },
-    "TF7": {
-        "status": "allied"
-    },
-    "JHO": {
-        "status": "allied"
-    },
-    "jak25": {
-        "status": "allied"
-    },
-    "Balz": {
-        "status": "allied"
-    },
-    "Kyle": {
-        "status": "allied"
-    },
-    "_TA_": {
-        "status": "allied"
-    },
-    "S-HOG": {
-        "status": "enemy"
-    },
-    "_FAB_": {
-        "status": "enemy"
-    },
-    "_NV_": {
-        "status": "enemy"
-    },
-    "-DX-": {
-        "status": "enemy"
-    },
-    "-DOGZ-": {
-        "status": "enemy"
-    },
-    "-F-K-": {
-        "status": "enemy"
-    },
-    "-FAB-": {
-        "status": "enemy"
-    }
+   "1":{
+      "status":"allied"
+   },
+   "42":{
+      "status":"allied"
+   },
+   "70":{
+      "status":"allied"
+   },
+   "103":{
+      "status":"allied"
+   },
+   "175":{
+      "status":"allied"
+   },
+   "316":{
+      "status":"allied"
+   },
+   "396":{
+      "status":"enemy"
+   },
+   "868":{
+      "status":"enemy",
+      "note":"EL-Deabloxx"
+   },
+   "1893":{
+      "status":"allied"
+   },
+   "AOW_4":{
+      "status":"allied",
+      "note":"Kk"
+   },
+   "USWC":{
+      "status":"enemy",
+      "note":"listed on WWW - clarify who and where they are"
+   },
+   "ADS-R":{
+      "status":"allied"
+   },
+   "_AZE_":{
+      "status":"allied"
+   },
+   "DG-F":{
+      "status":"enemy"
+   },
+   "CROU":{
+      "status":"allied"
+   },
+   "ALB-C":{
+      "status":"allied"
+   },
+   "US171":{
+      "status":"allied"
+   },
+   "D-K":{
+      "status":"allied"
+   },
+   "DOORS":{
+      "status":"allied"
+   },
+   "MONKI":{
+      "status":"allied"
+   },
+   "CS-4L":{
+      "status":"allied"
+   },
+   "EMOBF":{
+      "status":"allied"
+   },
+   "B-N":{
+      "status":"allied"
+   },
+   "ODST":{
+      "status":"allied"
+   },
+   "OUS":{
+      "status":"allied"
+   },
+   "NHSGH":{
+      "status":"allied"
+   },
+   "RM_B":{
+      "status":"allied"
+   },
+   "UAAKE":{
+      "status":"allied"
+   },
+   "ART":{
+      "status":"allied"
+   },
+   "SVU":{
+      "status":"allied"
+   },
+   "SCRI":{
+      "status":"allied"
+   },
+   "F-U2":{
+      "status":"allied"
+   },
+   "-UGH-":{
+      "status":"allied"
+   },
+   "SEC1":{
+      "status":"allied"
+   },
+   "AMMO":{
+      "status":"allied"
+   },
+   "2SEC":{
+      "status":"allied"
+   },
+   "BSS":{
+      "status":"allied"
+   },
+   "-BOG-":{
+      "status":"allied"
+   },
+   "F4F":{
+      "status":"allied"
+   },
+   "FED2":{
+      "status":"enemy"
+   },
+   "COP":{
+      "status":"allied"
+   },
+   "GEN-K":{
+      "status":"allied"
+   },
+   "S-O-V":{
+      "status":"enemy"
+   },
+   "S3XY":{
+      "status":"enemy",
+      "note":"Sector 110"
+   },
+   "BBROS":{
+      "status":"allied"
+   },
+   "QTAQ":{
+      "status":"allied"
+   },
+   "DS-26":{
+      "status":"allied"
+   },
+   "POST":{
+      "status":"allied"
+   },
+   "FB1":{
+      "status":"enemy"
+   },
+   "IITZ":{
+      "status":"allied"
+   },
+   "-KTW-":{
+      "status":"allied"
+   },
+   "S331":{
+      "status":"allied"
+   },
+   "GUNIT":{
+      "status":"allied"
+   },
+   "BTRO":{
+      "status":"allied"
+   },
+   "_CK_":{
+      "status":"enemy",
+      "note":"BMF"
+   },
+   "BORGS":{
+      "status":"allied"
+   },
+   "C-1-5":{
+      "status":"allied"
+   },
+   "FAE":{
+      "status":"allied"
+   },
+   "KILL":{
+      "status":"allied"
+   },
+   "_PC_":{
+      "status":"allied"
+   },
+   "FED3":{
+      "status":"enemy"
+   },
+   "KT12":{
+      "status":"allied"
+   },
+   "CRAZ1":{
+      "status":"enemy"
+   },
+   "SEX-M":{
+      "status":"allied"
+   },
+   "DRAB":{
+      "status":"allied"
+   },
+   "M75":{
+      "status":"allied"
+   },
+   "VASII":{
+      "status":"allied"
+   },
+   "F_U":{
+      "status":"allied"
+   },
+   "_KUK_":{
+      "status":"allied"
+   },
+   "BARTS":{
+      "status":"allied"
+   },
+   "Y_C":{
+      "status":"allied"
+   },
+   "BIH-S":{
+      "status":"allied"
+   },
+   "FIRMA":{
+      "status":"allied"
+   },
+   "NPZA":{
+      "status":"allied"
+   },
+   "KNTBH":{
+      "status":"allied",
+      "note":"KT alt"
+   },
+   "SS300":{
+      "status":"allied"
+   },
+   "BRISK":{
+      "status":"allied"
+   },
+   "XPLOD":{
+      "status":"allied"
+   },
+   "FKWWW":{
+      "status":"allied"
+   },
+   "AKR-P":{
+      "status":"allied"
+   },
+   "S_100":{
+      "status":"allied"
+   },
+   "WARSQ":{
+      "status":"allied"
+   },
+   "K2LL":{
+      "status":"allied"
+   },
+   "FJB":{
+      "status":"enemy"
+   },
+   "ASAN":{
+      "status":"allied"
+   },
+   "CUF":{
+      "status":"allied"
+   },
+   "4F":{
+      "status":"enemy"
+   },
+   "HENCH":{
+      "status":"enemy"
+   },
+   "B-R-F":{
+      "status":"allied"
+   },
+   "DMES2":{
+      "status":"enemy"
+   },
+   "D-W":{
+      "status":"enemy"
+   },
+   "BLESS":{
+      "status":"enemy"
+   },
+   "AKREP":{
+      "status":"allied"
+   },
+   "SGA":{
+      "status":"allied"
+   },
+   "MP184":{
+      "status":"allied"
+   },
+   "M0H":{
+      "status":"allied"
+   },
+   "REA_1":{
+      "status":"enemy"
+   },
+   "IWA":{
+      "status":"allied"
+   },
+   "SMART":{
+      "status":"ceasefire"
+   },
+   "TWR":{
+      "status":"enemy"
+   },
+   "15TH":{
+      "status":"allied"
+   },
+   "_EOS_":{
+      "status":"allied"
+   },
+   "FARMY":{
+      "status":"allied"
+   },
+   "440W":{
+      "status":"allied"
+   },
+   "BURNC":{
+      "status":"enemy",
+      "note":"Allied to 70 and 94"
+   },
+   "163HS":{
+      "status":"allied"
+   },
+   "TF--X":{
+      "status":"allied"
+   },
+   "BMF":{
+      "status":"enemy"
+   },
+   "FED":{
+      "status":"enemy"
+   },
+   "CRIS":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "DC-X":{
+      "status":"allied"
+   },
+   "SOF1":{
+      "status":"allied"
+   },
+   "K_O_B":{
+      "status":"enemy"
+   },
+   "AIDEN":{
+      "status":"allied"
+   },
+   "F1GHT":{
+      "status":"enemy"
+   },
+   "RCELL":{
+      "status":"enemy",
+      "note":"Tag stolen"
+   },
+   "AA":{
+      "status":"enemy"
+   },
+   "_KING_":{
+      "status":"allied"
+   },
+   "SA999":{
+      "status":"allied"
+   },
+   "EAGLE":{
+      "status":"allied"
+   },
+   "EIRE":{
+      "status":"enemy"
+   },
+   "TI-IN":{
+      "status":"allied"
+   },
+   "E-20":{
+      "status":"allied"
+   },
+   "FSM1":{
+      "status":"enemy"
+   },
+   "GRF1":{
+      "status":"allied"
+   },
+   "1FREE":{
+      "status":"allied"
+   },
+   "HD1":{
+      "status":"allied"
+   },
+   "MEDIA":{
+      "status":"allied"
+   },
+   "AFET":{
+      "status":"allied"
+   },
+   "-BMF-":{
+      "status":"enemy"
+   },
+   "NT FU":{
+      "status":"allied"
+   },
+   "WWWB":{
+      "status":"allied"
+   },
+   "-FED-":{
+      "status":"enemy"
+   },
+   "NICE1":{
+      "status":"enemy"
+   },
+   "HOEZ":{
+      "status":"allied"
+   },
+   "WILL-":{
+      "status":"allied"
+   },
+   "WCSF1":{
+      "status":"enemy"
+   },
+   "BPR":{
+      "status":"enemy"
+   },
+   "-DOC-":{
+      "status":"enemy"
+   },
+   "CORA":{
+      "status":"allied"
+   },
+   "FL":{
+      "status":"allied"
+   },
+   "AWOL":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "N7FL":{
+      "status":"enemy",
+      "note":"fake tag"
+   },
+   "SAMIS":{
+      "status":"allied"
+   },
+   "BALD":{
+      "status":"enemy"
+   },
+   "WH":{
+      "status":"allied"
+   },
+   "DKSD":{
+      "status":"allied"
+   },
+   "IAAUN":{
+      "status":"allied"
+   },
+   "H-R":{
+      "status":"allied"
+   },
+   "MT-W":{
+      "status":"allied"
+   },
+   "TGAOG":{
+      "status":"allied"
+   },
+   "G_M_W":{
+      "status":"enemy"
+   },
+   "OWELL":{
+      "status":"allied"
+   },
+   "8OM8S":{
+      "status":"allied"
+   },
+   "TA-TA":{
+      "status":"allied"
+   },
+   "FFF--":{
+      "status":"allied"
+   },
+   "KTWAR":{
+      "status":"allied"
+   },
+   "OO3OO":{
+      "status":"allied"
+   },
+   "SRB_I":{
+      "status":"allied"
+   },
+   "B-A-D":{
+      "status":"enemy"
+   },
+   "INDO_":{
+      "status":"allied"
+   },
+   "UNFGN":{
+      "status":"allied"
+   },
+   "JZFKR":{
+      "status":"allied"
+   },
+   "ESFAB":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "TFMC":{
+      "status":"allied",
+      "note":"see KRJ"
+   },
+   "FOF":{
+      "status":"allied"
+   },
+   "S-C":{
+      "status":"allied"
+   },
+   "FAB-":{
+      "status":"allied"
+   },
+   "IORDR":{
+      "status":"allied"
+   },
+   "I_AM":{
+      "status":"allied"
+   },
+   "SMSQD":{
+      "status":"allied"
+   },
+   "LL":{
+      "status":"allied"
+   },
+   "NIETZ":{
+      "status":"allied"
+   },
+   "KRIEG":{
+      "status":"allied"
+   },
+   "KINGS":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "-UWU-":{
+      "status":"allied"
+   },
+   "KURUP":{
+      "status":"allied"
+   },
+   "P40":{
+      "status":"allied"
+   },
+   "S-A":{
+      "status":"enemy"
+   },
+   "CFM2":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "TOMM":{
+      "status":"allied"
+   },
+   "KE":{
+      "status":"enemy"
+   },
+   "RAXS":{
+      "status":"enemy"
+   },
+   "DG":{
+      "status":"enemy"
+   },
+   "ZWAR":{
+      "status":"allied"
+   },
+   "UK-EN":{
+      "status":"enemy"
+   },
+   "S46S":{
+      "status":"allied"
+   },
+   "MEOW":{
+      "status":"allied"
+   },
+   "PL":{
+      "status":"allied"
+   },
+   "MADCO":{
+      "status":"allied"
+   },
+   "IMAZT":{
+      "status":"allied"
+   },
+   "TRF1":{
+      "status":"allied"
+   },
+   "NEM-R":{
+      "status":"allied"
+   },
+   "OTLWI":{
+      "status":"allied"
+   },
+   "B52":{
+      "status":"allied"
+   },
+   "SMCT":{
+      "status":"enemy"
+   },
+   "TBF":{
+      "status":"allied"
+   },
+   "AZUSA":{
+      "status":"allied"
+   },
+   "BUNNY":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "F4F-R":{
+      "status":"allied"
+   },
+   "SWF":{
+      "status":"allied"
+   },
+   "-BG-1":{
+      "status":"allied"
+   },
+   "X----":{
+      "status":"allied"
+   },
+   "X_MEN":{
+      "status":"allied"
+   },
+   "LKTAO":{
+      "status":"allied"
+   },
+   "ALG-X":{
+      "status":"allied"
+   },
+   "KISMY":{
+      "status":"allied"
+   },
+   "HOF":{
+      "status":"allied"
+   },
+   "GFS":{
+      "status":"allied"
+   },
+   "-K-W-":{
+      "status":"enemy"
+   },
+   "TBB43":{
+      "status":"allied"
+   },
+   "X___X":{
+      "status":"allied"
+   },
+   "KUNTE":{
+      "status":"allied"
+   },
+   "HA_JA":{
+      "status":"allied"
+   },
+   "PTBI":{
+      "status":"allied"
+   },
+   "FU_UP":{
+      "status":"allied"
+   },
+   "TGAG":{
+      "status":"allied"
+   },
+   "_N7_":{
+      "status":"allied"
+   },
+   "TF-IK":{
+      "status":"allied"
+   },
+   "TH3":{
+      "status":"allied"
+   },
+   "KHALA":{
+      "status":"allied"
+   },
+   "LOKOS":{
+      "status":"allied"
+   },
+   "LOAL":{
+      "status":"allied"
+   },
+   "NAJB":{
+      "status":"allied"
+   },
+   "R_LEB":{
+      "status":"allied"
+   },
+   "BITME":{
+      "status":"enemy"
+   },
+   "KT-P":{
+      "status":"allied"
+   },
+   "NEW_W":{
+      "status":"allied"
+   },
+   "UN-TI":{
+      "status":"allied"
+   },
+   "V7NOM":{
+      "status":"enemy"
+   },
+   "TREA3":{
+      "status":"allied"
+   },
+   "-LCK-":{
+      "status":"allied"
+   },
+   "W--B":{
+      "status":"enemy"
+   },
+   "GRRR":{
+      "status":"allied"
+   },
+   "SPL":{
+      "status":"allied"
+   },
+   "TIGR":{
+      "status":"allied"
+   },
+   "THOM":{
+      "status":"allied"
+   },
+   "F4F-P":{
+      "status":"allied"
+   },
+   "UAC":{
+      "status":"enemy"
+   },
+   "USAV":{
+      "status":"enemy"
+   },
+   "MF-O":{
+      "status":"allied"
+   },
+   "UF154":{
+      "status":"allied"
+   },
+   "REA":{
+      "status":"enemy"
+   },
+   "KGHT":{
+      "status":"allied"
+   },
+   "AS-1":{
+      "status":"allied"
+   },
+   "A-T-F":{
+      "status":"allied"
+   },
+   "GHST":{
+      "status":"allied"
+   },
+   "G-1":{
+      "status":"allied"
+   },
+   "CRO-Z":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "-DNJ-":{
+      "status":"enemy"
+   },
+   "E5195":{
+      "status":"allied"
+   },
+   "DS":{
+      "status":"enemy"
+   },
+   "UN143":{
+      "status":"allied"
+   },
+   "G2G2":{
+      "status":"enemy"
+   },
+   "ANT_A":{
+      "status":"allied"
+   },
+   "KTZAR":{
+      "status":"allied"
+   },
+   "RAZS":{
+      "status":"enemy"
+   },
+   "R-F-C":{
+      "status":"enemy"
+   },
+   "ULM":{
+      "status":"allied"
+   },
+   "A4":{
+      "status":"allied"
+   },
+   "RAKIA":{
+      "status":"allied"
+   },
+   "THY":{
+      "status":"allied"
+   },
+   "SK137":{
+      "status":"allied"
+   },
+   "UN-24":{
+      "status":"allied"
+   },
+   "UIL":{
+      "status":"allied"
+   },
+   "-UKL-X":{
+      "status":"allied"
+   },
+   "DOMIT":{
+      "status":"allied"
+   },
+   "V_E_T":{
+      "status":"allied"
+   },
+   "ALP":{
+      "status":"allied"
+   },
+   "GT20":{
+      "status":"allied"
+   },
+   "ARYA":{
+      "status":"allied"
+   },
+   "E-UP":{
+      "status":"enemy",
+      "note":"Core allies"
+   },
+   "F_RAT":{
+      "status":"allied"
+   },
+   "T_C":{
+      "status":"allied"
+   },
+   "PHX1":{
+      "status":"allied"
+   },
+   "BUDS":{
+      "status":"allied"
+   },
+   "NZTP":{
+      "status":"enemy"
+   },
+   "K-1":{
+      "status":"allied"
+   },
+   "SW4G":{
+      "status":"allied"
+   },
+   "A_PHX":{
+      "status":"enemy"
+   },
+   "---X":{
+      "status":"allied"
+   },
+   "ETW-G":{
+      "status":"allied"
+   },
+   "BSDH":{
+      "status":"allied"
+   },
+   "OAN":{
+      "status":"allied"
+   },
+   "DADO":{
+      "status":"allied"
+   },
+   "EVO_1":{
+      "status":"allied"
+   },
+   "NMFD":{
+      "status":"enemy"
+   },
+   "UN_43":{
+      "status":"allied"
+   },
+   "DBD1":{
+      "status":"allied"
+   },
+   "HNTER":{
+      "status":"allied"
+   },
+   "SKING":{
+      "status":"allied"
+   },
+   "FAQ_U":{
+      "status":"allied"
+   },
+   "PU-TA":{
+      "status":"allied"
+   },
+   "SLW":{
+      "status":"allied"
+   },
+   "NIPPL":{
+      "status":"allied"
+   },
+   "FOK":{
+      "status":"enemy"
+   },
+   "HS106":{
+      "status":"allied"
+   },
+   "SQM":{
+      "status":"allied"
+   },
+   "H_F_S":{
+      "status":"enemy",
+      "note":"sector 121"
+   },
+   "_MSK_":{
+      "status":"enemy"
+   },
+   "DINGS":{
+      "status":"enemy"
+   },
+   "SN9PE":{
+      "status":"allied"
+   },
+   "AAF12":{
+      "status":"allied"
+   },
+   "WCIT":{
+      "status":"enemy"
+   },
+   "ATHZ":{
+      "status":"allied"
+   },
+   "BIH-W":{
+      "status":"allied"
+   },
+   "BABY":{
+      "status":"allied"
+   },
+   "WCRI-":{
+      "status":"allied"
+   },
+   "JF-71":{
+      "status":"allied"
+   },
+   "DM":{
+      "status":"allied"
+   },
+   "LIMI":{
+      "status":"allied"
+   },
+   "FAM":{
+      "status":"allied"
+   },
+   "FK9ES":{
+      "status":"allied"
+   },
+   "_OFF_":{
+      "status":"allied"
+   },
+   "SOS":{
+      "status":"allied"
+   },
+   "MITO":{
+      "status":"allied"
+   },
+   "N7":{
+      "status":"allied"
+   },
+   "VMRO":{
+      "status":"allied"
+   },
+   "ALBAA":{
+      "status":"allied"
+   },
+   "C--T":{
+      "status":"allied"
+   },
+   "-R_M-":{
+      "status":"enemy"
+   },
+   "JUSBR":{
+      "status":"allied"
+   },
+   "GOD":{
+      "status":"allied"
+   },
+   "BDSI":{
+      "status":"enemy"
+   },
+   "E-UP1":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "ECF":{
+      "status":"allied"
+   },
+   "T-BRD":{
+      "status":"allied"
+   },
+   "-DIK-":{
+      "status":"allied"
+   },
+   "HUSH":{
+      "status":"allied"
+   },
+   "SPC":{
+      "status":"allied"
+   },
+   "MMDE1":{
+      "status":"allied"
+   },
+   "JDR":{
+      "status":"allied"
+   },
+   "13SEC":{
+      "status":"allied"
+   },
+   "NCR":{
+      "status":"allied"
+   },
+   "N7B2K":{
+      "status":"enemy"
+   },
+   "FB":{
+      "status":"enemy"
+   },
+   "CK":{
+      "status":"enemy",
+      "note":"BMF"
+   },
+   "J1D":{
+      "status":"enemy"
+   },
+   "RAGE-":{
+      "status":"allied"
+   },
+   "PULSE":{
+      "status":"allied"
+   },
+   "UN80":{
+      "status":"allied"
+   },
+   "HK_HK":{
+      "status":"allied"
+   },
+   "-KAF-":{
+      "status":"allied"
+   },
+   "-UB-F":{
+      "status":"allied"
+   },
+   "GROOT":{
+      "status":"allied"
+   },
+   "HMNN":{
+      "status":"allied"
+   },
+   "EPTIX":{
+      "status":"allied"
+   },
+   "MC-AC":{
+      "status":"allied"
+   },
+   "KT1":{
+      "status":"allied"
+   },
+   "K_V":{
+      "status":"allied"
+   },
+   "REP-1":{
+      "status":"allied"
+   },
+   "CMC3":{
+      "status":"allied"
+   },
+   "SSA":{
+      "status":"allied"
+   },
+   "STORM":{
+      "status":"allied"
+   },
+   "RNGRS":{
+      "status":"enemy"
+   },
+   "ACAB":{
+      "status":"allied"
+   },
+   "UF-IK":{
+      "status":"allied"
+   },
+   "HINZL":{
+      "status":"allied"
+   },
+   "IN-TI":{
+      "status":"allied"
+   },
+   "DC-R":{
+      "status":"allied"
+   },
+   "HAMZE":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "-FFF-":{
+      "status":"allied"
+   },
+   "D4E":{
+      "status":"allied"
+   },
+   "RAF__":{
+      "status":"enemy"
+   },
+   "BOSSY":{
+      "status":"enemy"
+   },
+   "ALI_B":{
+      "status":"allied"
+   },
+   "BASE":{
+      "status":"allied"
+   },
+   "_SS_":{
+      "status":"allied"
+   },
+   "_FUQ_":{
+      "status":"allied"
+   },
+   "A43":{
+      "status":"allied"
+   },
+   "B_PHX":{
+      "status":"allied"
+   },
+   "HYC":{
+      "status":"allied"
+   },
+   "IK":{
+      "status":"allied"
+   },
+   "F-U-2":{
+      "status":"enemy"
+   },
+   "AMR87":{
+      "status":"allied"
+   },
+   "T-A-O":{
+      "status":"allied"
+   },
+   "DRAGZ":{
+      "status":"enemy"
+   },
+   "135DF":{
+      "status":"allied"
+   },
+   "PDK":{
+      "status":"allied"
+   },
+   "AEC":{
+      "status":"enemy"
+   },
+   "LUM":{
+      "status":"allied"
+   },
+   "L4F":{
+      "status":"allied"
+   },
+   "XNXXX":{
+      "status":"allied"
+   },
+   "MAGY":{
+      "status":"enemy"
+   },
+   "CADAM":{
+      "status":"allied"
+   },
+   "-KB-":{
+      "status":"enemy"
+   },
+   "THA_2":{
+      "status":"allied"
+   },
+   "H8FK":{
+      "status":"allied"
+   },
+   "T-X-Z":{
+      "status":"allied"
+   },
+   "KSTAR":{
+      "status":"allied"
+   },
+   "FKGER":{
+      "status":"allied"
+   },
+   "KKM":{
+      "status":"allied"
+   },
+   "MF-UN":{
+      "status":"enemy"
+   },
+   "OTHC":{
+      "status":"allied"
+   },
+   "TROW":{
+      "status":"allied"
+   },
+   "SEC27":{
+      "status":"allied"
+   },
+   "ALB-E":{
+      "status":"allied"
+   },
+   "FED-R":{
+      "status":"enemy"
+   },
+   "B1R":{
+      "status":"enemy"
+   },
+   "A-F-O":{
+      "status":"allied"
+   },
+   "AN1ME":{
+      "status":"allied"
+   },
+   "RIMM":{
+      "status":"enemy"
+   },
+   "NU":{
+      "status":"allied"
+   },
+   "TREAP":{
+      "status":"allied"
+   },
+   "-PSV-":{
+      "status":"allied"
+   },
+   "ALB02":{
+      "status":"allied"
+   },
+   "CIA-1":{
+      "status":"allied"
+   },
+   "LDB":{
+      "status":"allied"
+   },
+   "BXJ":{
+      "status":"allied"
+   },
+   "MESSY":{
+      "status":"allied"
+   },
+   "N7_76":{
+      "status":"allied"
+   },
+   "UK-US":{
+      "status":"allied"
+   },
+   "METAL":{
+      "status":"allied"
+   },
+   "2MEAN":{
+      "status":"allied"
+   },
+   "WWO":{
+      "status":"allied"
+   },
+   "HK-BO":{
+      "status":"allied"
+   },
+   "TEA3":{
+      "status":"allied"
+   },
+   "TREA4":{
+      "status":"allied"
+   },
+   "P-A-L":{
+      "status":"allied"
+   },
+   "HEL-O":{
+      "status":"enemy"
+   },
+   "MSTR":{
+      "status":"allied"
+   },
+   "TR3AP":{
+      "status":"allied"
+   },
+   "RED-":{
+      "status":"allied"
+   },
+   "BOGOF":{
+      "status":"enemy",
+      "note":"Removed due to allied hits"
+   },
+   "HASIS":{
+      "status":"allied"
+   },
+   "DC":{
+      "status":"allied"
+   },
+   "BNET":{
+      "status":"allied"
+   },
+   "WCRI7":{
+      "status":"allied"
+   },
+   "ROCKT":{
+      "status":"allied"
+   },
+   "PAK-B":{
+      "status":"allied"
+   },
+   "VALOR":{
+      "status":"enemy"
+   },
+   "J-":{
+      "status":"allied"
+   },
+   "TAO":{
+      "status":"allied"
+   },
+   "RADR":{
+      "status":"enemy"
+   },
+   "S-R-B":{
+      "status":"allied"
+   },
+   "SINAG":{
+      "status":"allied",
+      "note":"TP sector 25"
+   },
+   "-X---":{
+      "status":"allied"
+   },
+   "ALB21":{
+      "status":"allied"
+   },
+   "BL_AN":{
+      "status":"enemy"
+   },
+   "UNCL":{
+      "status":"enemy"
+   },
+   "-DPS-":{
+      "status":"allied"
+   },
+   "_BKB_":{
+      "status":"allied"
+   },
+   "BRPOR":{
+      "status":"allied"
+   },
+   "HLCON":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "EJ":{
+      "status":"allied"
+   },
+   "-XPTO":{
+      "status":"allied"
+   },
+   "X-":{
+      "status":"allied"
+   },
+   "4EVER":{
+      "status":"allied"
+   },
+   "TH170":{
+      "status":"allied"
+   },
+   "N7A":{
+      "status":"allied"
+   },
+   "FK3R":{
+      "status":"allied"
+   },
+   "TASSY":{
+      "status":"enemy"
+   },
+   "MALAN":{
+      "status":"allied"
+   },
+   "J_WIK":{
+      "status":"enemy"
+   },
+   "K-W":{
+      "status":"enemy"
+   },
+   "TF-X":{
+      "status":"allied"
+   },
+   "FIFE":{
+      "status":"enemy"
+   },
+   "-M-G-":{
+      "status":"allied"
+   },
+   "-JGRY":{
+      "status":"allied"
+   },
+   "IDF-E":{
+      "status":"allied"
+   },
+   "XFFFX":{
+      "status":"allied"
+   },
+   "TCO1":{
+      "status":"allied"
+   },
+   "USA":{
+      "status":"allied"
+   },
+   "TGUNS":{
+      "status":"allied"
+   },
+   "I_D_A":{
+      "status":"allied"
+   },
+   "Z0MBI":{
+      "status":"allied"
+   },
+   "BRLT5":{
+      "status":"allied"
+   },
+   "U190L":{
+      "status":"allied"
+   },
+   "FZB-1":{
+      "status":"allied"
+   },
+   "A___Z":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "CRUZE":{
+      "status":"allied"
+   },
+   "CZ_US":{
+      "status":"allied"
+   },
+   "_HULK":{
+      "status":"allied"
+   },
+   "EATMY":{
+      "status":"allied"
+   },
+   "E-UP3":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "ITROX":{
+      "status":"allied"
+   },
+   "F_W_F":{
+      "status":"allied"
+   },
+   "ASF-":{
+      "status":"allied"
+   },
+   "-MYH-":{
+      "status":"allied"
+   },
+   "KS187":{
+      "status":"enemy"
+   },
+   "V5NOM":{
+      "status":"enemy"
+   },
+   "SOXLO":{
+      "status":"allied"
+   },
+   "RAMA_":{
+      "status":"allied"
+   },
+   "S-100":{
+      "status":"allied"
+   },
+   "SEXYS":{
+      "status":"allied"
+   },
+   "FFF-I":{
+      "status":"allied"
+   },
+   "N7US":{
+      "status":"allied"
+   },
+   "_RID_":{
+      "status":"allied"
+   },
+   "PANDM":{
+      "status":"allied"
+   },
+   "M38":{
+      "status":"allied"
+   },
+   "KKTC":{
+      "status":"enemy"
+   },
+   "MAVS":{
+      "status":"allied"
+   },
+   "B-U-K":{
+      "status":"allied"
+   },
+   "JL":{
+      "status":"enemy"
+   },
+   "DAM":{
+      "status":"enemy"
+   },
+   "M8RIX":{
+      "status":"enemy"
+   },
+   "_FL_":{
+      "status":"allied"
+   },
+   "-HUR_":{
+      "status":"allied"
+   },
+   "R383L":{
+      "status":"allied"
+   },
+   "MFTS":{
+      "status":"allied"
+   },
+   "SP4NK":{
+      "status":"allied"
+   },
+   "ROUNI":{
+      "status":"allied"
+   },
+   "T-T-P":{
+      "status":"allied"
+   },
+   "TOP1":{
+      "status":"enemy"
+   },
+   "GZYPE":{
+      "status":"enemy"
+   },
+   "DAR_L":{
+      "status":"allied"
+   },
+   "EFF":{
+      "status":"allied"
+   },
+   "BAKUP":{
+      "status":"allied"
+   },
+   "VZAII":{
+      "status":"allied"
+   },
+   "DOLLR":{
+      "status":"enemy"
+   },
+   "MED-2":{
+      "status":"allied"
+   },
+   "YPG":{
+      "status":"allied"
+   },
+   "T_W_S":{
+      "status":"allied"
+   },
+   "FNMAD":{
+      "status":"allied"
+   },
+   "PSF":{
+      "status":"allied",
+      "note":"TP sector 4"
+   },
+   "G-F-S":{
+      "status":"enemy"
+   },
+   "GCELL":{
+      "status":"allied"
+   },
+   "-MM-":{
+      "status":"allied"
+   },
+   "O":{
+      "status":"allied"
+   },
+   "XTOL":{
+      "status":"allied"
+   },
+   "TI-UN":{
+      "status":"allied"
+   },
+   "R-A-V":{
+      "status":"allied"
+   },
+   "UN-TA":{
+      "status":"allied"
+   },
+   "H-_-W":{
+      "status":"enemy"
+   },
+   "WCUA":{
+      "status":"allied"
+   },
+   "NPA_R":{
+      "status":"enemy"
+   },
+   "AF144":{
+      "status":"allied"
+   },
+   "_BG_":{
+      "status":"enemy"
+   },
+   "UKLFF":{
+      "status":"allied"
+   },
+   "RIP-X":{
+      "status":"enemy"
+   },
+   "XBX":{
+      "status":"allied"
+   },
+   "ALE":{
+      "status":"allied"
+   },
+   "ALB-G":{
+      "status":"allied"
+   },
+   "S-S-S":{
+      "status":"allied"
+   },
+   "BUN47":{
+      "status":"allied"
+   },
+   "BEER_":{
+      "status":"allied"
+   },
+   "E-A-A":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "BR100":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "G2G":{
+      "status":"enemy"
+   },
+   "I-R-Q":{
+      "status":"allied"
+   },
+   "PK_76":{
+      "status":"allied"
+   },
+   "DGSQ":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "HL-X":{
+      "status":"allied"
+   },
+   "_BF_":{
+      "status":"allied"
+   },
+   "QUDS":{
+      "status":"allied"
+   },
+   "PAUK":{
+      "status":"allied"
+   },
+   "OS8-F":{
+      "status":"allied"
+   },
+   "GQ":{
+      "status":"allied"
+   },
+   "TEST":{
+      "status":"allied"
+   },
+   "KT-A":{
+      "status":"allied"
+   },
+   "SSA1":{
+      "status":"allied"
+   },
+   "FUN-A":{
+      "status":"allied"
+   },
+   "TRA":{
+      "status":"allied"
+   },
+   "LOV69":{
+      "status":"allied"
+   },
+   "MFTR":{
+      "status":"allied"
+   },
+   "KT-TF":{
+      "status":"allied"
+   },
+   "REV1":{
+      "status":"allied"
+   },
+   "_SKB_":{
+      "status":"enemy",
+      "note":"leader Emanual John wu tang alliance"
+   },
+   "CK-1":{
+      "status":"enemy",
+      "note":"BMF"
+   },
+   "DUMAZ":{
+      "status":"enemy"
+   },
+   "NYCT":{
+      "status":"enemy"
+   },
+   "VKSF":{
+      "status":"allied"
+   },
+   "CK_FF":{
+      "status":"enemy",
+      "note":"BMF"
+   },
+   "B_O_W":{
+      "status":"allied"
+   },
+   "UBF":{
+      "status":"allied"
+   },
+   "BPRR":{
+      "status":"allied"
+   },
+   "-YOLO":{
+      "status":"allied"
+   },
+   "_UAW_":{
+      "status":"allied"
+   },
+   "DIFY":{
+      "status":"allied"
+   },
+   "UF-71":{
+      "status":"allied"
+   },
+   "UKL-X":{
+      "status":"allied"
+   },
+   "DK":{
+      "status":"allied"
+   },
+   "GODS":{
+      "status":"allied"
+   },
+   "JOSEZ":{
+      "status":"allied"
+   },
+   "IALB":{
+      "status":"allied"
+   },
+   "GLORY":{
+      "status":"allied"
+   },
+   "GSXR":{
+      "status":"allied"
+   },
+   "G23":{
+      "status":"allied"
+   },
+   "HT7":{
+      "status":"allied"
+   },
+   "HERDY":{
+      "status":"allied"
+   },
+   "GOE1":{
+      "status":"allied"
+   },
+   "JYDEN":{
+      "status":"allied"
+   },
+   "FORSE":{
+      "status":"allied"
+   },
+   "T-H-E":{
+      "status":"allied"
+   },
+   "RENEA":{
+      "status":"allied"
+   },
+   "RI-HR":{
+      "status":"allied"
+   },
+   "KAMIN":{
+      "status":"allied"
+   },
+   "MUTE":{
+      "status":"allied"
+   },
+   "LYF_X":{
+      "status":"allied"
+   },
+   "-NVS-":{
+      "status":"allied"
+   },
+   "LEROY":{
+      "status":"allied"
+   },
+   "MITO2":{
+      "status":"allied"
+   },
+   "3AAAS":{
+      "status":"allied"
+   },
+   "ZOMBI":{
+      "status":"allied"
+   },
+   "GRWWP":{
+      "status":"allied"
+   },
+   "0808":{
+      "status":"allied"
+   },
+   "NFR_":{
+      "status":"enemy",
+      "note":"Supporting FJB"
+   },
+   "BROER":{
+      "status":"allied"
+   },
+   "S131":{
+      "status":"allied"
+   },
+   "UA":{
+      "status":"enemy"
+   },
+   "FRITO":{
+      "status":"enemy"
+   },
+   "MED_1":{
+      "status":"allied"
+   },
+   "AFG":{
+      "status":"enemy"
+   },
+   "8OO8S":{
+      "status":"allied"
+   },
+   "NSI-1":{
+      "status":"allied"
+   },
+   "NT_FU":{
+      "status":"allied"
+   },
+   "T3ARS":{
+      "status":"allied"
+   },
+   "LANCE":{
+      "status":"allied"
+   },
+   "MED-1":{
+      "status":"allied"
+   },
+   "KAD":{
+      "status":"allied"
+   },
+   "OBL":{
+      "status":"allied"
+   },
+   "NES-1":{
+      "status":"allied"
+   },
+   "F-C-P":{
+      "status":"allied"
+   },
+   "KT-JO":{
+      "status":"allied"
+   },
+   "FSM":{
+      "status":"enemy",
+      "note":"Core allies"
+   },
+   "W10":{
+      "status":"allied"
+   },
+   "ALTAG":{
+      "status":"allied"
+   },
+   "GDW":{
+      "status":"enemy"
+   },
+   "SH":{
+      "status":"allied"
+   },
+   "THF":{
+      "status":"allied"
+   },
+   "THEP":{
+      "status":"allied"
+   },
+   "RDBLS":{
+      "status":"allied"
+   },
+   "1WAYA":{
+      "status":"enemy"
+   },
+   "DWRWP":{
+      "status":"enemy"
+   },
+   "148HO":{
+      "status":"allied"
+   },
+   "G_R_T":{
+      "status":"allied"
+   },
+   "B_I_P":{
+      "status":"enemy"
+   },
+   "VOYER":{
+      "status":"allied"
+   },
+   "MGGG":{
+      "status":"enemy"
+   },
+   "ITALY":{
+      "status":"allied"
+   },
+   "RSF":{
+      "status":"allied"
+   },
+   "TESCO":{
+      "status":"allied"
+   },
+   "MSKIL":{
+      "status":"allied"
+   },
+   "TAMU":{
+      "status":"enemy"
+   },
+   "MAXX":{
+      "status":"allied"
+   },
+   "UNDEFINED":{
+      "status":"allied"
+   },
+   "NPA_1":{
+      "status":"enemy",
+      "note":"Woody's alt"
+   },
+   "HURTF":{
+      "status":"allied"
+   },
+   "SSHHH":{
+      "status":"allied"
+   },
+   "SN8PE":{
+      "status":"enemy"
+   },
+   "AR-15":{
+      "status":"allied"
+   },
+   "FED1":{
+      "status":"enemy"
+   },
+   "SN1M":{
+      "status":"allied"
+   },
+   "T-B-P":{
+      "status":"allied"
+   },
+   "A57":{
+      "status":"allied"
+   },
+   "EK1":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "M-SOG":{
+      "status":"allied"
+   },
+   "ALB-U":{
+      "status":"allied"
+   },
+   "TBB-B":{
+      "status":"allied"
+   },
+   "RAGNK":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "-M4L-":{
+      "status":"allied"
+   },
+   "N_O_C":{
+      "status":"allied"
+   },
+   "NUTC":{
+      "status":"allied"
+   },
+   "SGW":{
+      "status":"allied"
+   },
+   "B_U_K":{
+      "status":"allied"
+   },
+   "FGHTR":{
+      "status":"allied"
+   },
+   "IT-IX":{
+      "status":"allied"
+   },
+   "PANIC":{
+      "status":"enemy"
+   },
+   "ASS-O":{
+      "status":"enemy"
+   },
+   "SOA_2":{
+      "status":"allied"
+   },
+   "IDUK":{
+      "status":"allied"
+   },
+   "USA-1":{
+      "status":"enemy"
+   },
+   "PREUS":{
+      "status":"allied"
+   },
+   "NEM-E":{
+      "status":"allied"
+   },
+   "CC_":{
+      "status":"allied"
+   },
+   "BOOST":{
+      "status":"allied"
+   },
+   "WP-ZC":{
+      "status":"allied"
+   },
+   "SALEM":{
+      "status":"allied"
+   },
+   "OLD":{
+      "status":"allied"
+   },
+   "ES-LF":{
+      "status":"allied"
+   },
+   "-IB-":{
+      "status":"allied"
+   },
+   "ISF":{
+      "status":"allied"
+   },
+   "UN100":{
+      "status":"allied"
+   },
+   "WCSF":{
+      "status":"allied"
+   },
+   "CRU1":{
+      "status":"allied"
+   },
+   "_UP_":{
+      "status":"allied"
+   },
+   "_UBF_":{
+      "status":"allied"
+   },
+   "CHETT":{
+      "status":"allied"
+   },
+   "IT300":{
+      "status":"allied"
+   },
+   "CP-0":{
+      "status":"allied"
+   },
+   "HW":{
+      "status":"allied"
+   },
+   "G-O-E":{
+      "status":"allied"
+   },
+   "IMP_S":{
+      "status":"allied"
+   },
+   "_CFM_":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "FEKKU":{
+      "status":"allied"
+   },
+   "VIGI":{
+      "status":"allied"
+   },
+   "TINNI":{
+      "status":"allied"
+   },
+   "F-D-E":{
+      "status":"allied"
+   },
+   "F-A-B":{
+      "status":"allied"
+   },
+   "WCCP":{
+      "status":"allied"
+   },
+   "-FIN-":{
+      "status":"allied"
+   },
+   "TID-X":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "TIZZY":{
+      "status":"allied"
+   },
+   "1S1K":{
+      "status":"allied"
+   },
+   "U_P_F":{
+      "status":"allied"
+   },
+   "FF-3":{
+      "status":"allied"
+   },
+   "UK-TQ":{
+      "status":"allied"
+   },
+   "VIC70":{
+      "status":"allied"
+   },
+   "GSPOT":{
+      "status":"enemy"
+   },
+   "WE-RI":{
+      "status":"allied"
+   },
+   "ROO":{
+      "status":"allied"
+   },
+   "G-M-E":{
+      "status":"allied"
+   },
+   "WAHEY":{
+      "status":"allied"
+   },
+   "EL1TE":{
+      "status":"allied"
+   },
+   "FH":{
+      "status":"allied"
+   },
+   "FARM1":{
+      "status":"allied"
+   },
+   "EEE":{
+      "status":"allied"
+   },
+   "SFU":{
+      "status":"allied"
+   },
+   "FDE-2":{
+      "status":"allied"
+   },
+   "TL":{
+      "status":"allied"
+   },
+   "EL-KT":{
+      "status":"allied"
+   },
+   "ELADA":{
+      "status":"allied"
+   },
+   "THAI1":{
+      "status":"allied"
+   },
+   "SOLOR":{
+      "status":"allied"
+   },
+   "AER":{
+      "status":"allied"
+   },
+   "OE":{
+      "status":"allied"
+   },
+   "CARE3":{
+      "status":"allied"
+   },
+   "L_M_F":{
+      "status":"allied"
+   },
+   "BGRIM":{
+      "status":"allied"
+   },
+   "SW_AT":{
+      "status":"allied"
+   },
+   "CRO-D":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "TROWS":{
+      "status":"allied"
+   },
+   "DOOM-":{
+      "status":"allied"
+   },
+   "REP_1":{
+      "status":"allied"
+   },
+   "NUDE":{
+      "status":"allied"
+   },
+   "DDAR":{
+      "status":"allied"
+   },
+   "S-P-T":{
+      "status":"enemy"
+   },
+   "H-O-D":{
+      "status":"enemy"
+   },
+   "DS300":{
+      "status":"allied"
+   },
+   "-OL-":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "PRC__":{
+      "status":"allied"
+   },
+   "OUTLZ":{
+      "status":"allied"
+   },
+   "TREA2":{
+      "status":"allied"
+   },
+   "-HFS-":{
+      "status":"enemy"
+   },
+   "SS-PC":{
+      "status":"allied"
+   },
+   "NATVE":{
+      "status":"allied"
+   },
+   "RANGR":{
+      "status":"allied"
+   },
+   "NVDRS":{
+      "status":"allied"
+   },
+   "DANO":{
+      "status":"allied"
+   },
+   "LOUT":{
+      "status":"allied"
+   },
+   "FAIXA":{
+      "status":"allied"
+   },
+   "VJ":{
+      "status":"allied"
+   },
+   "RABIT":{
+      "status":"allied"
+   },
+   "SOCOM":{
+      "status":"allied"
+   },
+   "STOCK":{
+      "status":"allied"
+   },
+   "_UNO_":{
+      "status":"allied"
+   },
+   "BIGDK":{
+      "status":"allied"
+   },
+   "UAADF":{
+      "status":"enemy",
+      "note":"Bmf allies"
+   },
+   "AKNCR":{
+      "status":"allied"
+   },
+   "2GUYS":{
+      "status":"allied"
+   },
+   "LONE":{
+      "status":"allied"
+   },
+   "F-U":{
+      "status":"allied"
+   },
+   "MAEA":{
+      "status":"allied",
+      "note":"Fady Dinil"
+   },
+   "SIF_M":{
+      "status":"allied"
+   },
+   "-AK-":{
+      "status":"allied"
+   },
+   "TC-TK":{
+      "status":"allied"
+   },
+   "POWDG":{
+      "status":"enemy"
+   },
+   "ACE":{
+      "status":"enemy"
+   },
+   "OYEAH":{
+      "status":"allied"
+   },
+   "_FFF_":{
+      "status":"allied"
+   },
+   "GITTI":{
+      "status":"allied"
+   },
+   "TUS":{
+      "status":"allied"
+   },
+   "SUSS":{
+      "status":"allied"
+   },
+   "KUNTY":{
+      "status":"allied"
+   },
+   "A-A-":{
+      "status":"allied"
+   },
+   "KTCOM":{
+      "status":"allied"
+   },
+   "FFF-S":{
+      "status":"allied"
+   },
+   "HDMJ":{
+      "status":"allied"
+   },
+   "J-L":{
+      "status":"enemy"
+   },
+   "ROLO":{
+      "status":"allied"
+   },
+   "KS2":{
+      "status":"allied"
+   },
+   "HKOC":{
+      "status":"enemy"
+   },
+   "USA1":{
+      "status":"enemy"
+   },
+   "REAPS":{
+      "status":"enemy"
+   },
+   "STEEL":{
+      "status":"allied",
+      "note":"N7FL friends"
+   },
+   "SFW":{
+      "status":"enemy"
+   },
+   "ES227":{
+      "status":"enemy"
+   },
+   "ECA":{
+      "status":"allied",
+      "note":"N7FL friends"
+   },
+   "B1G":{
+      "status":"allied",
+      "note":"KT Alt tag"
+   },
+   "TNT":{
+      "status":"ceasefire"
+   },
+   "FWKRS":{
+      "status":"enemy"
+   },
+   "_CD_":{
+      "status":"allied"
+   },
+   "A-PHX":{
+      "status":"allied",
+      "note":"Roger Simon leader"
+   },
+   "FREEM":{
+      "status":"allied"
+   },
+   "VAMP":{
+      "status":"allied"
+   },
+   "DA-SO":{
+      "status":"allied",
+      "note":"Joey Wilson"
+   },
+   "W4M":{
+      "status":"allied"
+   },
+   "4FK-S":{
+      "status":"allied"
+   },
+   "NOMAD":{
+      "status":"allied"
+   },
+   "MDET":{
+      "status":"allied"
+   },
+   "BF-TA":{
+      "status":"allied"
+   },
+   "XMN":{
+      "status":"allied",
+      "note":"KT Allies See Yanni"
+   },
+   "TKT":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "J3SUS":{
+      "status":"allied",
+      "note":"Anti ACS, Anti WWW, Anti AAF"
+   },
+   "C_W_T":{
+      "status":"allied"
+   },
+   "TIDR":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "ZOMBE":{
+      "status":"allied"
+   },
+   "CMA":{
+      "status":"allied"
+   },
+   "PALAR":{
+      "status":"enemy"
+   },
+   "AGGRO":{
+      "status":"enemy"
+   },
+   "ME1":{
+      "status":"allied",
+      "note":"RAV Allies"
+   },
+   "AFG-":{
+      "status":"enemy"
+   },
+   "GYGR":{
+      "status":"enemy",
+      "note":"sec 7 Neutral / Anti AAF"
+   },
+   "CO3RA":{
+      "status":"allied",
+      "note":"TREAP Allies"
+   },
+   "NFG_":{
+      "status":"enemy"
+   },
+   "B-A-E":{
+      "status":"allied"
+   },
+   "A__Z":{
+      "status":"enemy",
+      "note":"BMF/NMFD Allies"
+   },
+   "VSALL":{
+      "status":"allied"
+   },
+   "VSAII":{
+      "status":"allied",
+      "note":"Media Allie’s"
+   },
+   "NODRA":{
+      "status":"allied",
+      "note":"Michael Martinelli leader"
+   },
+   "TWO-X":{
+      "status":"enemy"
+   },
+   "SIDAD":{
+      "status":"enemy",
+      "note":"ACS"
+   },
+   "POLAR":{
+      "status":"enemy"
+   },
+   "CRAZY":{
+      "status":"enemy"
+   },
+   "50DEF":{
+      "status":"allied"
+   },
+   "IRL32":{
+      "status":"allied",
+      "note":"Frances Oboyle - leader"
+   },
+   "PIGO":{
+      "status":"allied"
+   },
+   "B_A_E":{
+      "status":"allied"
+   },
+   "NO_BS":{
+      "status":"allied"
+   },
+   "3SURE":{
+      "status":"enemy"
+   },
+   "XAK2":{
+      "status":"allied"
+   },
+   "VILL":{
+      "status":"allied"
+   },
+   "TDV":{
+      "status":"allied"
+   },
+   "DDA":{
+      "status":"allied"
+   },
+   "B-L-K":{
+      "status":"allied"
+   },
+   "5GLAT":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "BBL-":{
+      "status":"allied"
+   },
+   "WCP":{
+      "status":"enemy",
+      "note":"Sector 110"
+   },
+   "_GEN_":{
+      "status":"allied",
+      "note":"TP"
+   },
+   "HOLD":{
+      "status":"allied"
+   },
+   "ICONS":{
+      "status":"allied"
+   },
+   "MB692":{
+      "status":"allied"
+   },
+   "GOB":{
+      "status":"allied"
+   },
+   "TEXMX":{
+      "status":"allied"
+   },
+   "OWAWH":{
+      "status":"enemy",
+      "note":"s137"
+   },
+   "ASOAS":{
+      "status":"allied",
+      "note":"See Fady Dinil"
+   },
+   "KIL19":{
+      "status":"enemy"
+   },
+   "TRINI":{
+      "status":"allied",
+      "note":"leader - EL Deabloxx"
+   },
+   "BWC1":{
+      "status":"allied",
+      "note":"sector 7"
+   },
+   "REDDG":{
+      "status":"allied"
+   },
+   "B-L":{
+      "status":"allied"
+   },
+   "-TMR-":{
+      "status":"enemy",
+      "note":"S3XY"
+   },
+   "CRDZ":{
+      "status":"allied"
+   },
+   "CHIDO":{
+      "status":"allied"
+   },
+   "DPAIN":{
+      "status":"allied"
+   },
+   "DF116":{
+      "status":"allied"
+   },
+   "_FLT_":{
+      "status":"allied"
+   },
+   "F-KGS":{
+      "status":"enemy"
+   },
+   "WEROC":{
+      "status":"allied"
+   },
+   "MS-AC":{
+      "status":"allied"
+   },
+   "-UG-":{
+      "status":"allied"
+   },
+   "X3N0":{
+      "status":"allied"
+   },
+   "0G235":{
+      "status":"allied"
+   },
+   "__RF__":{
+      "status":"allied"
+   },
+   "_RF_":{
+      "status":"allied"
+   },
+   "RIP83":{
+      "status":"allied"
+   },
+   "WCSF2":{
+      "status":"allied"
+   },
+   "XSNPE":{
+      "status":"allied"
+   },
+   "MIRI-":{
+      "status":"allied"
+   },
+   "AHOLE":{
+      "status":"allied"
+   },
+   "CM1":{
+      "status":"allied"
+   },
+   "FA_V2":{
+      "status":"allied"
+   },
+   "RUBEN":{
+      "status":"allied"
+   },
+   "-FAK-":{
+      "status":"allied"
+   },
+   "HTSQ":{
+      "status":"allied"
+   },
+   "KAF2":{
+      "status":"allied"
+   },
+   "UPF":{
+      "status":"allied"
+   },
+   "B0RGS":{
+      "status":"allied"
+   },
+   "-ENG-":{
+      "status":"allied"
+   },
+   "HS187":{
+      "status":"enemy"
+   },
+   "AOW":{
+      "status":"enemy"
+   },
+   "HATSU":{
+      "status":"enemy"
+   },
+   "JUNK":{
+      "status":"allied"
+   },
+   "D-T-C":{
+      "status":"enemy"
+   },
+   "4-PSF":{
+      "status":"allied"
+   },
+   "GATU":{
+      "status":"allied"
+   },
+   "R_M":{
+      "status":"allied"
+   },
+   "1-T":{
+      "status":"allied"
+   },
+   "SILOG":{
+      "status":"allied",
+      "note":"with TP allies"
+   },
+   "SCKME":{
+      "status":"allied"
+   },
+   "XBHX":{
+      "status":"enemy"
+   },
+   "BALSS":{
+      "status":"allied"
+   },
+   "WLV":{
+      "status":"enemy"
+   },
+   "KUNT_":{
+      "status":"allied"
+   },
+   "GORAN":{
+      "status":"allied"
+   },
+   "-KE-":{
+      "status":"enemy"
+   },
+   "-FE-":{
+      "status":"allied"
+   },
+   "RYTHM":{
+      "status":"enemy"
+   },
+   "FDN":{
+      "status":"allied"
+   },
+   "C03RA":{
+      "status":"allied"
+   },
+   "4SALE":{
+      "status":"allied"
+   },
+   "SILNI":{
+      "status":"enemy"
+   },
+   "EK134":{
+      "status":"allied"
+   },
+   "IBERO":{
+      "status":"allied",
+      "note":"B-ALB Allied"
+   },
+   "YORKY":{
+      "status":"enemy"
+   },
+   "T-_P_":{
+      "status":"allied"
+   },
+   "HA-RD":{
+      "status":"allied"
+   },
+   "MAT68":{
+      "status":"allied"
+   },
+   "MBF":{
+      "status":"allied"
+   },
+   "BFNS":{
+      "status":"enemy"
+   },
+   "4FREE":{
+      "status":"allied"
+   },
+   "ZTEAM":{
+      "status":"allied"
+   },
+   "PLUMB":{
+      "status":"neutral",
+      "note":"Moved to sector 19"
+   },
+   "HR":{
+      "status":"allied"
+   },
+   "MAMBA":{
+      "status":"allied"
+   },
+   "CTZ":{
+      "status":"allied"
+   },
+   "INSAN":{
+      "status":"allied"
+   },
+   "POUL":{
+      "status":"allied"
+   },
+   "BF-D":{
+      "status":"enemy"
+   },
+   "AAS":{
+      "status":"allied"
+   },
+   "_RM_":{
+      "status":"neutral",
+      "note":"Eric"
+   },
+   "RWBUK":{
+      "status":"allied"
+   },
+   "JMST":{
+      "status":"allied"
+   },
+   "DDOGS":{
+      "status":"allied"
+   },
+   "WAAAA":{
+      "status":"enemy"
+   },
+   "GORGE":{
+      "status":"enemy"
+   },
+   "SOV":{
+      "status":"allied"
+   },
+   "N7-HS":{
+      "status":"neutral"
+   },
+   "EW":{
+      "status":"enemy"
+   },
+   "BIGN":{
+      "status":"allied"
+   },
+   "W-W-E":{
+      "status":"allied",
+      "note":"135"
+   },
+   "PBS":{
+      "status":"allied"
+   },
+   "QWACK":{
+      "status":"enemy",
+      "note":"Woody's alt"
+   },
+   "GLA":{
+      "status":"allied"
+   },
+   "W—-B":{
+      "status":"neutral"
+   },
+   "U-CAN":{
+      "status":"allied"
+   },
+   "_N-D_":{
+      "status":"allied"
+   },
+   "-FTA-":{
+      "status":"allied"
+   },
+   "UWS-A":{
+      "status":"ceasefire",
+      "note":"UWS-A Alliance"
+   },
+   "DNTAE":{
+      "status":"enemy"
+   },
+   "-MIA-":{
+      "status":"allied"
+   },
+   "UN-WC":{
+      "status":"enemy",
+      "note":"AAF"
+   },
+   "BSTAD":{
+      "status":"allied"
+   },
+   "CNILE":{
+      "status":"enemy",
+      "note":"WCFU backup tag"
+   },
+   "MABO":{
+      "status":"allied"
+   },
+   "PONOS":{
+      "status":"allied"
+   },
+   "_V-R_":{
+      "status":"allied"
+   },
+   "BNK1":{
+      "status":"allied",
+      "note":"131"
+   },
+   "BNK2":{
+      "status":"allied"
+   },
+   "BNK3":{
+      "status":"allied"
+   },
+   "THE_1":{
+      "status":"allied"
+   },
+   "K-VON":{
+      "status":"allied"
+   },
+   "VSAO":{
+      "status":"enemy"
+   },
+   "AV":{
+      "status":"enemy"
+   },
+   "ABSED":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "ALI3N":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "B2A":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "BIGRO":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "EF":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "F-ALL":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "F3D":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "FCKYU":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "FD-A":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "FFT":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "FK-EM":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "FU-2":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "FU-RY":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "GTS":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "G-E-W":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "MUSIC":{
+      "status":"allied"
+   },
+   "OLD24":{
+      "status":"allied",
+      "note":"N7F"
+   },
+   "-KAFR":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "WCTP_":{
+      "status":"enemy"
+   },
+   "LJ8":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "MERCC":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "MONGO":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "MYH_":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "MYH-R":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "NDL":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "NEM":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "NMHRK":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "OLDAZ":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "GAZIE":{
+      "status":"allied",
+      "note":"N7F"
+   },
+   "ON":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "OTLWS":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "_PL_":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "PBUD":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "QT":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "RFC2":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "RGJ":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "-RNT-":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "-SBD-":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "SHADO":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "SIGAL":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "SPURS":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "SRFIR":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "T-R-B":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "TW-TT":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "UKHIT":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "V-T":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "WCOG":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "_R-V_":{
+      "status":"allied"
+   },
+   "-RRH-":{
+      "status":"allied",
+      "note":"clarify who they are with main tag allied on WWW"
+   },
+   "FROMH":{
+      "status":"enemy"
+   },
+   "T209":{
+      "status":"enemy"
+   },
+   "ICBM":{
+      "status":"allied"
+   },
+   "KSA":{
+      "status":"enemy"
+   },
+   "SFOG":{
+      "status":"enemy",
+      "note":"Aaf"
+   },
+   "DIAB1":{
+      "status":"allied"
+   },
+   "0NE35":{
+      "status":"allied"
+   },
+   "N1PPL":{
+      "status":"allied"
+   },
+   "PHNXR":{
+      "status":"allied"
+   },
+   "AFG_K":{
+      "status":"allied"
+   },
+   "GFH":{
+      "status":"allied",
+      "note":"131"
+   },
+   "NX_HH":{
+      "status":"allied",
+      "note":"24"
+   },
+   "MRA24":{
+      "status":"allied"
+   },
+   "L-PHX":{
+      "status":"allied"
+   },
+   "CP-24":{
+      "status":"allied"
+   },
+   "ASA":{
+      "status":"allied"
+   },
+   "WP-EL":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "WWWB1":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "-XLV-":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "-FAL-":{
+      "status":"enemy",
+      "note":"UAO"
+   },
+   "TBOY":{
+      "status":"allied",
+      "note":"KRJ mini"
+   },
+   "GOOSE":{
+      "status":"allied"
+   },
+   "HVSO":{
+      "status":"allied"
+   },
+   "WALL":{
+      "status":"allied",
+      "note":"Alt tag to n7f"
+   },
+   "UYF":{
+      "status":"enemy"
+   },
+   "7GOKU":{
+      "status":"allied"
+   },
+   "LYCN":{
+      "status":"enemy",
+      "note":"Made enemy for hitting allies waiting on leader"
+   },
+   "1WP1":{
+      "status":"allied"
+   },
+   "T-A-G":{
+      "status":"allied"
+   },
+   "01010":{
+      "status":"allied"
+   },
+   "CC":{
+      "status":"allied",
+      "note":"Sector 52"
+   },
+   "0093-":{
+      "status":"allied"
+   },
+   "WHU":{
+      "status":"enemy"
+   },
+   "R_R_M":{
+      "status":"allied"
+   },
+   "ALGIR":{
+      "status":"allied"
+   },
+   "VSSEC":{
+      "status":"allied"
+   },
+   "LEGIT":{
+      "status":"allied",
+      "note":"Sector 1"
+   },
+   "-5G-":{
+      "status":"allied"
+   },
+   "FGHT":{
+      "status":"enemy"
+   },
+   "FGH":{
+      "status":"enemy"
+   },
+   "ADIK":{
+      "status":"allied",
+      "note":"TP sector 4"
+   },
+   "12SEC":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "AMW":{
+      "status":"allied",
+      "note":"Andrew Tedstone"
+   },
+   "ORIG":{
+      "status":"allied"
+   },
+   "NFRU":{
+      "status":"allied",
+      "note":"TP - sector 25"
+   },
+   "T81P":{
+      "status":"enemy"
+   },
+   "ABYSS":{
+      "status":"neutral",
+      "note":"Allied in 52"
+   },
+   "S-I-X":{
+      "status":"allied",
+      "note":"IWA - Lisa and Shemp mini in 12"
+   },
+   "-FKA-":{
+      "status":"neutral"
+   },
+   "_WIN_":{
+      "status":"enemy"
+   },
+   "TP-SI":{
+      "status":"enemy",
+      "note":"Pending. TP approval"
+   },
+   "KNTBF":{
+      "status":"allied",
+      "note":"KT alt"
+   },
+   "PQKER":{
+      "status":"enemy"
+   },
+   "TPHNK":{
+      "status":"neutral"
+   },
+   "REGAN":{
+      "status":"enemy"
+   },
+   "VIK":{
+      "status":"enemy"
+   },
+   "EDF":{
+      "status":"enemy"
+   },
+   "WO225":{
+      "status":"enemy"
+   },
+   "EK-PL":{
+      "status":"enemy"
+   },
+   "FA-S":{
+      "status":"allied"
+   },
+   "GRAV":{
+      "status":"allied"
+   },
+   "TMLB":{
+      "status":"enemy",
+      "note":"CHANGED SIDES"
+   },
+   "VSA0":{
+      "status":"enemy"
+   },
+   "N_A":{
+      "status":"neutral"
+   },
+   "TORN":{
+      "status":"enemy"
+   },
+   "-HK-":{
+      "status":"allied"
+   },
+   "XNBot":{
+      "status":"allied"
+   },
+   "FA190":{
+      "status":"allied"
+   },
+   "24/7":{
+      "status":"enemy"
+   },
+   "T_WAT":{
+      "status":"enemy"
+   },
+   "agk":{
+      "status":"enemy"
+   },
+   "U-S-A":{
+      "status":"enemy"
+   },
+   "ZIPIT":{
+      "status":"enemy"
+   },
+   "POPO":{
+      "status":"allied"
+   },
+   "N7FED":{
+      "status":"enemy"
+   },
+   "FED12":{
+      "status":"enemy"
+   },
+   "Unc1e":{
+      "status":"enemy"
+   },
+   "UNCUS":{
+      "status":"enemy"
+   },
+   "DJT45":{
+      "status":"enemy"
+   },
+   "B_A_S":{
+      "status":"enemy"
+   },
+   "M_M":{
+      "status":"enemy",
+      "note":"Bmf allies"
+   },
+   "umf":{
+      "status":"enemy"
+   },
+   "SKC":{
+      "status":"enemy"
+   },
+   "K_POP":{
+      "status":"allied"
+   },
+   "-BF4L":{
+      "status":"enemy"
+   },
+   "NMFP":{
+      "status":"allied"
+   },
+   "-DBZ-":{
+      "status":"allied"
+   },
+   "Lethl":{
+      "status":"enemy"
+   },
+   "AS-2":{
+      "status":"allied"
+   },
+   "LUV_U":{
+      "status":"enemy"
+   },
+   "-TSK-":{
+      "status":"allied"
+   },
+   "N-C-T":{
+      "status":"allied"
+   },
+   "N_C_T":{
+      "status":"allied"
+   },
+   "T7":{
+      "status":"enemy"
+   },
+   "pRIMo":{
+      "status":"enemy"
+   },
+   "Nem":{
+      "status":"enemy"
+   },
+   "PK-NF":{
+      "status":"enemy"
+   },
+   "GD2D":{
+      "status":"enemy"
+   },
+   "_ES_":{
+      "status":"enemy"
+   },
+   "N-Z":{
+      "status":"enemy"
+   },
+   "PAG":{
+      "status":"enemy"
+   },
+   "TAP_I":{
+      "status":"enemy"
+   },
+   "-TNM-":{
+      "status":"enemy"
+   },
+   "tap_i":{
+      "status":"enemy"
+   },
+   "-EA-":{
+      "status":"enemy"
+   },
+   "N7-AI":{
+      "status":"allied"
+   },
+   "KIDON":{
+      "status":"enemy"
+   },
+   "DRAM":{
+      "status":"enemy"
+   },
+   "71sf":{
+      "status":"allied"
+   },
+   "-MQ-":{
+      "status":"allied",
+      "note":"Bob Khater friend's"
+   },
+   "HOT_1":{
+      "status":"allied"
+   },
+   "farm8":{
+      "status":"allied"
+   },
+   "LOD":{
+      "status":"allied"
+   },
+   "AOH":{
+      "status":"allied"
+   },
+   "DANY":{
+      "status":"allied"
+   },
+   "NEXT":{
+      "status":"allied"
+   },
+   "KI":{
+      "status":"allied"
+   },
+   "_UFO_":{
+      "status":"allied"
+   },
+   "farm2":{
+      "status":"allied"
+   },
+   "FF-HS":{
+      "status":"allied"
+   },
+   "-UB-":{
+      "status":"allied"
+   },
+   "FLATU":{
+      "status":"allied"
+   },
+   "S___W":{
+      "status":"allied"
+   },
+   "GRAZY":{
+      "status":"allied"
+   },
+   "WSAO":{
+      "status":"allied"
+   },
+   "USOFA":{
+      "status":"allied"
+   },
+   "FKW":{
+      "status":"allied"
+   },
+   "MPA":{
+      "status":"allied",
+      "note":"FFF Friendly"
+   },
+   "OTC":{
+      "status":"allied"
+   },
+   "_BIA_":{
+      "status":"allied",
+      "note":"43"
+   },
+   "farm7":{
+      "status":"allied"
+   },
+   "HHMMM":{
+      "status":"allied"
+   },
+   "TP_PW":{
+      "status":"allied"
+   },
+   "S-K":{
+      "status":"allied"
+   },
+   "16DF":{
+      "status":"allied"
+   },
+   "-TE-":{
+      "status":"allied"
+   },
+   "EBUL":{
+      "status":"allied"
+   },
+   "JAK":{
+      "status":"allied"
+   },
+   "FIRM":{
+      "status":"allied"
+   },
+   "1GEAR":{
+      "status":"allied"
+   },
+   "-BH--":{
+      "status":"allied"
+   },
+   "FCKED":{
+      "status":"allied"
+   },
+   "A5A5N":{
+      "status":"allied"
+   },
+   "BHFH":{
+      "status":"allied"
+   },
+   "PIKI":{
+      "status":"allied"
+   },
+   "D--S":{
+      "status":"allied"
+   },
+   "CPR1":{
+      "status":"allied"
+   },
+   "Ronin":{
+      "status":"allied"
+   },
+   "-D3-":{
+      "status":"allied"
+   },
+   "STY":{
+      "status":"allied"
+   },
+   "LB-43":{
+      "status":"allied"
+   },
+   "IKS":{
+      "status":"allied"
+   },
+   "WHIP":{
+      "status":"allied"
+   },
+   "Lupus":{
+      "status":"allied"
+   },
+   "noaff":{
+      "status":"allied"
+   },
+   "7-OCT":{
+      "status":"allied"
+   },
+   "GRC43":{
+      "status":"allied"
+   },
+   "S43L2":{
+      "status":"allied"
+   },
+   "TFWPA":{
+      "status":"allied"
+   },
+   "IAA_E":{
+      "status":"allied"
+   },
+   "-43-":{
+      "status":"allied"
+   },
+   "IAA_M":{
+      "status":"allied"
+   },
+   "GOP":{
+      "status":"allied"
+   },
+   "_FA_":{
+      "status":"allied"
+   },
+   "S-D-R":{
+      "status":"allied"
+   },
+   "137FW":{
+      "status":"allied"
+   },
+   "N7F-L":{
+      "status":"allied"
+   },
+   "UN31":{
+      "status":"allied"
+   },
+   "X0X0X":{
+      "status":"allied"
+   },
+   "XOXOX":{
+      "status":"allied"
+   },
+   "I_G_I":{
+      "status":"allied"
+   },
+   "NEK":{
+      "status":"allied"
+   },
+   "Aov":{
+      "status":"allied"
+   },
+   "YEAST":{
+      "status":"allied"
+   },
+   "xAWCx":{
+      "status":"allied"
+   },
+   "KODA":{
+      "status":"allied"
+   },
+   "Wild1":{
+      "status":"allied"
+   },
+   "_RK_":{
+      "status":"allied"
+   },
+   "Tree":{
+      "status":"enemy"
+   },
+   "BOR3D":{
+      "status":"allied"
+   },
+   "CH4OS":{
+      "status":"allied",
+      "note":"Glens mini tag"
+   },
+   "GEORG":{
+      "status":"allied"
+   },
+   "JQK3R":{
+      "status":"allied"
+   },
+   "HQKER":{
+      "status":"allied"
+   },
+   "DT131":{
+      "status":"allied"
+   },
+   "GOT31":{
+      "status":"allied"
+   },
+   "Genrl":{
+      "status":"allied"
+   },
+   "USA--":{
+      "status":"allied"
+   },
+   "WRECK":{
+      "status":"allied"
+   },
+   "Ace31":{
+      "status":"allied"
+   },
+   "Dboyz":{
+      "status":"allied"
+   },
+   "Xsnpe":{
+      "status":"allied"
+   },
+   "Myth-":{
+      "status":"allied"
+   },
+   "HazMt":{
+      "status":"allied"
+   },
+   "skllz":{
+      "status":"allied"
+   },
+   "RW":{
+      "status":"allied"
+   },
+   "xRIPx":{
+      "status":"allied"
+   },
+   "game":{
+      "status":"allied"
+   },
+   "T-D-R":{
+      "status":"allied"
+   },
+   "BNK20":{
+      "status":"allied"
+   },
+   "LTR":{
+      "status":"allied"
+   },
+   "z_l_f":{
+      "status":"allied"
+   },
+   "JEDIK":{
+      "status":"allied"
+   },
+   "MEOWS":{
+      "status":"allied"
+   },
+   "MALEV":{
+      "status":"allied"
+   },
+   "madd":{
+      "status":"allied"
+   },
+   "duvel":{
+      "status":"allied"
+   },
+   "D_S":{
+      "status":"allied"
+   },
+   "A230Z":{
+      "status":"allied"
+   },
+   "A23Oz":{
+      "status":"allied"
+   },
+   "ut":{
+      "status":"allied"
+   },
+   "MEAT":{
+      "status":"allied"
+   },
+   "woofs":{
+      "status":"allied"
+   },
+   "TEMPL":{
+      "status":"allied"
+   },
+   "S-olo":{
+      "status":"allied"
+   },
+   "182JT":{
+      "status":"allied"
+   },
+   "JDPA":{
+      "status":"allied"
+   },
+   "KW":{
+      "status":"allied"
+   },
+   "MYOB":{
+      "status":"allied"
+   },
+   "CRAZI":{
+      "status":"allied"
+   },
+   "D-R":{
+      "status":"allied"
+   },
+   "-UT-":{
+      "status":"allied"
+   },
+   "BLNL":{
+      "status":"allied"
+   },
+   "PR1ME":{
+      "status":"allied"
+   },
+   "WE":{
+      "status":"allied"
+   },
+   "OUWES":{
+      "status":"allied"
+   },
+   "RedSS":{
+      "status":"allied"
+   },
+   "MVPE":{
+      "status":"allied"
+   },
+   "-CTD-":{
+      "status":"allied"
+   },
+   "DEN":{
+      "status":"allied"
+   },
+   "iSAS":{
+      "status":"allied"
+   },
+   "Woofz":{
+      "status":"allied"
+   },
+   "RCA1":{
+      "status":"allied"
+   },
+   "ERF":{
+      "status":"allied"
+   },
+   "RAV24":{
+      "status":"allied"
+   },
+   "-PAP-":{
+      "status":"allied",
+      "note":"William Macfie leader"
+   },
+   "DCTBB":{
+      "status":"allied"
+   },
+   "RAS":{
+      "status":"allied"
+   },
+   "BIA":{
+      "status":"allied"
+   },
+   "MVPRE":{
+      "status":"allied"
+   },
+   "BANGS":{
+      "status":"allied"
+   },
+   "TEO":{
+      "status":"allied",
+      "note":"Erdinc Oran Sector 52"
+   },
+   "MMY":{
+      "status":"allied"
+   },
+   "TWC":{
+      "status":"allied"
+   },
+   "LFORX":{
+      "status":"allied"
+   },
+   "M___A":{
+      "status":"allied"
+   },
+   "_KNG_":{
+      "status":"allied",
+      "note":"Sector 52 King Smash’s tag"
+   },
+   "DIK12":{
+      "status":"enemy"
+   },
+   "FEE":{
+      "status":"allied"
+   },
+   "W4NK4":{
+      "status":"allied"
+   },
+   "52rct":{
+      "status":"allied"
+   },
+   "THORN":{
+      "status":"allied"
+   },
+   "NA007":{
+      "status":"allied"
+   },
+   "-BTC-":{
+      "status":"allied",
+      "note":"Mohamed Moustafa Mahoud leader"
+   },
+   "-FJB-":{
+      "status":"allied",
+      "note":"Resident in sector 52"
+   },
+   "SLUTZ":{
+      "status":"allied"
+   },
+   "131F":{
+      "status":"allied",
+      "note":"Craig’s farming tag N7F"
+   },
+   "SDCR":{
+      "status":"allied",
+      "note":"N7F allied Leader Nathan Ray Denniston"
+   },
+   "TWST1":{
+      "status":"allied",
+      "note":"Brian Marble minis"
+   },
+   "DVC":{
+      "status":"allied"
+   },
+   "SPT":{
+      "status":"allied"
+   },
+   "-WTR-":{
+      "status":"allied"
+   },
+   "UN182":{
+      "status":"allied"
+   },
+   "WM":{
+      "status":"allied"
+   },
+   "DRGNS":{
+      "status":"allied",
+      "note":"Rob Tetzloff sector 42"
+   },
+   "N7F_-":{
+      "status":"allied"
+   },
+   "__N7F":{
+      "status":"allied"
+   },
+   "DWM":{
+      "status":"allied"
+   },
+   "ONE35":{
+      "status":"allied",
+      "note":"Sector 159, 135"
+   },
+   "DPI":{
+      "status":"enemy"
+   },
+   "-N7F-":{
+      "status":"allied"
+   },
+   "JQKER":{
+      "status":"allied"
+   },
+   "U-K-U":{
+      "status":"allied",
+      "note":"listed on WWW - clarify who and where they are"
+   },
+   "KRJ":{
+      "status":"allied",
+      "note":"43"
+   },
+   "-NRC-":{
+      "status":"allied"
+   },
+   "S_P_T":{
+      "status":"allied"
+   },
+   "_N7F_":{
+      "status":"allied"
+   },
+   "RELAX":{
+      "status":"allied"
+   },
+   "TRP":{
+      "status":"allied"
+   },
+   "FA-HS":{
+      "status":"allied"
+   },
+   "N7F":{
+      "status":"allied"
+   },
+   "BD-L":{
+      "status":"allied"
+   },
+   "SUSQ":{
+      "status":"allied"
+   },
+   "KMWDR":{
+      "status":"allied"
+   },
+   "N7F_S":{
+      "status":"allied"
+   },
+   "-S2N-":{
+      "status":"allied"
+   },
+   "ASASN":{
+      "status":"allied",
+      "note":"Leader Jack Johnson"
+   },
+   "N7FK":{
+      "status":"allied"
+   },
+   "JNB":{
+      "status":"allied"
+   },
+   "GRFA":{
+      "status":"enemy"
+   },
+   "UAO":{
+      "status":"enemy"
+   },
+   "W2H":{
+      "status":"enemy"
+   },
+   "-EGA-":{
+      "status":"enemy"
+   },
+   "GAM":{
+      "status":"enemy"
+   },
+   "A-C-S":{
+      "status":"enemy"
+   },
+   "RO":{
+      "status":"enemy"
+   },
+   "SF":{
+      "status":"enemy"
+   },
+   "F-OFF":{
+      "status":"enemy"
+   },
+   "ROD_":{
+      "status":"enemy"
+   },
+   "W-C-I":{
+      "status":"enemy"
+   },
+   "K-S-":{
+      "status":"enemy",
+      "note":"TRAITORS"
+   },
+   "B-L-S":{
+      "status":"enemy"
+   },
+   "-ACS-":{
+      "status":"enemy"
+   },
+   "LFORC":{
+      "status":"enemy"
+   },
+   "PRKS":{
+      "status":"enemy"
+   },
+   "-GER-":{
+      "status":"enemy"
+   },
+   "_KNK_":{
+      "status":"enemy"
+   },
+   "ALBS_":{
+      "status":"enemy"
+   },
+   "-198-":{
+      "status":"enemy"
+   },
+   "_PvP_":{
+      "status":"enemy"
+   },
+   "_RTA_":{
+      "status":"enemy"
+   },
+   "ms14":{
+      "status":"allied"
+   },
+   "IWA19":{
+      "status":"allied"
+   },
+   "19IWA":{
+      "status":"allied"
+   },
+   "Tndr1":{
+      "status":"allied"
+   },
+   "G4H":{
+      "status":"allied"
+   },
+   "LF":{
+      "status":"allied"
+   },
+   "U-A":{
+      "status":"allied"
+   },
+   "llypd":{
+      "status":"allied"
+   },
+   "EEF":{
+      "status":"allied",
+      "note":"JB Sheets. Leader"
+   },
+   "USNA":{
+      "status":"allied"
+   },
+   "-ATW-":{
+      "status":"allied"
+   },
+   "ck-ff":{
+      "status":"allied"
+   },
+   "OWO":{
+      "status":"allied"
+   },
+   "BAALS":{
+      "status":"allied"
+   },
+   "CB2":{
+      "status":"allied"
+   },
+   "UCKMA":{
+      "status":"allied"
+   },
+   "ROE-2":{
+      "status":"allied",
+      "note":"also listed on WWW"
+   },
+   "-WEED":{
+      "status":"allied",
+      "note":"IWA - listed allied on WWW"
+   },
+   "wiz-w":{
+      "status":"allied",
+      "note":"IWA - listed allied on WWW"
+   },
+   "-ASS_":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "MF27":{
+      "status":"allied"
+   },
+   "F1RM":{
+      "status":"allied",
+      "note":"sector 27"
+   },
+   "HFA":{
+      "status":"allied"
+   },
+   "_BVB_":{
+      "status":"allied"
+   },
+   "HFA27":{
+      "status":"allied"
+   },
+   "OGTS":{
+      "status":"allied",
+      "note":"sector 27"
+   },
+   "BVB":{
+      "status":"allied"
+   },
+   "135FF":{
+      "status":"allied"
+   },
+   "BVB27":{
+      "status":"allied"
+   },
+   "_CC_":{
+      "status":"allied",
+      "note":"sector 27 also listed on WWW"
+   },
+   "_BUK_":{
+      "status":"allied"
+   },
+   "CB":{
+      "status":"allied",
+      "note":"sector 27"
+   },
+   "BH-F":{
+      "status":"allied"
+   },
+   "CORE_":{
+      "status":"allied",
+      "note":"Iwa"
+   },
+   "DC2U":{
+      "status":"allied",
+      "note":"IWA"
+   },
+   "WCNP":{
+      "status":"allied",
+      "note":"Sector 127"
+   },
+   "157BS":{
+      "status":"allied",
+      "note":"Sector 157 UNO/Sendoh"
+   },
+   "MUTED":{
+      "status":"allied",
+      "note":"sector 111 and 122"
+   },
+   "TP_HS":{
+      "status":"allied",
+      "note":"sector 111"
+   },
+   "-PSK-":{
+      "status":"allied",
+      "note":"Sector 157 UNO/Sendoh"
+   },
+   "SPMTP":{
+      "status":"allied",
+      "note":"sector 111"
+   },
+   "ONE28":{
+      "status":"allied",
+      "note":"Sector 128"
+   },
+   "_CA_":{
+      "status":"allied",
+      "note":"sector 109,  111 and  122"
+   },
+   "NPA_G":{
+      "status":"allied",
+      "note":"allied to WCNP, sector 33 Glanne Bondoc"
+   },
+   "ELULZ":{
+      "status":"allied",
+      "note":"sector 111"
+   },
+   "WOD":{
+      "status":"allied",
+      "note":"Sector 88 VICIOUS/KIDA"
+   },
+   "SEC25":{
+      "status":"allied"
+   },
+   "TVJ":{
+      "status":"allied"
+   },
+   "TPUF":{
+      "status":"allied",
+      "note":"Sector 88 and 122"
+   },
+   "GFTP":{
+      "status":"allied",
+      "note":"Sector 88 VICIOUS/KIDA"
+   },
+   "CA":{
+      "status":"allied",
+      "note":"Sector 109, 111 and 122"
+   },
+   "RRM":{
+      "status":"allied",
+      "note":"Sector 138 VICIOUS/KIDA"
+   },
+   "RRM88":{
+      "status":"allied",
+      "note":"Sector 88 VICIOUS/KIDA"
+   },
+   "USUK":{
+      "status":"allied"
+   },
+   "N7_HS":{
+      "status":"allied"
+   },
+   "S_G":{
+      "status":"allied"
+   },
+   "TPK3":{
+      "status":"allied"
+   },
+   "122TP":{
+      "status":"allied"
+   },
+   "TAP-1":{
+      "status":"allied"
+   },
+   "PSK":{
+      "status":"allied"
+   },
+   "ONE60":{
+      "status":"allied"
+   },
+   "TP_UF":{
+      "status":"allied",
+      "note":"Sector 138 VICIOUS/KIDA"
+   },
+   "UTP81":{
+      "status":"allied",
+      "note":"Sector 81"
+   },
+   "GF_TP":{
+      "status":"allied",
+      "note":"Sector 88 VICIOUS/KIDA"
+   },
+   "XDaD":{
+      "status":"allied"
+   },
+   "xWWWx":{
+      "status":"allied"
+   },
+   "unite":{
+      "status":"allied"
+   },
+   "WG_PT":{
+      "status":"allied"
+   },
+   "TULOK":{
+      "status":"allied"
+   },
+   "TDD":{
+      "status":"allied"
+   },
+   "NDAY":{
+      "status":"allied"
+   },
+   "Ozz":{
+      "status":"allied"
+   },
+   "OZZ_":{
+      "status":"allied"
+   },
+   "UIF":{
+      "status":"allied"
+   },
+   "_SOS":{
+      "status":"allied"
+   },
+   "SOS_":{
+      "status":"allied"
+   },
+   "SOS_-":{
+      "status":"allied"
+   },
+   "-_SOS":{
+      "status":"allied"
+   },
+   "OZN":{
+      "status":"allied"
+   },
+   "TPS34":{
+      "status":"allied"
+   },
+   "TP-AU":{
+      "status":"allied"
+   },
+   "JERO":{
+      "status":"allied"
+   },
+   "3OTSO":{
+      "status":"allied"
+   },
+   "KOO-2":{
+      "status":"allied"
+   },
+   "KOO":{
+      "status":"allied"
+   },
+   "-ALBS":{
+      "status":"allied"
+   },
+   "kf":{
+      "status":"allied"
+   },
+   "C_PHX":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "DAK":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "CRO_A":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "JPFF":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "KT":{
+      "status":"allied"
+   },
+   "B-ALB":{
+      "status":"allied"
+   },
+   "JPFF_":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "TID-R":{
+      "status":"allied",
+      "note":"Core allies"
+   },
+   "IRISH":{
+      "status":"allied"
+   },
+   "CZSK":{
+      "status":"enemy",
+      "note":"leader Karol Pali"
+   },
+   "SCP17":{
+      "status":"enemy",
+      "note":"DG / W2H"
+   },
+   "NRC":{
+      "status":"enemy"
+   },
+   "ALPHA":{
+      "status":"enemy",
+      "note":"Philip Norris leader"
+   },
+   "UFL_X":{
+      "status":"enemy",
+      "note":"clarify who they are with"
+   },
+   "ROEC":{
+      "status":"allied"
+   },
+   "RRH":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "Zzz":{
+      "status":"enemy"
+   },
+   "YKFOO":{
+      "status":"enemy"
+   },
+   "Yolo-":{
+      "status":"enemy",
+      "note":"Allied to UAO"
+   },
+   "Y-P-J":{
+      "status":"enemy"
+   },
+   "x114R":{
+      "status":"enemy"
+   },
+   "x114x":{
+      "status":"enemy"
+   },
+   "xpred":{
+      "status":"enemy"
+   },
+   "X-T-C":{
+      "status":"enemy"
+   },
+   "-XTC-":{
+      "status":"enemy"
+   },
+   "xurra":{
+      "status":"enemy"
+   },
+   "xXx":{
+      "status":"enemy"
+   },
+   "W0WC":{
+      "status":"enemy"
+   },
+   "W50WUP":{
+      "status":"enemy"
+   },
+   "WADE":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "-WAF-":{
+      "status":"enemy"
+   },
+   "WAR_E":{
+      "status":"enemy"
+   },
+   "WAR_V":{
+      "status":"enemy"
+   },
+   "WBH-1":{
+      "status":"enemy"
+   },
+   "WCB":{
+      "status":"enemy"
+   },
+   "WCB6":{
+      "status":"enemy"
+   },
+   "WCFUR":{
+      "status":"enemy"
+   },
+   "WCGUK":{
+      "status":"enemy"
+   },
+   "WCMDE":{
+      "status":"enemy"
+   },
+   "-WD-":{
+      "status":"enemy"
+   },
+   "W-E":{
+      "status":"enemy"
+   },
+   "W-F-C":{
+      "status":"enemy"
+   },
+   "WG-G":{
+      "status":"enemy"
+   },
+   "WGodz":{
+      "status":"enemy"
+   },
+   "Wicka":{
+      "status":"enemy"
+   },
+   "W-n-M":{
+      "status":"enemy"
+   },
+   "WODO":{
+      "status":"enemy"
+   },
+   "w-o-s":{
+      "status":"enemy"
+   },
+   "WSNM":{
+      "status":"enemy"
+   },
+   "_WuS_":{
+      "status":"enemy"
+   },
+   "WW390":{
+      "status":"enemy"
+   },
+   "wwglo":{
+      "status":"enemy"
+   },
+   "WWW1":{
+      "status":"enemy"
+   },
+   "WWWAT":{
+      "status":"enemy"
+   },
+   "VAL1":{
+      "status":"enemy"
+   },
+   "VALS6":{
+      "status":"enemy"
+   },
+   "VERSE":{
+      "status":"enemy"
+   },
+   "VFFR":{
+      "status":"enemy"
+   },
+   "VFFR1":{
+      "status":"enemy"
+   },
+   "V-LPM":{
+      "status":"enemy"
+   },
+   "V_O_X":{
+      "status":"enemy"
+   },
+   "U108":{
+      "status":"enemy"
+   },
+   "UFF":{
+      "status":"enemy"
+   },
+   "UFFES":{
+      "status":"enemy"
+   },
+   "UKFam":{
+      "status":"enemy"
+   },
+   "UN62":{
+      "status":"enemy"
+   },
+   "UNFF":{
+      "status":"enemy"
+   },
+   "UNIT":{
+      "status":"enemy"
+   },
+   "UNTGD":{
+      "status":"enemy"
+   },
+   "UNW":{
+      "status":"enemy"
+   },
+   "USMV":{
+      "status":"enemy"
+   },
+   "USWC-":{
+      "status":"enemy",
+      "note":"listed on WWW - clarify who and where they are"
+   },
+   "USWC1":{
+      "status":"enemy"
+   },
+   "UswcA":{
+      "status":"enemy"
+   },
+   "USWCr":{
+      "status":"enemy"
+   },
+   "UWc":{
+      "status":"enemy"
+   },
+   "T0ADS":{
+      "status":"enemy"
+   },
+   "TOADS":{
+      "status":"enemy"
+   },
+   "T4":{
+      "status":"enemy"
+   },
+   "T4_ES":{
+      "status":"enemy"
+   },
+   "Takis":{
+      "status":"enemy"
+   },
+   "TCK":{
+      "status":"enemy"
+   },
+   "TERMI":{
+      "status":"enemy"
+   },
+   "TG1":{
+      "status":"enemy"
+   },
+   "TGK":{
+      "status":"enemy"
+   },
+   "The9L":{
+      "status":"enemy"
+   },
+   "T-Hs":{
+      "status":"enemy"
+   },
+   "TINKW":{
+      "status":"enemy"
+   },
+   "T-J-F":{
+      "status":"enemy"
+   },
+   "Total":{
+      "status":"enemy"
+   },
+   "TROLL":{
+      "status":"enemy"
+   },
+   "TRRKS":{
+      "status":"enemy"
+   },
+   "TS-Fr":{
+      "status":"enemy"
+   },
+   "TSSUF":{
+      "status":"enemy"
+   },
+   "S04GE":{
+      "status":"enemy"
+   },
+   "S0S":{
+      "status":"enemy"
+   },
+   "S_121":{
+      "status":"enemy"
+   },
+   "S-44":{
+      "status":"enemy"
+   },
+   "_SA_":{
+      "status":"enemy"
+   },
+   "SALTY":{
+      "status":"enemy"
+   },
+   "SC":{
+      "status":"enemy"
+   },
+   "SC-77":{
+      "status":"enemy"
+   },
+   "S-C-K":{
+      "status":"enemy"
+   },
+   "S-C-M":{
+      "status":"enemy"
+   },
+   "SCM-1":{
+      "status":"enemy"
+   },
+   "scmBH":{
+      "status":"enemy"
+   },
+   "SDD1":{
+      "status":"enemy"
+   },
+   "SEC62":{
+      "status":"enemy"
+   },
+   "seek":{
+      "status":"enemy"
+   },
+   "SES50":{
+      "status":"enemy"
+   },
+   "SFAR":{
+      "status":"enemy"
+   },
+   "SFP":{
+      "status":"enemy"
+   },
+   "SILLY":{
+      "status":"enemy"
+   },
+   "SK":{
+      "status":"enemy"
+   },
+   "S-K-B":{
+      "status":"enemy"
+   },
+   "SLE50":{
+      "status":"enemy"
+   },
+   "SMAKU":{
+      "status":"enemy"
+   },
+   "SOLOL":{
+      "status":"enemy"
+   },
+   "SOOOO":{
+      "status":"enemy"
+   },
+   "SP---":{
+      "status":"enemy"
+   },
+   "SPORK":{
+      "status":"enemy"
+   },
+   "S-PUA":{
+      "status":"enemy"
+   },
+   "S-S-C":{
+      "status":"enemy"
+   },
+   "SS-LW":{
+      "status":"enemy"
+   },
+   "SS-ST":{
+      "status":"enemy"
+   },
+   "SS-TA":{
+      "status":"enemy"
+   },
+   "STFUP":{
+      "status":"enemy"
+   },
+   "Sven":{
+      "status":"enemy"
+   },
+   "S__W":{
+      "status":"enemy"
+   },
+   "SWB-R":{
+      "status":"enemy"
+   },
+   "SWS":{
+      "status":"enemy"
+   },
+   "SWSEG":{
+      "status":"enemy"
+   },
+   "SWS-G":{
+      "status":"enemy"
+   },
+   "SYC":{
+      "status":"enemy"
+   },
+   "SYC-r":{
+      "status":"enemy"
+   },
+   "R0WDY":{
+      "status":"enemy"
+   },
+   "rowdy":{
+      "status":"enemy"
+   },
+   "RCJ":{
+      "status":"enemy"
+   },
+   "RC-S":{
+      "status":"enemy"
+   },
+   "RED1":{
+      "status":"enemy"
+   },
+   "REDl":{
+      "status":"enemy"
+   },
+   "RED-L":{
+      "status":"enemy"
+   },
+   "RED-1":{
+      "status":"enemy"
+   },
+   "REGUL":{
+      "status":"enemy"
+   },
+   "RESRV":{
+      "status":"enemy"
+   },
+   "-REV-":{
+      "status":"enemy"
+   },
+   "REY":{
+      "status":"enemy"
+   },
+   "RLOAD":{
+      "status":"enemy"
+   },
+   "RGOM":{
+      "status":"enemy"
+   },
+   "RN-EF":{
+      "status":"enemy"
+   },
+   "-RNGD":{
+      "status":"enemy"
+   },
+   "RNGDx":{
+      "status":"enemy"
+   },
+   "RO_BC":{
+      "status":"enemy"
+   },
+   "rockrrockr":{
+      "status":"enemy"
+   },
+   "R-O-D":{
+      "status":"enemy"
+   },
+   "RoDac":{
+      "status":"enemy"
+   },
+   "RO--e":{
+      "status":"enemy"
+   },
+   "ROE":{
+      "status":"enemy"
+   },
+   "RoOld":{
+      "status":"enemy"
+   },
+   "ROT":{
+      "status":"enemy"
+   },
+   "RoTD":{
+      "status":"enemy"
+   },
+   "ROUGH":{
+      "status":"enemy"
+   },
+   "_RSF_":{
+      "status":"enemy"
+   },
+   "R-U-D":{
+      "status":"enemy"
+   },
+   "RUD-R":{
+      "status":"enemy"
+   },
+   "RUF":{
+      "status":"enemy"
+   },
+   "RUFF":{
+      "status":"enemy"
+   },
+   "RUSH":{
+      "status":"enemy"
+   },
+   "Quiet":{
+      "status":"enemy"
+   },
+   "WCFU":{
+      "status":"enemy"
+   },
+   "WK-76":{
+      "status":"enemy",
+      "note":"135"
+   },
+   "SWB":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "SPWN":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "VAN":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "WORMS":{
+      "status":"enemy",
+      "note":"was allied - clarify who they are and where"
+   },
+   "WRRS":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "T4YI":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "UFL-X":{
+      "status":"enemy",
+      "note":"clarify who they are with"
+   },
+   "ST501":{
+      "status":"enemy"
+   },
+   "WCT_":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "ROWDI":{
+      "status":"enemy"
+   },
+   "TECC":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "SLAYS":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "SNS":{
+      "status":"enemy"
+   },
+   "UFL":{
+      "status":"enemy",
+      "note":"clarify who they are with"
+   },
+   "SFR-Y":{
+      "status":"enemy",
+      "note":"was listed allied - clarify who and where they are"
+   },
+   "_FFF-":{
+      "status":"allied"
+   },
+   "LUXE":{
+      "status":"allied"
+   },
+   "Socks":{
+      "status":"allied"
+   },
+   "FFF19":{
+      "status":"allied"
+   },
+   "19FFF":{
+      "status":"allied"
+   },
+   "NCTI":{
+      "status":"allied"
+   },
+   "4PSF":{
+      "status":"allied"
+   },
+   "TP_AU":{
+      "status":"allied"
+   },
+   "PUSH":{
+      "status":"enemy"
+   },
+   "GAM":{
+      "status":"enemy"
+   },
+   "LNCE":{
+      "status":"enemy"
+   },
+   "-ACS-":{
+      "status":"enemy"
+   },
+   "_AWs_":{
+      "status":"allied"
+   },
+   "-198-":{
+      "status":"allied"
+   },
+   "USE":{
+      "status":"allied"
+   },
+   "UIF":{
+      "status":"allied"
+   },
+   "_SOS":{
+      "status":"allied"
+   },
+   "SOS_":{
+      "status":"allied"
+   },
+   "SOS_-":{
+      "status":"allied"
+   },
+   "-_SOS":{
+      "status":"allied"
+   },
+   "Old24":{
+      "status":"allied"
+   },
+   "Preus":{
+      "status":"allied"
+   },
+   "S---W":{
+      "status":"allied"
+   },
+   "GRWwp":{
+      "status":"allied"
+   },
+   "TMO":{
+      "status":"enemy"
+   },
+   "UAO":{
+      "status":"enemy"
+   },
+   "_PVP_":{
+      "status":"enemy"
+   },
+   "-FFF_":{
+      "status":"allied"
+   },
+   "TF7":{
+      "status":"allied"
+   },
+   "JHO":{
+      "status":"allied"
+   },
+   "jak25":{
+      "status":"allied"
+   },
+   "Balz":{
+      "status":"allied"
+   },
+   "Kyle":{
+      "status":"allied"
+   },
+   "_TA_":{
+      "status":"allied"
+   },
+   "S-HOG":{
+      "status":"enemy"
+   },
+   "_FAB_":{
+      "status":"enemy"
+   },
+   "_NV_":{
+      "status":"enemy"
+   },
+   "-DX-":{
+      "status":"enemy"
+   },
+   "-DOGZ-":{
+      "status":"enemy"
+   },
+   "-F-K-":{
+      "status":"enemy"
+   },
+   "-FAB-":{
+      "status":"enemy"
+   }
 }

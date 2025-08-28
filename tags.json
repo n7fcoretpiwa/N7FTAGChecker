@@ -5067,6 +5067,9 @@
    "_NV_":{
       "status":"enemy"
    },
+   "Gurp":{
+      "status":"allied"
+   },
    "-DX-":{
       "status":"enemy"
    },

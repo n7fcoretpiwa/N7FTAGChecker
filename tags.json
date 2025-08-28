@@ -5079,6 +5079,9 @@
    "-F-K-":{
       "status":"enemy"
    },
+   "sec100gurp":{
+      "status":"KT ALLIED"
+   },
    "-FAB-":{
       "status":"enemy"
    }

@@ -396,7 +396,7 @@
       "status":"allied"
    },
    "-BMF-":{
-      "status":"enemy"
+      "status":"Ceasefire"
    },
    "NT FU":{
       "status":"allied"
@@ -4057,7 +4057,7 @@
       "status":"enemy"
    },
    "PRKS":{
-      "status":"enemy"
+      "status":"allied"
    },
    "-GER-":{
       "status":"enemy"
@@ -5081,6 +5081,9 @@
    },
    "sec100gurp":{
       "status":"KT ALLIED"
+   },
+   "AK":{
+      "status":"ALLIED"
    },
    "-FAB-":{
       "status":"enemy"

@@ -5026,7 +5026,7 @@
       "status":"allied"
    },
    "TMO":{
-      "status":"enemy"
+      "status":"Ceasefire"
    },
    "UAO":{
       "status":"enemy"
@@ -5084,6 +5084,19 @@
    },
    "AK":{
       "status":"allied"
+   },
+   "ICE":{
+      "status":"allied"
+   },
+   "-UB-":{
+      "status":"allied"
+   },
+   "SEEK":{
+      "status":"allied"
+   },
+   "PhnxR":{
+      "status":"allied"
+      "note":"PROMO IWA ALLIANCE LEADER"
    },
    "-FAB-":{
       "status":"enemy"

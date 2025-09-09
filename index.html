@@ -94,7 +94,6 @@
       .input-row { grid-template-columns: 1fr; }
       .grid-2 { grid-template-columns: 1fr; }
     }
-      /* Hide the small top label like TAG "KT" or SECTOR 7 */
     .result .label{ display:none !important; }
   .topbar .row { grid-column: 3; justify-self: end; }
   .legend-item:nth-child(1) span { color: #ff6b6b; }
@@ -162,16 +161,13 @@
   </div>
 
   <script>
-    // === Config =============================================================
     const SECTOR_MIN = 1, SECTOR_MAX = 200;
     const STORAGE_KEY = 'n7fDB:v2';
     const API_BASE = 'https://n7-ebb7bebrh3d5afd2.canadacentral-01.azurewebsites.net';
     const TAGS_URL = API_BASE + '/tags.json';
 
-    // === In-memory DB (normalized) =========================================
     let db = { tags: {}, sectors: {} };
 
-    // === Helpers ============================================================
     const allowedStatuses = new Set(['allied','enemy','ceasefire','neutral','unlisted']);
     function normalizeStatus(s){ if(!s) return 'unlisted'; const v=String(s).trim().toLowerCase(); if(v==='ally') return 'allied'; if(v==='cease fire') return 'ceasefire'; return allowedStatuses.has(v)?v:'unlisted'; }
 
@@ -249,8 +245,8 @@
         <div class="panel">
           <h3>Admin Login</h3>
           <div class="grid-1">
-            <div class="field"><label>ID</label><input id="loginId" autocomplete="username" placeholder="Enter admin ID"/></div>
-            <div class="field"><label>Password</label><input type="password" id="loginPass" autocomplete="current-password" placeholder="Enter password"/></div>
+            <div class="field"><label>ID</label><input id="loginId" autocomplete="username" placeholder="ID"/></div>
+            <div class="field"><label>Password</label><input type="password" id="loginPass" autocomplete="current-password" placeholder="password"/></div>
           </div>
           <div class="row" style="margin-top:.5rem"><button id="loginBtn">Login</button></div>
         </div>`;

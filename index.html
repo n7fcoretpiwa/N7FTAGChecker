@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>N7F-CORE-TP-IWA</title>
+  <title>N7F-CORE-TP-IWA — Tag & Sector Checker</title>
   <style>
     :root {
       --primary-color: #005288;
@@ -13,150 +13,54 @@
       --neutral-color: #607d8b;
       --dark-bg: #0a192f;
       --light-text: #e6f1ff;
+      --panel: rgba(255,255,255,0.06);
+      --border: rgba(230, 241, 255, 0.12);
     }
+
+    * { box-sizing: border-box; }
 
     body {
       font-family: 'Courier New', monospace;
-      margin: 0;
-      padding: 0;
+      margin: 0; padding: 0;
       background-color: var(--dark-bg);
       color: var(--light-text);
-      background-image: linear-gradient(rgba(10, 25, 47, 0.9), rgba(10, 25, 47, 0.9)),
-                        url('assets/N7F-IMAGE.jpg');
-      background-size: cover;
-      background-attachment: fixed;
-      background-position: center;
+      background-image: linear-gradient(rgba(10, 25, 47, 0.93), rgba(10, 25, 47, 0.93)), url('assets/N7F-IMAGE.jpg');
+      background-size: cover; background-attachment: fixed; background-position: center;
       min-height: 100vh;
-      box-sizing: border-box;
     }
 
-    .container {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 1.5rem;
-      position: relative;
-      z-index: 1;
-    }
+    .container { max-width: 960px; margin: 40px auto; padding: 1.2rem; }
 
-    .logo {
-      text-align: center;
-      margin-bottom: 0.8rem;
-    }
+    .topbar { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1rem; margin-bottom: 0.8rem; }
 
-    .logo-text {
-      font-size: 1.8rem;
-      font-weight: bold;
-      color: var(--secondary-color);
-      letter-spacing: 3px;
-      text-shadow: 0 0 10px rgba(58, 124, 165, 0.5);
-    }
+    .brand { display: flex; flex-direction: column; align-items: center; justify-self: center; grid-column: 2; gap: 0.15rem; text-align: center; }
+    .brand .logo-text { font-size: 1.6rem; font-weight: 800; letter-spacing: 3px; color: var(--secondary-color); text-shadow: 0 0 10px rgba(58, 124, 165, 0.5);}    
+    .brand .logo-subtext { color: var(--neutral-color); letter-spacing: 1px; text-align: center; }
 
-    .logo-subtext {
-      font-size: 1.1rem;
-      color: var(--neutral-color);
-      letter-spacing: 1px;
-    }
+    .legend { display: flex; flex-wrap: wrap; gap: 0.9rem; padding: .6rem; border: none; border-radius: 8px; background: transparent; justify-content: center; }
+    .legend-item { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; text-align: center; }
+    .legend-color { width: 18px; height: 18px; border-radius: 2px; border: 1px solid var(--secondary-color); }
 
-    h1 {
-      text-align: center;
-      margin-bottom: 1.5rem;
-      color: var(--light-text);
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      font-size: 1.5rem;
-    }
+    .panel { border: none; border-radius: 10px; background: transparent; padding: 1rem; }
+/* Keep panel look only for Operations Manual */
+.instructions.panel { border: 1px solid var(--border); background: var(--panel); }
 
-    h1::after {
-      content: "";
-      display: block;
-      width: 100px;
-      height: 3px;
-      background: var(--secondary-color);
-      margin: 8px auto;
+    .input-row { display: grid; grid-template-columns: 1fr auto; gap: .75rem; margin: 1rem 0 1.2rem; }
+    input[type="text"], input[type="password"], input[type="search"], input[type="number"] {
+      width: 100%; padding: .85rem 1rem; border-radius: 10px; border: 1px solid var(--border);
+      background: rgba(255,255,255,0.08); color: var(--light-text); font-size: 1rem;
     }
+    input[type="text"]:focus, input[type="password"]:focus { outline: none; border-color: var(--secondary-color); box-shadow: 0 0 10px rgba(58,124,165,0.5); }
 
-    .legend {
-      display: flex;
-      justify-content: center;
-      gap: 1.2rem;
-      margin: 1rem 0;
-      flex-wrap: wrap;
-    }
+    button { padding: .8rem 1.15rem; background: var(--primary-color); color: var(--light-text); border: 1px solid var(--secondary-color); border-radius: 10px; font-size: .95rem; letter-spacing: .5px; cursor: pointer; transition: .25s ease; }
+    button:hover { background: var(--secondary-color); box-shadow: 0 0 14px rgba(58,124,165,0.5); }
+    .btn-ghost { background: transparent; border-color: var(--border); }
 
-    .legend-item {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      font-size: 0.9rem;
-    }
-
-    .legend-color {
-      width: 18px;
-      height: 18px;
-      border-radius: 2px;
-      border: 1px solid var(--secondary-color);
-    }
-
-    .input-container {
-      display: flex;
-      gap: 1rem;
-      margin-bottom: 1.8rem;
-    }
-
-    input {
-      flex: 1;
-      padding: 0.7rem;
-      background-color: rgba(255, 255, 255, 0.1);
-      border: 1px solid var(--secondary-color);
-      border-radius: 4px;
-      font-size: 1rem;
-      color: var(--light-text);
-      font-family: 'Courier New', monospace;
-    }
-
-    input:focus {
-      outline: none;
-      border-color: var(--secondary-color);
-      box-shadow: 0 0 10px rgba(58, 124, 165, 0.5);
-    }
-
-    button {
-      padding: 0.7rem 1.3rem;
-      background-color: var(--primary-color);
-      color: var(--light-text);
-      border: 1px solid var(--secondary-color);
-      border-radius: 4px;
-      font-size: 0.95rem;
-      font-family: 'Courier New', monospace;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      cursor: pointer;
-      transition: all 0.3s ease;
-    }
-
-    button:hover {
-      background-color: var(--secondary-color);
-      box-shadow: 0 0 15px rgba(58, 124, 165, 0.5);
-    }
-
-    .results {
-      margin-top: 1rem;
-      padding: 0.8rem 1rem;
-      text-align: center;
-    }
-
-    .tag-status {
-      display: inline-block;
-      width: 100%;
-      padding: 0.5rem 1rem;
-      margin: 0.2rem 0;
-      border-radius: 4px;
-      font-weight: bold;
-      font-family: 'Courier New', monospace;
-      text-transform: uppercase;
-      font-size: 28px;
-      text-align: center;
-    }
+    .results { margin-top: .6rem; display: flex; flex-direction: column; align-items: center; }
+    .result { width: min(780px, 100%); border: none; border-radius: 10px; padding: .85rem 1rem; margin: .5rem auto; background: transparent; }
+    .result .label { font-size: .82rem; color: var(--neutral-color); margin-bottom: .2rem; text-transform: uppercase; letter-spacing: 1px; }
+    .result .value { font-weight: 800; letter-spacing: 1px; font-size: 28px; text-align: center; }
+    .note { margin-top: .35rem; font-size: .85rem; color: rgba(255,255,255,.8); font-style: italic; text-align: center; }
 
     .enemy { color: #ff6b6b; }
     .allied, .ally { color: #81c784; }
@@ -164,226 +68,268 @@
     .neutral { color: #b0bec5; }
     .unlisted { color: #1d93a7; }
 
-    .tag-note {
-      margin-top: -0.4rem;
-      margin-bottom: 0.6rem;
-      font-size: 0.8rem;
-      color: rgba(255, 255, 255, 0.7);
-      font-style: italic;
-    }
+    .instructions { margin-top: 2rem; }
+    .instructions h3 { margin: .2rem 0 .6rem; }
+    ul { margin: .2rem 0 .2rem 1.2rem; }
 
-    .instructions {
-      margin-top: 1.8rem;
-      padding: 0.9rem 1rem;
-      border: 1px solid var(--secondary-color);
-      border-radius: 4px;
-      font-size: 0.9rem;
-    }
+    .center-logo { text-align: center; margin-top: 1.2rem; }
+    .center-logo img { width: 432px; max-width: 95%; border-radius: 12px; }
 
-    .instructions h3 {
-      margin-top: 0;
-      margin-bottom: 0.6rem;
-      font-size: 1.1rem;
-    }
+    /* Admin Modal */
+    .modal { position: fixed; inset: 0; display: none; align-items: center; justify-content: center; background: rgba(0,0,0,.55); backdrop-filter: blur(2px); z-index: 50; }
+    .modal.open { display: flex; }
+    .modal-card { width: min(980px, 96vw); max-height: 92vh; overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: #0b1d39; box-shadow: 0 20px 60px rgba(0,0,0,.5); }
+    .modal-head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .9rem 1rem; border-bottom: 1px solid var(--border); position: sticky; top: 0; background: #0b1d39; z-index: 5; }
+    .modal-body { padding: 1rem; display: grid; gap: 1rem; }
 
-    ul {
-      margin: 0.5rem 0;
-      padding-left: 1.3rem;
-    }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .grid-1 { display: grid; grid-template-columns: 1fr; gap: .8rem; }
+    .field { display: grid; gap: .35rem; }
+    .field label { font-size: .85rem; color: var(--neutral-color); }
+    .muted { color: var(--neutral-color); font-size: .9rem; }
+    .small { font-size: .8rem; }
+    .row { display: flex; gap: .6rem; flex-wrap: wrap; }
 
-    /* Centered Logo - Hidden on Mobile */
-    .center-logo {
-      text-align: center;
-      margin: 1.2rem 0 0.4rem 0;
+    @media (max-width: 800px) {
+      .input-row { grid-template-columns: 1fr; }
+      .grid-2 { grid-template-columns: 1fr; }
     }
-
-    .center-logo img {
-      width: 432px;
-      height: auto;
-      border-radius: 12px;
-    }
-
-    @media (max-width: 768px) {
-      .center-logo {
-        display: none !important;
-      }
-      .container {
-        margin: 20px auto;
-        padding: 1rem;
-      }
-      .input-container {
-        flex-direction: column;
-      }
-      button {
-        width: 100%;
-      }
-      .legend {
-        gap: 0.8rem;
-      }
-      .legend-item {
-        font-size: 0.8rem;
-      }
-      .legend-color {
-        width: 16px;
-        height: 16px;
-      }
-    }
-
-    @media (max-height: 900px), (max-width: 480px) {
-      .container {
-        margin-top: 20px;
-        padding: 0.8rem;
-      }
-      .logo-text {
-        font-size: 1.6rem;
-      }
-      .tag-status {
-        font-size: 24px;
-      }
-    }
+      /* Hide the small top label like TAG "KT" or SECTOR 7 */
+    .result .label{ display:none !important; }
+  .topbar .row { grid-column: 3; justify-self: end; }
+  .legend-item:nth-child(1) span { color: #ff6b6b; }
+.legend-item:nth-child(2) span { color: #81c784; }
+.legend-item:nth-child(3) span { color: #ffa726; }
+.legend-item:nth-child(4) span { color: #b0bec5; }
+.legend-item:nth-child(5) span { color: #1d93a7; }
   </style>
 </head>
 <body>
-
   <div class="container">
-    <div class="logo">
-      <div class="logo-text">N7F-CORE-TP-IWA</div>
-      <div class="logo-subtext">N7F TAG CHECKER</div>
+    <div class="topbar">
+      <div class="brand">
+        <div class="logo-text">N7F-CORE-TP-IWA</div>
+        <div class="logo-subtext">Tag & Sector Checker</div>
+      </div>
+      <div class="row">
+        <!-- Counter removed by request -->
+        <button class="btn-ghost" id="openAdmin">Admin</button>
+      </div>
     </div>
 
-    <!-- Legend -->
     <div class="legend">
-      <div class="legend-item">
-        <div class="legend-color" style="background-color: #ff6b6b;"></div>
-        <span>Enemy</span>
-      </div>
-      <div class="legend-item">
-        <div class="legend-color" style="background-color: #81c784;"></div>
-        <span>Allied</span>
-      </div>
-      <div class="legend-item">
-        <div class="legend-color" style="background-color: #ffa726;"></div>
-        <span>Ceasefire</span>
-      </div>
-      <div class="legend-item">
-        <div class="legend-color" style="background-color: #b0bec5;"></div>
-        <span>Neutral</span>
-      </div>
-      <div class="legend-item">
-        <div class="legend-color" style="background-color: #1d93a7;"></div>
-        <span>Unlisted</span>
-      </div>
+      <div class="legend-item"><div class="legend-color" style="background-color:#ff6b6b"></div><span>Enemy</span></div>
+      <div class="legend-item"><div class="legend-color" style="background-color:#81c784"></div><span>Allied</span></div>
+      <div class="legend-item"><div class="legend-color" style="background-color:#ffa726"></div><span>Ceasefire</span></div>
+      <div class="legend-item"><div class="legend-color" style="background-color:#b0bec5"></div><span>Neutral</span></div>
+      <div class="legend-item"><div class="legend-color" style="background-color:#1d93a7"></div><span>Unlisted</span></div>
     </div>
 
-    <!-- Input Section -->
-    <div class="input-container">
-      <input type="text" id="tagInput" placeholder="Enter tag / sector" autocomplete="off" />
-      <button onclick="checkTags()">Search</button>
+    <div class="panel">
+      <div class="input-row">
+        <input type="text" id="tagInput" placeholder="Enter tag / sector " autocomplete="off"/>
+        <button id="searchBtn">Search</button>
+      </div>
+      <div id="results" class="results"></div>
     </div>
 
-    <!-- Results -->
-    <div id="results" class="results"></div>
-
-    <!-- Instructions -->
-    <div class="instructions">
-      <h3>OPERATIONS MANUAL:</h3>
+    <div class="instructions panel">
+      <h3>OPERATIONS MANUAL</h3>
       <ul>
-        <li><strong>Enemy</strong>    - Free to hit</li>
-        <li><strong>Neutral</strong>  - Neither Enemy Nor Friend</li>
-        <li><strong>Allied</strong>   - Verified Alliance TAG</li>
-        <li><strong>Unlisted</strong> - Not in Database</li>
+        <li><strong>Enemy</strong> – Free to hit</li>
+        <li><strong>Neutral</strong> – Neither Enemy Nor Friend</li>
+        <li><strong>Allied</strong> – Verified Alliance TAG</li>
+        <li><strong>Unlisted</strong> – Not in Database</li>
       </ul>
+      <!-- Removed the extra comment under the manual as requested -->
     </div>
 
-    <!-- Logo Below Instructions -->
-    <div class="center-logo">
-      <img src="assets/logo-small.png" alt="N7F Logo" />
+    <div class="center-logo"><img src="assets/logo-small.png" alt="N7F Logo" onerror="this.src='assets/N7F-IMAGE.jpg'"/></div>
+  </div>
+
+  <!-- Admin Modal -->
+  <div class="modal" id="adminModal" aria-hidden="true">
+    <div class="modal-card">
+      <div class="modal-head">
+        <div><strong>Admin</strong> <span class="muted small">Checker Editor</span></div>
+        <div class="row">
+          <button class="btn-ghost" id="logoutBtn" title="Clear admin session">Log out</button>
+          <button class="btn-ghost" id="closeAdmin">Close</button>
+        </div>
+      </div>
+      <div class="modal-body" id="adminBody"></div>
     </div>
   </div>
 
-  <!-- Script -->
   <script>
-    let n7fDatabase = {};
+    // === Config =============================================================
+    const SECTOR_MIN = 1, SECTOR_MAX = 200;
+    const STORAGE_KEY = 'n7fDB:v2';
+    const API_BASE = 'https://n7-ebb7bebrh3d5afd2.canadacentral-01.azurewebsites.net';
+    const TAGS_URL = API_BASE + '/tags.json';
 
-    // Load external JSON on page load
-    async function loadDatabase() {
-      try {
-        const response = await fetch('tags.json');
-        if (!response.ok) throw new Error('Failed to load tags.json');
-        const data = await response.json();
-        // ✅ Store keys EXACTLY as written in JSON (case-sensitive)
-        n7fDatabase = data;
-      } catch (error) {
-        console.error("Error loading database:", error);
-        document.getElementById('results').innerHTML = 
-          '<p style="color: var(--alert-color);">NO TAG INPUT</p>';
+    // === In-memory DB (normalized) =========================================
+    let db = { tags: {}, sectors: {} };
+
+    // === Helpers ============================================================
+    const allowedStatuses = new Set(['allied','enemy','ceasefire','neutral','unlisted']);
+    function normalizeStatus(s){ if(!s) return 'unlisted'; const v=String(s).trim().toLowerCase(); if(v==='ally') return 'allied'; if(v==='cease fire') return 'ceasefire'; return allowedStatuses.has(v)?v:'unlisted'; }
+
+    function setCounts(){ const el=document.getElementById('counts'); if(!el) return; const tagCount=Object.keys(db.tags||{}).length; const sectorCount=Object.keys(db.sectors||{}).length; el.textContent=`${tagCount} tags • ${sectorCount} sectors in memory`; }
+
+    function transformToV2(raw){
+      const out = { tags: {}, sectors: {} };
+      if(raw && typeof raw==='object' && (raw.tags || raw.sectors)){
+        if(raw.tags) for(const [k,v] of Object.entries(raw.tags)) out.tags[k] = { status: normalizeStatus(v.status), note: v.note ?? undefined };
+        if(raw.sectors) for(const [k,v] of Object.entries(raw.sectors)){ const n=parseInt(k,10); if(Number.isInteger(n)&&n>=SECTOR_MIN&&n<=SECTOR_MAX) out.sectors[String(n)]={ status: normalizeStatus(v.status), note: v.note ?? undefined }; }
+      } else if (raw && typeof raw==='object') {
+        for(const [k,v] of Object.entries(raw)){
+          const entry = { status: normalizeStatus(v.status), note: v.note ?? undefined };
+          out.tags[k]=entry; const n=parseInt(k,10); if(String(n)===k && n>=SECTOR_MIN && n<=SECTOR_MAX) out.sectors[k]=entry;
+        }
       }
+      return out;
     }
 
-    function checkTags() {
-      const input = document.getElementById('tagInput').value.trim();
-      const resultsDiv = document.getElementById('results');
-      resultsDiv.innerHTML = '';
+    async function loadDB(){
+      try { const res = await fetch(TAGS_URL, { cache:'no-store', mode:'cors' }); if(!res.ok) throw new Error('Failed to load tags.json'); const raw = await res.json(); db = transformToV2(raw); setCounts(); }
+      catch(e){ console.error('loadDB:', e); db = { tags:{}, sectors:{} }; setCounts(); }
+    }
 
-      if (!input) {
-        resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INPUT REQUIRED</p>';
-        return;
-      }
+    // === Search =============================================================
+    function tokenize(input){ return input.split(',').map(s=>s.trim()).filter(Boolean); }
+    function parseSectorToken(tok){ const m1 = tok.match(/^\d{1,3}$/); if(m1){ const n=+m1[0]; if(n>=SECTOR_MIN && n<=SECTOR_MAX) return n; } const m2 = tok.match(/^(?:sec|sector)[^\d]*?(\d{1,3})$/i); if(m2){ const n=+m2[1]; if(n>=SECTOR_MIN && n<=SECTOR_MAX) return n; } return null; }
+    function getSector(num){ return db.sectors[String(num)] || { status:'unlisted' }; }
+    function getTag(tag){ return db.tags[tag] || { status:'unlisted' }; }
 
-      const tags = input.split(',')
-                       .map(tag => tag.trim())
-                       .filter(tag => tag);
+    function makeResult({label,status,note}){
+      const wrap=document.createElement('div'); wrap.className='result';
+      const lab=document.createElement('div'); lab.className='label'; lab.textContent=label;
+      const val=document.createElement('div'); val.className=`value ${status}`; val.textContent=status.toUpperCase();
+      wrap.append(lab,val); if(note){ const n=document.createElement('div'); n.className='note'; n.textContent=note; wrap.appendChild(n); }
+      return wrap;
+    }
 
-      if (tags.length === 0) {
-        resultsDiv.innerHTML = '<p style="color: var(--neutral-color);">INVALID INPUT FORMAT</p>';
-        return;
-      }
+    function search(){
+      const resultsDiv=document.getElementById('results'); resultsDiv.innerHTML='';
+      const input=document.getElementById('tagInput').value.trim();
+      if(!input){ resultsDiv.innerHTML='<div class="muted">INPUT REQUIRED</div>'; return; }
+      const tokens=tokenize(input); const frag=document.createDocumentFragment();
 
-      const fragment = document.createDocumentFragment();
-      tags.forEach(tag => {
-        // ✅ Case-Sensitive Lookup: No .toLowerCase()
-        const entry = n7fDatabase[tag];
-
-        let status = 'unlisted';
-        let note = null;
-
-        if (entry) {
-          status = entry.status;
-          note = entry.note || null;
-        }
-
-        // ✅ Show ONLY the status (e.g., "ENEMY")
-        const div = document.createElement('div');
-        div.className = `tag-status ${status}`;
-        div.textContent = status.toUpperCase();
-        fragment.appendChild(div);
-
-        if (note) {
-          const noteEl = document.createElement('div');
-          noteEl.className = 'tag-note';
-          noteEl.textContent = note;
-          fragment.appendChild(noteEl);
+      tokens.forEach(tok=>{
+        const secNum=parseSectorToken(tok);
+        if(secNum!==null){
+          const sEntry=getSector(secNum);
+          frag.appendChild(makeResult({ label:`SECTOR ${secNum}`, status:sEntry.status, note:sEntry.note }));
+          if(db.tags[String(secNum)]){ const tEntry=getTag(String(secNum)); frag.appendChild(makeResult({ label:`TAG "${secNum}"`, status:tEntry.status, note:tEntry.note })); }
         } else {
-          const br = document.createElement('br');
-          fragment.appendChild(br);
+          const tEntry=getTag(tok);
+          frag.appendChild(makeResult({ label:`TAG "${tok}"`, status:tEntry.status, note:tEntry.note }));
+          const maybeNum=parseInt(tok,10);
+          if(String(maybeNum)===tok && maybeNum>=SECTOR_MIN && maybeNum<=SECTOR_MAX){ const sEntry=getSector(maybeNum); frag.appendChild(makeResult({ label:`SECTOR ${maybeNum}`, status:sEntry.status, note:sEntry.note })); }
         }
       });
-      resultsDiv.appendChild(fragment);
-      resultsDiv.scrollIntoView({ behavior: 'smooth' });
+
+      resultsDiv.appendChild(frag);
+      resultsDiv.scrollIntoView({ behavior:'smooth', block:'start' });
       document.getElementById('tagInput').focus();
     }
 
-    // Support Enter key
-    document.getElementById('tagInput').addEventListener('keypress', e => {
-      if (e.key === 'Enter') checkTags();
-    });
+    // === Admin (server-verified, add-only/override server) =================
+    const adminModal = document.getElementById('adminModal');
+    const adminBody  = document.getElementById('adminBody');
 
-    // Load DB and focus on load
-    window.addEventListener('DOMContentLoaded', async () => {
-      await loadDatabase();
-      document.getElementById('tagInput').focus();
-    });
+    function openAdmin(){ adminModal.classList.add('open'); renderAdmin(); }
+    function closeAdmin(){ adminModal.classList.remove('open'); }
+
+    function renderAdmin(){ if (!sessionStorage.getItem('n7fAdminToken')) { renderLogin(); return; } renderAdminPanel(); }
+
+    function renderLogin(){
+      adminBody.innerHTML = `
+        <div class="panel">
+          <h3>Admin Login</h3>
+          <div class="grid-1">
+            <div class="field"><label>ID</label><input id="loginId" autocomplete="username" placeholder="Enter admin ID"/></div>
+            <div class="field"><label>Password</label><input type="password" id="loginPass" autocomplete="current-password" placeholder="Enter password"/></div>
+          </div>
+          <div class="row" style="margin-top:.5rem"><button id="loginBtn">Login</button></div>
+        </div>`;
+      document.getElementById('loginBtn').onclick = async () => {
+        const id = document.getElementById('loginId').value.trim();
+        const password = document.getElementById('loginPass').value;
+        try {
+          const r = await fetch(API_BASE + '/api/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ id, password }), mode: 'cors' });
+          if (!r.ok) throw new Error('Login failed');
+          const j = await r.json();
+          sessionStorage.setItem('n7fAdminToken', j.token || 'yes');
+          renderAdminPanel();
+        } catch (e) { alert('Invalid credentials or server unreachable'); }
+      };
+    }
+
+    function renderAdminPanel(){
+      const token = sessionStorage.getItem('n7fAdminToken');
+      adminBody.innerHTML = `
+        <div class="grid-2">
+          <div class="panel">
+            <h3>Add / Override Tags</h3>
+            <div class="grid-2">
+              <div class="field"><label>TAG Name (case-sensitive)</label><input id="addKey" placeholder="e.g., KT or N7F"/></div>
+              <div class="field"><label>Status</label>
+                <select id="addStatus">
+                  <option>allied</option>
+                  <option>enemy</option>
+                  <option>ceasefire</option>
+                  <option>neutral</option>
+                  <option>unlisted</option>
+                </select>
+              </div>
+            </div>
+            <div class="field"><label>Note (optional)</label><input id="addNote" placeholder="Any note"/></div>
+            <div class="row"><button id="addBtn">Save</button></div>
+          </div>
+
+          <div class="panel">
+            <h3>Reload / Export</h3>
+            <div class="row">
+              <button id="reloadBtn">Reload From Server</button>
+              <button id="exportBtn">Export (local copy)</button>
+            </div>
+            <div class="muted small"></div>
+          </div>
+        </div>`;
+
+      document.getElementById('reloadBtn').onclick = async () => { await loadDB(); alert('Reloaded tags from server'); };
+      document.getElementById('exportBtn').onclick = () => {
+        const blob = new Blob([JSON.stringify(db, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a'); a.href = url; a.download = 'tags.json'; a.click(); URL.revokeObjectURL(url);
+      };
+
+      document.getElementById('addBtn').onclick = async () => {
+        const key = String(document.getElementById('addKey').value).trim();
+        const status = normalizeStatus(document.getElementById('addStatus').value);
+        const note = String(document.getElementById('addNote').value || '').trim() || undefined;
+        if (!key) return alert('Tag key required');
+        try {
+          const r = await fetch(API_BASE + '/api/tags/add', { method: 'POST', mode: 'cors', headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + token }, body: JSON.stringify({ key, status, note }) });
+          if (!r.ok) throw new Error('Server rejected');
+          await loadDB();
+          alert('Saved on server.');
+        } catch (e) { alert('Failed to save on server.'); }
+      };
+    }
+
+    // === Wire-up ============================================================
+    document.getElementById('searchBtn').addEventListener('click', search);
+    document.getElementById('tagInput').addEventListener('keypress', e => { if (e.key === 'Enter') search(); });
+
+    document.getElementById('openAdmin').addEventListener('click', openAdmin);
+    document.getElementById('closeAdmin').addEventListener('click', closeAdmin);
+    document.getElementById('logoutBtn').addEventListener('click', () => { sessionStorage.removeItem('n7fAdminToken'); renderAdmin(); });
+
+    // Load DB on first paint
+    window.addEventListener('DOMContentLoaded', async () => { await loadDB(); document.getElementById('tagInput').focus(); });
   </script>
-
 </body>
 </html>
